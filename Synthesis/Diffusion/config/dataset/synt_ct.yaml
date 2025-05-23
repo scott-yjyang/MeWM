@@ -1,0 +1,27 @@
+name: liver_tumor_train
+image_channels: 1
+fold: 0
+dataset_list: ['liver']
+data_root_path: /mnt/realccvl15/yyang303/ucsf/DiffTumor/logs/registered2/
+label_root_path: /mnt/realccvl15/yyang303/ucsf/DiffTumor/logs/registered2/
+data_txt_path: cross_eval/
+dist: False
+batch_size: 1
+num_workers: 0
+
+a_min: -175
+a_max: 600
+b_min: -1.0
+b_max: 1.0
+space_x: 1.0
+space_y: 1.0
+space_z: 1.0
+roi_x: 96
+roi_y: 96
+roi_z: 96
+num_samples: 10
+phase: train
+uniform_sample: True
+datasetkey: ['10_03']
+cache_dataset: True
+cache_rate: 1.0

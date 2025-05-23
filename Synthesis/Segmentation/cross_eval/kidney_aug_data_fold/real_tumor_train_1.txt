@@ -1,0 +1,740 @@
+05_KiTS/img/img0000.nii.gz 05_KiTS/label/label0000.nii.gz
+05_KiTS/img/img0001.nii.gz 05_KiTS/label/label0001.nii.gz
+05_KiTS/img/img0002.nii.gz 05_KiTS/label/label0002.nii.gz
+05_KiTS/img/img0003.nii.gz 05_KiTS/label/label0003.nii.gz
+05_KiTS/img/img0004.nii.gz 05_KiTS/label/label0004.nii.gz
+05_KiTS/img/img0005.nii.gz 05_KiTS/label/label0005.nii.gz
+05_KiTS/img/img0007.nii.gz 05_KiTS/label/label0007.nii.gz
+05_KiTS/img/img0008.nii.gz 05_KiTS/label/label0008.nii.gz
+05_KiTS/img/img0009.nii.gz 05_KiTS/label/label0009.nii.gz
+05_KiTS/img/img0011.nii.gz 05_KiTS/label/label0011.nii.gz
+05_KiTS/img/img0012.nii.gz 05_KiTS/label/label0012.nii.gz
+05_KiTS/img/img0013.nii.gz 05_KiTS/label/label0013.nii.gz
+05_KiTS/img/img0014.nii.gz 05_KiTS/label/label0014.nii.gz
+05_KiTS/img/img0017.nii.gz 05_KiTS/label/label0017.nii.gz
+05_KiTS/img/img0020.nii.gz 05_KiTS/label/label0020.nii.gz
+05_KiTS/img/img0021.nii.gz 05_KiTS/label/label0021.nii.gz
+05_KiTS/img/img0023.nii.gz 05_KiTS/label/label0023.nii.gz
+05_KiTS/img/img0024.nii.gz 05_KiTS/label/label0024.nii.gz
+05_KiTS/img/img0025.nii.gz 05_KiTS/label/label0025.nii.gz
+05_KiTS/img/img0026.nii.gz 05_KiTS/label/label0026.nii.gz
+05_KiTS/img/img0027.nii.gz 05_KiTS/label/label0027.nii.gz
+05_KiTS/img/img0028.nii.gz 05_KiTS/label/label0028.nii.gz
+05_KiTS/img/img0029.nii.gz 05_KiTS/label/label0029.nii.gz
+05_KiTS/img/img0032.nii.gz 05_KiTS/label/label0032.nii.gz
+05_KiTS/img/img0033.nii.gz 05_KiTS/label/label0033.nii.gz
+05_KiTS/img/img0034.nii.gz 05_KiTS/label/label0034.nii.gz
+05_KiTS/img/img0035.nii.gz 05_KiTS/label/label0035.nii.gz
+05_KiTS/img/img0036.nii.gz 05_KiTS/label/label0036.nii.gz
+05_KiTS/img/img0038.nii.gz 05_KiTS/label/label0038.nii.gz
+05_KiTS/img/img0039.nii.gz 05_KiTS/label/label0039.nii.gz
+05_KiTS/img/img0040.nii.gz 05_KiTS/label/label0040.nii.gz
+05_KiTS/img/img0041.nii.gz 05_KiTS/label/label0041.nii.gz
+05_KiTS/img/img0042.nii.gz 05_KiTS/label/label0042.nii.gz
+05_KiTS/img/img0043.nii.gz 05_KiTS/label/label0043.nii.gz
+05_KiTS/img/img0044.nii.gz 05_KiTS/label/label0044.nii.gz
+05_KiTS/img/img0045.nii.gz 05_KiTS/label/label0045.nii.gz
+05_KiTS/img/img0046.nii.gz 05_KiTS/label/label0046.nii.gz
+05_KiTS/img/img0047.nii.gz 05_KiTS/label/label0047.nii.gz
+05_KiTS/img/img0048.nii.gz 05_KiTS/label/label0048.nii.gz
+05_KiTS/img/img0049.nii.gz 05_KiTS/label/label0049.nii.gz
+05_KiTS/img/img0050.nii.gz 05_KiTS/label/label0050.nii.gz
+05_KiTS/img/img0051.nii.gz 05_KiTS/label/label0051.nii.gz
+05_KiTS/img/img0052.nii.gz 05_KiTS/label/label0052.nii.gz
+05_KiTS/img/img0053.nii.gz 05_KiTS/label/label0053.nii.gz
+05_KiTS/img/img0054.nii.gz 05_KiTS/label/label0054.nii.gz
+05_KiTS/img/img0055.nii.gz 05_KiTS/label/label0055.nii.gz
+05_KiTS/img/img0057.nii.gz 05_KiTS/label/label0057.nii.gz
+05_KiTS/img/img0058.nii.gz 05_KiTS/label/label0058.nii.gz
+05_KiTS/img/img0060.nii.gz 05_KiTS/label/label0060.nii.gz
+05_KiTS/img/img0061.nii.gz 05_KiTS/label/label0061.nii.gz
+05_KiTS/img/img0062.nii.gz 05_KiTS/label/label0062.nii.gz
+05_KiTS/img/img0063.nii.gz 05_KiTS/label/label0063.nii.gz
+05_KiTS/img/img0064.nii.gz 05_KiTS/label/label0064.nii.gz
+05_KiTS/img/img0065.nii.gz 05_KiTS/label/label0065.nii.gz
+05_KiTS/img/img0070.nii.gz 05_KiTS/label/label0070.nii.gz
+05_KiTS/img/img0071.nii.gz 05_KiTS/label/label0071.nii.gz
+05_KiTS/img/img0073.nii.gz 05_KiTS/label/label0073.nii.gz
+05_KiTS/img/img0074.nii.gz 05_KiTS/label/label0074.nii.gz
+05_KiTS/img/img0075.nii.gz 05_KiTS/label/label0075.nii.gz
+05_KiTS/img/img0076.nii.gz 05_KiTS/label/label0076.nii.gz
+05_KiTS/img/img0077.nii.gz 05_KiTS/label/label0077.nii.gz
+05_KiTS/img/img0078.nii.gz 05_KiTS/label/label0078.nii.gz
+05_KiTS/img/img0080.nii.gz 05_KiTS/label/label0080.nii.gz
+05_KiTS/img/img0081.nii.gz 05_KiTS/label/label0081.nii.gz
+05_KiTS/img/img0083.nii.gz 05_KiTS/label/label0083.nii.gz
+05_KiTS/img/img0085.nii.gz 05_KiTS/label/label0085.nii.gz
+05_KiTS/img/img0087.nii.gz 05_KiTS/label/label0087.nii.gz
+05_KiTS/img/img0088.nii.gz 05_KiTS/label/label0088.nii.gz
+05_KiTS/img/img0089.nii.gz 05_KiTS/label/label0089.nii.gz
+05_KiTS/img/img0090.nii.gz 05_KiTS/label/label0090.nii.gz
+05_KiTS/img/img0091.nii.gz 05_KiTS/label/label0091.nii.gz
+05_KiTS/img/img0092.nii.gz 05_KiTS/label/label0092.nii.gz
+05_KiTS/img/img0093.nii.gz 05_KiTS/label/label0093.nii.gz
+05_KiTS/img/img0094.nii.gz 05_KiTS/label/label0094.nii.gz
+05_KiTS/img/img0095.nii.gz 05_KiTS/label/label0095.nii.gz
+05_KiTS/img/img0097.nii.gz 05_KiTS/label/label0097.nii.gz
+05_KiTS/img/img0098.nii.gz 05_KiTS/label/label0098.nii.gz
+05_KiTS/img/img0099.nii.gz 05_KiTS/label/label0099.nii.gz
+05_KiTS/img/img0100.nii.gz 05_KiTS/label/label0100.nii.gz
+05_KiTS/img/img0102.nii.gz 05_KiTS/label/label0102.nii.gz
+05_KiTS/img/img0103.nii.gz 05_KiTS/label/label0103.nii.gz
+05_KiTS/img/img0104.nii.gz 05_KiTS/label/label0104.nii.gz
+05_KiTS/img/img0105.nii.gz 05_KiTS/label/label0105.nii.gz
+05_KiTS/img/img0106.nii.gz 05_KiTS/label/label0106.nii.gz
+05_KiTS/img/img0107.nii.gz 05_KiTS/label/label0107.nii.gz
+05_KiTS/img/img0109.nii.gz 05_KiTS/label/label0109.nii.gz
+05_KiTS/img/img0110.nii.gz 05_KiTS/label/label0110.nii.gz
+05_KiTS/img/img0111.nii.gz 05_KiTS/label/label0111.nii.gz
+05_KiTS/img/img0112.nii.gz 05_KiTS/label/label0112.nii.gz
+05_KiTS/img/img0113.nii.gz 05_KiTS/label/label0113.nii.gz
+05_KiTS/img/img0115.nii.gz 05_KiTS/label/label0115.nii.gz
+05_KiTS/img/img0117.nii.gz 05_KiTS/label/label0117.nii.gz
+05_KiTS/img/img0119.nii.gz 05_KiTS/label/label0119.nii.gz
+05_KiTS/img/img0120.nii.gz 05_KiTS/label/label0120.nii.gz
+05_KiTS/img/img0121.nii.gz 05_KiTS/label/label0121.nii.gz
+05_KiTS/img/img0122.nii.gz 05_KiTS/label/label0122.nii.gz
+05_KiTS/img/img0123.nii.gz 05_KiTS/label/label0123.nii.gz
+05_KiTS/img/img0125.nii.gz 05_KiTS/label/label0125.nii.gz
+05_KiTS/img/img0127.nii.gz 05_KiTS/label/label0127.nii.gz
+05_KiTS/img/img0128.nii.gz 05_KiTS/label/label0128.nii.gz
+05_KiTS/img/img0130.nii.gz 05_KiTS/label/label0130.nii.gz
+05_KiTS/img/img0131.nii.gz 05_KiTS/label/label0131.nii.gz
+05_KiTS/img/img0133.nii.gz 05_KiTS/label/label0133.nii.gz
+05_KiTS/img/img0134.nii.gz 05_KiTS/label/label0134.nii.gz
+05_KiTS/img/img0135.nii.gz 05_KiTS/label/label0135.nii.gz
+05_KiTS/img/img0136.nii.gz 05_KiTS/label/label0136.nii.gz
+05_KiTS/img/img0137.nii.gz 05_KiTS/label/label0137.nii.gz
+05_KiTS/img/img0138.nii.gz 05_KiTS/label/label0138.nii.gz
+05_KiTS/img/img0139.nii.gz 05_KiTS/label/label0139.nii.gz
+05_KiTS/img/img0141.nii.gz 05_KiTS/label/label0141.nii.gz
+05_KiTS/img/img0142.nii.gz 05_KiTS/label/label0142.nii.gz
+05_KiTS/img/img0143.nii.gz 05_KiTS/label/label0143.nii.gz
+05_KiTS/img/img0144.nii.gz 05_KiTS/label/label0144.nii.gz
+05_KiTS/img/img0145.nii.gz 05_KiTS/label/label0145.nii.gz
+05_KiTS/img/img0148.nii.gz 05_KiTS/label/label0148.nii.gz
+05_KiTS/img/img0149.nii.gz 05_KiTS/label/label0149.nii.gz
+05_KiTS/img/img0150.nii.gz 05_KiTS/label/label0150.nii.gz
+05_KiTS/img/img0151.nii.gz 05_KiTS/label/label0151.nii.gz
+05_KiTS/img/img0152.nii.gz 05_KiTS/label/label0152.nii.gz
+05_KiTS/img/img0153.nii.gz 05_KiTS/label/label0153.nii.gz
+05_KiTS/img/img0155.nii.gz 05_KiTS/label/label0155.nii.gz
+05_KiTS/img/img0156.nii.gz 05_KiTS/label/label0156.nii.gz
+05_KiTS/img/img0157.nii.gz 05_KiTS/label/label0157.nii.gz
+05_KiTS/img/img0158.nii.gz 05_KiTS/label/label0158.nii.gz
+05_KiTS/img/img0159.nii.gz 05_KiTS/label/label0159.nii.gz
+05_KiTS/img/img0160.nii.gz 05_KiTS/label/label0160.nii.gz
+05_KiTS/img/img0161.nii.gz 05_KiTS/label/label0161.nii.gz
+05_KiTS/img/img0162.nii.gz 05_KiTS/label/label0162.nii.gz
+05_KiTS/img/img0164.nii.gz 05_KiTS/label/label0164.nii.gz
+05_KiTS/img/img0165.nii.gz 05_KiTS/label/label0165.nii.gz
+05_KiTS/img/img0166.nii.gz 05_KiTS/label/label0166.nii.gz
+05_KiTS/img/img0167.nii.gz 05_KiTS/label/label0167.nii.gz
+05_KiTS/img/img0168.nii.gz 05_KiTS/label/label0168.nii.gz
+05_KiTS/img/img0169.nii.gz 05_KiTS/label/label0169.nii.gz
+05_KiTS/img/img0170.nii.gz 05_KiTS/label/label0170.nii.gz
+05_KiTS/img/img0171.nii.gz 05_KiTS/label/label0171.nii.gz
+05_KiTS/img/img0172.nii.gz 05_KiTS/label/label0172.nii.gz
+05_KiTS/img/img0174.nii.gz 05_KiTS/label/label0174.nii.gz
+05_KiTS/img/img0175.nii.gz 05_KiTS/label/label0175.nii.gz
+05_KiTS/img/img0176.nii.gz 05_KiTS/label/label0176.nii.gz
+05_KiTS/img/img0177.nii.gz 05_KiTS/label/label0177.nii.gz
+05_KiTS/img/img0178.nii.gz 05_KiTS/label/label0178.nii.gz
+05_KiTS/img/img0180.nii.gz 05_KiTS/label/label0180.nii.gz
+05_KiTS/img/img0182.nii.gz 05_KiTS/label/label0182.nii.gz
+05_KiTS/img/img0184.nii.gz 05_KiTS/label/label0184.nii.gz
+05_KiTS/img/img0187.nii.gz 05_KiTS/label/label0187.nii.gz
+05_KiTS/img/img0188.nii.gz 05_KiTS/label/label0188.nii.gz
+05_KiTS/img/img0189.nii.gz 05_KiTS/label/label0189.nii.gz
+05_KiTS/img/img0190.nii.gz 05_KiTS/label/label0190.nii.gz
+05_KiTS/img/img0191.nii.gz 05_KiTS/label/label0191.nii.gz
+05_KiTS/img/img0192.nii.gz 05_KiTS/label/label0192.nii.gz
+05_KiTS/img/img0195.nii.gz 05_KiTS/label/label0195.nii.gz
+05_KiTS/img/img0196.nii.gz 05_KiTS/label/label0196.nii.gz
+05_KiTS/img/img0198.nii.gz 05_KiTS/label/label0198.nii.gz
+05_KiTS/img/img0199.nii.gz 05_KiTS/label/label0199.nii.gz
+05_KiTS/img/img0200.nii.gz 05_KiTS/label/label0200.nii.gz
+05_KiTS/img/img0201.nii.gz 05_KiTS/label/label0201.nii.gz
+05_KiTS/img/img0202.nii.gz 05_KiTS/label/label0202.nii.gz
+05_KiTS/img/img0203.nii.gz 05_KiTS/label/label0203.nii.gz
+05_KiTS/img/img0204.nii.gz 05_KiTS/label/label0204.nii.gz
+05_KiTS/img/img0205.nii.gz 05_KiTS/label/label0205.nii.gz
+05_KiTS/img/img0207.nii.gz 05_KiTS/label/label0207.nii.gz
+05_KiTS/img/img0208.nii.gz 05_KiTS/label/label0208.nii.gz
+05_KiTS/img/img0209.nii.gz 05_KiTS/label/label0209.nii.gz
+05_KiTS/img/img0210.nii.gz 05_KiTS/label/label0210.nii.gz
+05_KiTS/img/img0211.nii.gz 05_KiTS/label/label0211.nii.gz
+05_KiTS/img/img0212.nii.gz 05_KiTS/label/label0212.nii.gz
+05_KiTS/img/img0213.nii.gz 05_KiTS/label/label0213.nii.gz
+05_KiTS/img/img0214.nii.gz 05_KiTS/label/label0214.nii.gz
+05_KiTS/img/img0215.nii.gz 05_KiTS/label/label0215.nii.gz
+05_KiTS/img/img0216.nii.gz 05_KiTS/label/label0216.nii.gz
+05_KiTS/img/img0217.nii.gz 05_KiTS/label/label0217.nii.gz
+05_KiTS/img/img0218.nii.gz 05_KiTS/label/label0218.nii.gz
+05_KiTS/img/img0219.nii.gz 05_KiTS/label/label0219.nii.gz
+05_KiTS/img/img0220.nii.gz 05_KiTS/label/label0220.nii.gz
+05_KiTS/img/img0221.nii.gz 05_KiTS/label/label0221.nii.gz
+05_KiTS/img/img0222.nii.gz 05_KiTS/label/label0222.nii.gz
+05_KiTS/img/img0223.nii.gz 05_KiTS/label/label0223.nii.gz
+05_KiTS/img/img0226.nii.gz 05_KiTS/label/label0226.nii.gz
+05_KiTS/img/img0227.nii.gz 05_KiTS/label/label0227.nii.gz
+05_KiTS/img/img0229.nii.gz 05_KiTS/label/label0229.nii.gz
+05_KiTS/img/img0231.nii.gz 05_KiTS/label/label0231.nii.gz
+05_KiTS/img/img0233.nii.gz 05_KiTS/label/label0233.nii.gz
+05_KiTS/img/img0234.nii.gz 05_KiTS/label/label0234.nii.gz
+05_KiTS/img/img0235.nii.gz 05_KiTS/label/label0235.nii.gz
+05_KiTS/img/img0236.nii.gz 05_KiTS/label/label0236.nii.gz
+05_KiTS/img/img0237.nii.gz 05_KiTS/label/label0237.nii.gz
+05_KiTS/img/img0238.nii.gz 05_KiTS/label/label0238.nii.gz
+05_KiTS/img/img0239.nii.gz 05_KiTS/label/label0239.nii.gz
+05_KiTS/img/img0240.nii.gz 05_KiTS/label/label0240.nii.gz
+05_KiTS/img/img0241.nii.gz 05_KiTS/label/label0241.nii.gz
+05_KiTS/img/img0242.nii.gz 05_KiTS/label/label0242.nii.gz
+05_KiTS/img/img0243.nii.gz 05_KiTS/label/label0243.nii.gz
+05_KiTS/img/img0244.nii.gz 05_KiTS/label/label0244.nii.gz
+05_KiTS/img/img0246.nii.gz 05_KiTS/label/label0246.nii.gz
+05_KiTS/img/img0247.nii.gz 05_KiTS/label/label0247.nii.gz
+05_KiTS/img/img0249.nii.gz 05_KiTS/label/label0249.nii.gz
+05_KiTS/img/img0250.nii.gz 05_KiTS/label/label0250.nii.gz
+05_KiTS/img/img0251.nii.gz 05_KiTS/label/label0251.nii.gz
+05_KiTS/img/img0252.nii.gz 05_KiTS/label/label0252.nii.gz
+05_KiTS/img/img0253.nii.gz 05_KiTS/label/label0253.nii.gz
+05_KiTS/img/img0254.nii.gz 05_KiTS/label/label0254.nii.gz
+05_KiTS/img/img0255.nii.gz 05_KiTS/label/label0255.nii.gz
+05_KiTS/img/img0257.nii.gz 05_KiTS/label/label0257.nii.gz
+05_KiTS/img/img0258.nii.gz 05_KiTS/label/label0258.nii.gz
+05_KiTS/img/img0259.nii.gz 05_KiTS/label/label0259.nii.gz
+05_KiTS/img/img0260.nii.gz 05_KiTS/label/label0260.nii.gz
+05_KiTS/img/img0261.nii.gz 05_KiTS/label/label0261.nii.gz
+05_KiTS/img/img0263.nii.gz 05_KiTS/label/label0263.nii.gz
+05_KiTS/img/img0264.nii.gz 05_KiTS/label/label0264.nii.gz
+05_KiTS/img/img0266.nii.gz 05_KiTS/label/label0266.nii.gz
+05_KiTS/img/img0267.nii.gz 05_KiTS/label/label0267.nii.gz
+05_KiTS/img/img0268.nii.gz 05_KiTS/label/label0268.nii.gz
+05_KiTS/img/img0269.nii.gz 05_KiTS/label/label0269.nii.gz
+05_KiTS/img/img0270.nii.gz 05_KiTS/label/label0270.nii.gz
+05_KiTS/img/img0271.nii.gz 05_KiTS/label/label0271.nii.gz
+05_KiTS/img/img0272.nii.gz 05_KiTS/label/label0272.nii.gz
+05_KiTS/img/img0273.nii.gz 05_KiTS/label/label0273.nii.gz
+05_KiTS/img/img0275.nii.gz 05_KiTS/label/label0275.nii.gz
+05_KiTS/img/img0276.nii.gz 05_KiTS/label/label0276.nii.gz
+05_KiTS/img/img0277.nii.gz 05_KiTS/label/label0277.nii.gz
+05_KiTS/img/img0278.nii.gz 05_KiTS/label/label0278.nii.gz
+05_KiTS/img/img0279.nii.gz 05_KiTS/label/label0279.nii.gz
+05_KiTS/img/img0280.nii.gz 05_KiTS/label/label0280.nii.gz
+05_KiTS/img/img0281.nii.gz 05_KiTS/label/label0281.nii.gz
+05_KiTS/img/img0283.nii.gz 05_KiTS/label/label0283.nii.gz
+05_KiTS/img/img0284.nii.gz 05_KiTS/label/label0284.nii.gz
+05_KiTS/img/img0285.nii.gz 05_KiTS/label/label0285.nii.gz
+05_KiTS/img/img0286.nii.gz 05_KiTS/label/label0286.nii.gz
+05_KiTS/img/img0287.nii.gz 05_KiTS/label/label0287.nii.gz
+05_KiTS/img/img0289.nii.gz 05_KiTS/label/label0289.nii.gz
+05_KiTS/img/img0290.nii.gz 05_KiTS/label/label0290.nii.gz
+05_KiTS/img/img0291.nii.gz 05_KiTS/label/label0291.nii.gz
+05_KiTS/img/img0293.nii.gz 05_KiTS/label/label0293.nii.gz
+05_KiTS/img/img0294.nii.gz 05_KiTS/label/label0294.nii.gz
+05_KiTS/img/img0295.nii.gz 05_KiTS/label/label0295.nii.gz
+05_KiTS/img/img0296.nii.gz 05_KiTS/label/label0296.nii.gz
+05_KiTS/img/img0297.nii.gz 05_KiTS/label/label0297.nii.gz
+05_KiTS/img/img0298.nii.gz 05_KiTS/label/label0298.nii.gz
+05_KiTS/img/img0299.nii.gz 05_KiTS/label/label0299.nii.gz
+BDMAP_00006489/ct.nii.gz BDMAP_00006489/segmentations/kidney_left.nii.gz BDMAP_00006489/segmentations/kidney_right.nii.gz There is a notable heterogeneous enhancement with significant detail.
+BDMAP_00008984/ct.nii.gz BDMAP_00008984/segmentations/kidney_left.nii.gz BDMAP_00008984/segmentations/kidney_right.nii.gz Observed is a hypoattenuating, characterized by significant detail.
+BDMAP_00003308/ct.nii.gz BDMAP_00003308/segmentations/kidney_left.nii.gz BDMAP_00003308/segmentations/kidney_right.nii.gz well-defined is present, revealing significant detail.
+BDMAP_00005438/ct.nii.gz BDMAP_00005438/segmentations/kidney_left.nii.gz BDMAP_00005438/segmentations/kidney_right.nii.gz washout is present, revealing significant detail.
+BDMAP_00007330/ct.nii.gz BDMAP_00007330/segmentations/kidney_left.nii.gz BDMAP_00007330/segmentations/kidney_right.nii.gz A distinct ill-defined and significant detail are noted.
+BDMAP_00006986/ct.nii.gz BDMAP_00006986/segmentations/kidney_left.nii.gz BDMAP_00006986/segmentations/kidney_right.nii.gz A distinct washout and significant detail are noted.
+BDMAP_00007621/ct.nii.gz BDMAP_00007621/segmentations/kidney_left.nii.gz BDMAP_00007621/segmentations/kidney_right.nii.gz heterogeneous enhancement is present, revealing significant detail.
+BDMAP_00006124/ct.nii.gz BDMAP_00006124/segmentations/kidney_left.nii.gz BDMAP_00006124/segmentations/kidney_right.nii.gz cyst appears, displaying significant detail.
+BDMAP_00006114/ct.nii.gz BDMAP_00006114/segmentations/kidney_left.nii.gz BDMAP_00006114/segmentations/kidney_right.nii.gz There is a notable well-defined with significant detail.
+BDMAP_00009149/ct.nii.gz BDMAP_00009149/segmentations/kidney_left.nii.gz BDMAP_00009149/segmentations/kidney_right.nii.gz A distinct hypoattenuating and significant detail are noted.
+BDMAP_00007326/ct.nii.gz BDMAP_00007326/segmentations/kidney_left.nii.gz BDMAP_00007326/segmentations/kidney_right.nii.gz Observed is a hypoattenuating, characterized by significant detail.
+BDMAP_00006342/ct.nii.gz BDMAP_00006342/segmentations/kidney_left.nii.gz BDMAP_00006342/segmentations/kidney_right.nii.gz A distinct well-defined and significant detail are noted.
+BDMAP_00006329/ct.nii.gz BDMAP_00006329/segmentations/kidney_left.nii.gz BDMAP_00006329/segmentations/kidney_right.nii.gz Observed is a hypodensity, characterized by significant detail.
+BDMAP_00007126/ct.nii.gz BDMAP_00007126/segmentations/kidney_left.nii.gz BDMAP_00007126/segmentations/kidney_right.nii.gz ill-defined appears, displaying significant detail.
+BDMAP_00006266/ct.nii.gz BDMAP_00006266/segmentations/kidney_left.nii.gz BDMAP_00006266/segmentations/kidney_right.nii.gz A distinct metastases and significant detail are noted.
+BDMAP_00005737/ct.nii.gz BDMAP_00005737/segmentations/kidney_left.nii.gz BDMAP_00005737/segmentations/kidney_right.nii.gz Observed is a hyperattenuating, characterized by significant detail.
+BDMAP_00005796/ct.nii.gz BDMAP_00005796/segmentations/kidney_left.nii.gz BDMAP_00005796/segmentations/kidney_right.nii.gz cyst is present, revealing significant detail.
+BDMAP_00006445/ct.nii.gz BDMAP_00006445/segmentations/kidney_left.nii.gz BDMAP_00006445/segmentations/kidney_right.nii.gz There is a notable hypoattenuating with significant detail.
+BDMAP_00007274/ct.nii.gz BDMAP_00007274/segmentations/kidney_left.nii.gz BDMAP_00007274/segmentations/kidney_right.nii.gz Observed is a heterogeneous enhancement, characterized by significant detail.
+BDMAP_00005394/ct.nii.gz BDMAP_00005394/segmentations/kidney_left.nii.gz BDMAP_00005394/segmentations/kidney_right.nii.gz hypoattenuating appears, displaying significant detail.
+BDMAP_00005330/ct.nii.gz BDMAP_00005330/segmentations/kidney_left.nii.gz BDMAP_00005330/segmentations/kidney_right.nii.gz Observed is a metastases, characterized by significant detail.
+BDMAP_00007982/ct.nii.gz BDMAP_00007982/segmentations/kidney_left.nii.gz BDMAP_00007982/segmentations/kidney_right.nii.gz There is a notable ill-defined with significant detail.
+BDMAP_00004047/ct.nii.gz BDMAP_00004047/segmentations/kidney_left.nii.gz BDMAP_00004047/segmentations/kidney_right.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00006852/ct.nii.gz BDMAP_00006852/segmentations/kidney_left.nii.gz BDMAP_00006852/segmentations/kidney_right.nii.gz A distinct metastases and significant detail are noted.
+BDMAP_00008200/ct.nii.gz BDMAP_00008200/segmentations/kidney_left.nii.gz BDMAP_00008200/segmentations/kidney_right.nii.gz Observed is a cyst, characterized by significant detail.
+BDMAP_00006350/ct.nii.gz BDMAP_00006350/segmentations/kidney_left.nii.gz BDMAP_00006350/segmentations/kidney_right.nii.gz arterial enhancement appears, displaying significant detail.
+BDMAP_00008561/ct.nii.gz BDMAP_00008561/segmentations/kidney_left.nii.gz BDMAP_00008561/segmentations/kidney_right.nii.gz Observed is a well-defined, characterized by significant detail.
+BDMAP_00006232/ct.nii.gz BDMAP_00006232/segmentations/kidney_left.nii.gz BDMAP_00006232/segmentations/kidney_right.nii.gz ill-defined appears, displaying significant detail.
+BDMAP_00008509/ct.nii.gz BDMAP_00008509/segmentations/kidney_left.nii.gz BDMAP_00008509/segmentations/kidney_right.nii.gz hypodensity is present, revealing significant detail.
+BDMAP_00008272/ct.nii.gz BDMAP_00008272/segmentations/kidney_left.nii.gz BDMAP_00008272/segmentations/kidney_right.nii.gz arterial enhancement appears, displaying significant detail.
+BDMAP_00007605/ct.nii.gz BDMAP_00007605/segmentations/kidney_left.nii.gz BDMAP_00007605/segmentations/kidney_right.nii.gz washout is present, revealing significant detail.
+BDMAP_00000209/ct.nii.gz BDMAP_00000209/segmentations/kidney_left.nii.gz BDMAP_00000209/segmentations/kidney_right.nii.gz Observed is a hypoattenuating, characterized by significant detail.
+BDMAP_00000850/ct.nii.gz BDMAP_00000850/segmentations/kidney_left.nii.gz BDMAP_00000850/segmentations/kidney_right.nii.gz arterial enhancement appears, displaying significant detail.
+BDMAP_00006699/ct.nii.gz BDMAP_00006699/segmentations/kidney_left.nii.gz BDMAP_00006699/segmentations/kidney_right.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00006308/ct.nii.gz BDMAP_00006308/segmentations/kidney_left.nii.gz BDMAP_00006308/segmentations/kidney_right.nii.gz A distinct well-defined and significant detail are noted.
+BDMAP_00005990/ct.nii.gz BDMAP_00005990/segmentations/kidney_left.nii.gz BDMAP_00005990/segmentations/kidney_right.nii.gz Observed is a cyst, characterized by significant detail.
+BDMAP_00006518/ct.nii.gz BDMAP_00006518/segmentations/kidney_left.nii.gz BDMAP_00006518/segmentations/kidney_right.nii.gz A distinct cirrhosis and significant detail are noted.
+BDMAP_00005848/ct.nii.gz BDMAP_00005848/segmentations/kidney_left.nii.gz BDMAP_00005848/segmentations/kidney_right.nii.gz ill-defined is present, revealing significant detail.
+BDMAP_00008092/ct.nii.gz BDMAP_00008092/segmentations/kidney_left.nii.gz BDMAP_00008092/segmentations/kidney_right.nii.gz washout is present, revealing significant detail.
+BDMAP_00009024/ct.nii.gz BDMAP_00009024/segmentations/kidney_left.nii.gz BDMAP_00009024/segmentations/kidney_right.nii.gz Observed is a cirrhosis, characterized by significant detail.
+BDMAP_00006234/ct.nii.gz BDMAP_00006234/segmentations/kidney_left.nii.gz BDMAP_00006234/segmentations/kidney_right.nii.gz washout appears, displaying significant detail.
+BDMAP_00006726/ct.nii.gz BDMAP_00006726/segmentations/kidney_left.nii.gz BDMAP_00006726/segmentations/kidney_right.nii.gz There is a notable metastases with significant detail.
+BDMAP_00006668/ct.nii.gz BDMAP_00006668/segmentations/kidney_left.nii.gz BDMAP_00006668/segmentations/kidney_right.nii.gz arterial enhancement appears, displaying significant detail.
+BDMAP_00008733/ct.nii.gz BDMAP_00008733/segmentations/kidney_left.nii.gz BDMAP_00008733/segmentations/kidney_right.nii.gz hyperattenuating is present, revealing significant detail.
+BDMAP_00007903/ct.nii.gz BDMAP_00007903/segmentations/kidney_left.nii.gz BDMAP_00007903/segmentations/kidney_right.nii.gz There is a notable hyperattenuating with significant detail.
+BDMAP_00006021/ct.nii.gz BDMAP_00006021/segmentations/kidney_left.nii.gz BDMAP_00006021/segmentations/kidney_right.nii.gz hypoattenuating appears, displaying significant detail.
+BDMAP_00000392/ct.nii.gz BDMAP_00000392/segmentations/kidney_left.nii.gz BDMAP_00000392/segmentations/kidney_right.nii.gz A distinct well-defined and significant detail are noted.
+BDMAP_00006231/ct.nii.gz BDMAP_00006231/segmentations/kidney_left.nii.gz BDMAP_00006231/segmentations/kidney_right.nii.gz Observed is a well-defined, characterized by significant detail.
+BDMAP_00007171/ct.nii.gz BDMAP_00007171/segmentations/kidney_left.nii.gz BDMAP_00007171/segmentations/kidney_right.nii.gz A distinct cirrhosis and significant detail are noted.
+BDMAP_00009188/ct.nii.gz BDMAP_00009188/segmentations/kidney_left.nii.gz BDMAP_00009188/segmentations/kidney_right.nii.gz A distinct metastases and significant detail are noted.
+BDMAP_00006806/ct.nii.gz BDMAP_00006806/segmentations/kidney_left.nii.gz BDMAP_00006806/segmentations/kidney_right.nii.gz There is a notable washout with significant detail.
+BDMAP_00006737/ct.nii.gz BDMAP_00006737/segmentations/kidney_left.nii.gz BDMAP_00006737/segmentations/kidney_right.nii.gz There is a notable well-defined with significant detail.
+BDMAP_00006495/ct.nii.gz BDMAP_00006495/segmentations/kidney_left.nii.gz BDMAP_00006495/segmentations/kidney_right.nii.gz A distinct washout and significant detail are noted.
+BDMAP_00007472/ct.nii.gz BDMAP_00007472/segmentations/kidney_left.nii.gz BDMAP_00007472/segmentations/kidney_right.nii.gz There is a notable washout with significant detail.
+BDMAP_00006762/ct.nii.gz BDMAP_00006762/segmentations/kidney_left.nii.gz BDMAP_00006762/segmentations/kidney_right.nii.gz washout is present, revealing significant detail.
+BDMAP_00006180/ct.nii.gz BDMAP_00006180/segmentations/kidney_left.nii.gz BDMAP_00006180/segmentations/kidney_right.nii.gz There is a notable arterial enhancement with significant detail.
+BDMAP_00007565/ct.nii.gz BDMAP_00007565/segmentations/kidney_left.nii.gz BDMAP_00007565/segmentations/kidney_right.nii.gz A distinct heterogeneous enhancement and significant detail are noted.
+BDMAP_00007755/ct.nii.gz BDMAP_00007755/segmentations/kidney_left.nii.gz BDMAP_00007755/segmentations/kidney_right.nii.gz arterial enhancement is present, revealing significant detail.
+BDMAP_00008826/ct.nii.gz BDMAP_00008826/segmentations/kidney_left.nii.gz BDMAP_00008826/segmentations/kidney_right.nii.gz Observed is a cirrhosis, characterized by significant detail.
+BDMAP_00009093/ct.nii.gz BDMAP_00009093/segmentations/kidney_left.nii.gz BDMAP_00009093/segmentations/kidney_right.nii.gz washout appears, displaying significant detail.
+BDMAP_00007521/ct.nii.gz BDMAP_00007521/segmentations/kidney_left.nii.gz BDMAP_00007521/segmentations/kidney_right.nii.gz arterial enhancement appears, displaying significant detail.
+BDMAP_00008816/ct.nii.gz BDMAP_00008816/segmentations/kidney_left.nii.gz BDMAP_00008816/segmentations/kidney_right.nii.gz Observed is a cirrhosis, characterized by significant detail.
+BDMAP_00005967/ct.nii.gz BDMAP_00005967/segmentations/kidney_left.nii.gz BDMAP_00005967/segmentations/kidney_right.nii.gz Observed is a hypoattenuating, characterized by significant detail.
+BDMAP_00005925/ct.nii.gz BDMAP_00005925/segmentations/kidney_left.nii.gz BDMAP_00005925/segmentations/kidney_right.nii.gz cyst is present, revealing significant detail.
+BDMAP_00009205/ct.nii.gz BDMAP_00009205/segmentations/kidney_left.nii.gz BDMAP_00009205/segmentations/kidney_right.nii.gz hypoattenuating appears, displaying significant detail.
+BDMAP_00005278/ct.nii.gz BDMAP_00005278/segmentations/kidney_left.nii.gz BDMAP_00005278/segmentations/kidney_right.nii.gz hypoattenuating is present, revealing significant detail.
+BDMAP_00006884/ct.nii.gz BDMAP_00006884/segmentations/kidney_left.nii.gz BDMAP_00006884/segmentations/kidney_right.nii.gz hyperattenuating appears, displaying significant detail.
+BDMAP_00006183/ct.nii.gz BDMAP_00006183/segmentations/kidney_left.nii.gz BDMAP_00006183/segmentations/kidney_right.nii.gz There is a notable cyst with significant detail.
+BDMAP_00008956/ct.nii.gz BDMAP_00008956/segmentations/kidney_left.nii.gz BDMAP_00008956/segmentations/kidney_right.nii.gz Observed is a hypodensity, characterized by significant detail.
+BDMAP_00000743/ct.nii.gz BDMAP_00000743/segmentations/kidney_left.nii.gz BDMAP_00000743/segmentations/kidney_right.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00007379/ct.nii.gz BDMAP_00007379/segmentations/kidney_left.nii.gz BDMAP_00007379/segmentations/kidney_right.nii.gz There is a notable cirrhosis with significant detail.
+BDMAP_00006624/ct.nii.gz BDMAP_00006624/segmentations/kidney_left.nii.gz BDMAP_00006624/segmentations/kidney_right.nii.gz There is a notable cirrhosis with significant detail.
+BDMAP_00005255/ct.nii.gz BDMAP_00005255/segmentations/kidney_left.nii.gz BDMAP_00005255/segmentations/kidney_right.nii.gz There is a notable hypoattenuating with significant detail.
+BDMAP_00002400/ct.nii.gz BDMAP_00002400/segmentations/kidney_left.nii.gz BDMAP_00002400/segmentations/kidney_right.nii.gz There is a notable well-defined with significant detail.
+BDMAP_00007884/ct.nii.gz BDMAP_00007884/segmentations/kidney_left.nii.gz BDMAP_00007884/segmentations/kidney_right.nii.gz hyperattenuating is present, revealing significant detail.
+BDMAP_00003725/ct.nii.gz BDMAP_00003725/segmentations/kidney_left.nii.gz BDMAP_00003725/segmentations/kidney_right.nii.gz A distinct well-defined and significant detail are noted.
+BDMAP_00008672/ct.nii.gz BDMAP_00008672/segmentations/kidney_left.nii.gz BDMAP_00008672/segmentations/kidney_right.nii.gz washout is present, revealing significant detail.
+BDMAP_00006773/ct.nii.gz BDMAP_00006773/segmentations/kidney_left.nii.gz BDMAP_00006773/segmentations/kidney_right.nii.gz There is a notable hyperattenuating with significant detail.
+BDMAP_00005900/ct.nii.gz BDMAP_00005900/segmentations/kidney_left.nii.gz BDMAP_00005900/segmentations/kidney_right.nii.gz ill-defined is present, revealing significant detail.
+BDMAP_00007971/ct.nii.gz BDMAP_00007971/segmentations/kidney_left.nii.gz BDMAP_00007971/segmentations/kidney_right.nii.gz hypodensity appears, displaying significant detail.
+BDMAP_00007939/ct.nii.gz BDMAP_00007939/segmentations/kidney_left.nii.gz BDMAP_00007939/segmentations/kidney_right.nii.gz Observed is a well-defined, characterized by significant detail.
+BDMAP_00007944/ct.nii.gz BDMAP_00007944/segmentations/kidney_left.nii.gz BDMAP_00007944/segmentations/kidney_right.nii.gz There is a notable cyst with significant detail.
+BDMAP_00008640/ct.nii.gz BDMAP_00008640/segmentations/kidney_left.nii.gz BDMAP_00008640/segmentations/kidney_right.nii.gz There is a notable arterial enhancement with significant detail.
+BDMAP_00006202/ct.nii.gz BDMAP_00006202/segmentations/kidney_left.nii.gz BDMAP_00006202/segmentations/kidney_right.nii.gz Observed is a hypodensity, characterized by significant detail.
+BDMAP_00008998/ct.nii.gz BDMAP_00008998/segmentations/kidney_left.nii.gz BDMAP_00008998/segmentations/kidney_right.nii.gz hypoattenuating is present, revealing significant detail.
+BDMAP_00008609/ct.nii.gz BDMAP_00008609/segmentations/kidney_left.nii.gz BDMAP_00008609/segmentations/kidney_right.nii.gz Observed is a washout, characterized by significant detail.
+BDMAP_00007554/ct.nii.gz BDMAP_00007554/segmentations/kidney_left.nii.gz BDMAP_00007554/segmentations/kidney_right.nii.gz Observed is a ill-defined, characterized by significant detail.
+BDMAP_00006815/ct.nii.gz BDMAP_00006815/segmentations/kidney_left.nii.gz BDMAP_00006815/segmentations/kidney_right.nii.gz There is a notable arterial enhancement with significant detail.
+BDMAP_00008566/ct.nii.gz BDMAP_00008566/segmentations/kidney_left.nii.gz BDMAP_00008566/segmentations/kidney_right.nii.gz There is a notable metastases with significant detail.
+BDMAP_00005597/ct.nii.gz BDMAP_00005597/segmentations/kidney_left.nii.gz BDMAP_00005597/segmentations/kidney_right.nii.gz ill-defined is present, revealing significant detail.
+BDMAP_00003446/ct.nii.gz BDMAP_00003446/segmentations/kidney_left.nii.gz BDMAP_00003446/segmentations/kidney_right.nii.gz Observed is a cyst, characterized by significant detail.
+BDMAP_00006622/ct.nii.gz BDMAP_00006622/segmentations/kidney_left.nii.gz BDMAP_00006622/segmentations/kidney_right.nii.gz A distinct arterial enhancement and significant detail are noted.
+BDMAP_00006547/ct.nii.gz BDMAP_00006547/segmentations/kidney_left.nii.gz BDMAP_00006547/segmentations/kidney_right.nii.gz There is a notable metastases with significant detail.
+BDMAP_00008188/ct.nii.gz BDMAP_00008188/segmentations/kidney_left.nii.gz BDMAP_00008188/segmentations/kidney_right.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00007632/ct.nii.gz BDMAP_00007632/segmentations/kidney_left.nii.gz BDMAP_00007632/segmentations/kidney_right.nii.gz There is a notable hypoattenuating with significant detail.
+BDMAP_00006272/ct.nii.gz BDMAP_00006272/segmentations/kidney_left.nii.gz BDMAP_00006272/segmentations/kidney_right.nii.gz There is a notable hypodensity with significant detail.
+BDMAP_00005936/ct.nii.gz BDMAP_00005936/segmentations/kidney_left.nii.gz BDMAP_00005936/segmentations/kidney_right.nii.gz A distinct heterogeneous enhancement and significant detail are noted.
+BDMAP_00006310/ct.nii.gz BDMAP_00006310/segmentations/kidney_left.nii.gz BDMAP_00006310/segmentations/kidney_right.nii.gz Observed is a washout, characterized by significant detail.
+BDMAP_00008902/ct.nii.gz BDMAP_00008902/segmentations/kidney_left.nii.gz BDMAP_00008902/segmentations/kidney_right.nii.gz cirrhosis is present, revealing significant detail.
+BDMAP_00005442/ct.nii.gz BDMAP_00005442/segmentations/kidney_left.nii.gz BDMAP_00005442/segmentations/kidney_right.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00005208/ct.nii.gz BDMAP_00005208/segmentations/kidney_left.nii.gz BDMAP_00005208/segmentations/kidney_right.nii.gz A distinct arterial enhancement and significant detail are noted.
+BDMAP_00007954/ct.nii.gz BDMAP_00007954/segmentations/kidney_left.nii.gz BDMAP_00007954/segmentations/kidney_right.nii.gz metastases is present, revealing significant detail.
+BDMAP_00001990/ct.nii.gz BDMAP_00001990/segmentations/kidney_left.nii.gz BDMAP_00001990/segmentations/kidney_right.nii.gz ill-defined appears, displaying significant detail.
+BDMAP_00008333/ct.nii.gz BDMAP_00008333/segmentations/kidney_left.nii.gz BDMAP_00008333/segmentations/kidney_right.nii.gz hypodensity is present, revealing significant detail.
+BDMAP_00005973/ct.nii.gz BDMAP_00005973/segmentations/kidney_left.nii.gz BDMAP_00005973/segmentations/kidney_right.nii.gz A distinct cyst and significant detail are noted.
+BDMAP_00009098/ct.nii.gz BDMAP_00009098/segmentations/kidney_left.nii.gz BDMAP_00009098/segmentations/kidney_right.nii.gz well-defined is present, revealing significant detail.
+BDMAP_00001729/ct.nii.gz BDMAP_00001729/segmentations/kidney_left.nii.gz BDMAP_00001729/segmentations/kidney_right.nii.gz ill-defined is present, revealing significant detail.
+BDMAP_00009131/ct.nii.gz BDMAP_00009131/segmentations/kidney_left.nii.gz BDMAP_00009131/segmentations/kidney_right.nii.gz A distinct cyst and significant detail are noted.
+BDMAP_00007124/ct.nii.gz BDMAP_00007124/segmentations/kidney_left.nii.gz BDMAP_00007124/segmentations/kidney_right.nii.gz hyperattenuating is present, revealing significant detail.
+BDMAP_00005600/ct.nii.gz BDMAP_00005600/segmentations/kidney_left.nii.gz BDMAP_00005600/segmentations/kidney_right.nii.gz Observed is a well-defined, characterized by significant detail.
+BDMAP_00008822/ct.nii.gz BDMAP_00008822/segmentations/kidney_left.nii.gz BDMAP_00008822/segmentations/kidney_right.nii.gz A distinct heterogeneous enhancement and significant detail are noted.
+BDMAP_00008080/ct.nii.gz BDMAP_00008080/segmentations/kidney_left.nii.gz BDMAP_00008080/segmentations/kidney_right.nii.gz There is a notable hypoattenuating with significant detail.
+BDMAP_00008447/ct.nii.gz BDMAP_00008447/segmentations/kidney_left.nii.gz BDMAP_00008447/segmentations/kidney_right.nii.gz heterogeneous enhancement appears, displaying significant detail.
+BDMAP_00005505/ct.nii.gz BDMAP_00005505/segmentations/kidney_left.nii.gz BDMAP_00005505/segmentations/kidney_right.nii.gz washout appears, displaying significant detail.
+BDMAP_00008704/ct.nii.gz BDMAP_00008704/segmentations/kidney_left.nii.gz BDMAP_00008704/segmentations/kidney_right.nii.gz Observed is a hyperattenuating, characterized by significant detail.
+BDMAP_00009155/ct.nii.gz BDMAP_00009155/segmentations/kidney_left.nii.gz BDMAP_00009155/segmentations/kidney_right.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00008179/ct.nii.gz BDMAP_00008179/segmentations/kidney_left.nii.gz BDMAP_00008179/segmentations/kidney_right.nii.gz A distinct hyperattenuating and significant detail are noted.
+BDMAP_00005957/ct.nii.gz BDMAP_00005957/segmentations/kidney_left.nii.gz BDMAP_00005957/segmentations/kidney_right.nii.gz hyperattenuating is present, revealing significant detail.
+BDMAP_00006463/ct.nii.gz BDMAP_00006463/segmentations/kidney_left.nii.gz BDMAP_00006463/segmentations/kidney_right.nii.gz Observed is a hyperattenuating, characterized by significant detail.
+BDMAP_00006388/ct.nii.gz BDMAP_00006388/segmentations/kidney_left.nii.gz BDMAP_00006388/segmentations/kidney_right.nii.gz A distinct hyperattenuating and significant detail are noted.
+BDMAP_00007681/ct.nii.gz BDMAP_00007681/segmentations/kidney_left.nii.gz BDMAP_00007681/segmentations/kidney_right.nii.gz A distinct metastases and significant detail are noted.
+BDMAP_00005478/ct.nii.gz BDMAP_00005478/segmentations/kidney_left.nii.gz BDMAP_00005478/segmentations/kidney_right.nii.gz Observed is a hypoattenuating, characterized by significant detail.
+BDMAP_00006028/ct.nii.gz BDMAP_00006028/segmentations/kidney_left.nii.gz BDMAP_00006028/segmentations/kidney_right.nii.gz Observed is a metastases, characterized by significant detail.
+BDMAP_00007451/ct.nii.gz BDMAP_00007451/segmentations/kidney_left.nii.gz BDMAP_00007451/segmentations/kidney_right.nii.gz hypoattenuating is present, revealing significant detail.
+BDMAP_00007595/ct.nii.gz BDMAP_00007595/segmentations/kidney_left.nii.gz BDMAP_00007595/segmentations/kidney_right.nii.gz A distinct washout and significant detail are noted.
+BDMAP_00006834/ct.nii.gz BDMAP_00006834/segmentations/kidney_left.nii.gz BDMAP_00006834/segmentations/kidney_right.nii.gz hypoattenuating is present, revealing significant detail.
+BDMAP_00009157/ct.nii.gz BDMAP_00009157/segmentations/kidney_left.nii.gz BDMAP_00009157/segmentations/kidney_right.nii.gz There is a notable cirrhosis with significant detail.
+BDMAP_00007849/ct.nii.gz BDMAP_00007849/segmentations/kidney_left.nii.gz BDMAP_00007849/segmentations/kidney_right.nii.gz cirrhosis is present, revealing significant detail.
+BDMAP_00007191/ct.nii.gz BDMAP_00007191/segmentations/kidney_left.nii.gz BDMAP_00007191/segmentations/kidney_right.nii.gz Observed is a hypoattenuating, characterized by significant detail.
+BDMAP_00008378/ct.nii.gz BDMAP_00008378/segmentations/kidney_left.nii.gz BDMAP_00008378/segmentations/kidney_right.nii.gz hypoattenuating is present, revealing significant detail.
+BDMAP_00005831/ct.nii.gz BDMAP_00005831/segmentations/kidney_left.nii.gz BDMAP_00005831/segmentations/kidney_right.nii.gz heterogeneous enhancement appears, displaying significant detail.
+BDMAP_00006482/ct.nii.gz BDMAP_00006482/segmentations/kidney_left.nii.gz BDMAP_00006482/segmentations/kidney_right.nii.gz A distinct ill-defined and significant detail are noted.
+BDMAP_00005227/ct.nii.gz BDMAP_00005227/segmentations/kidney_left.nii.gz BDMAP_00005227/segmentations/kidney_right.nii.gz cyst is present, revealing significant detail.
+BDMAP_00007028/ct.nii.gz BDMAP_00007028/segmentations/kidney_left.nii.gz BDMAP_00007028/segmentations/kidney_right.nii.gz There is a notable hypodensity with significant detail.
+BDMAP_00004610/ct.nii.gz BDMAP_00004610/segmentations/kidney_left.nii.gz BDMAP_00004610/segmentations/kidney_right.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00005856/ct.nii.gz BDMAP_00005856/segmentations/kidney_left.nii.gz BDMAP_00005856/segmentations/kidney_right.nii.gz A distinct ill-defined and significant detail are noted.
+BDMAP_00005980/ct.nii.gz BDMAP_00005980/segmentations/kidney_left.nii.gz BDMAP_00005980/segmentations/kidney_right.nii.gz A distinct cirrhosis and significant detail are noted.
+BDMAP_00009258/ct.nii.gz BDMAP_00009258/segmentations/kidney_left.nii.gz BDMAP_00009258/segmentations/kidney_right.nii.gz well-defined is present, revealing significant detail.
+BDMAP_00005658/ct.nii.gz BDMAP_00005658/segmentations/kidney_left.nii.gz BDMAP_00005658/segmentations/kidney_right.nii.gz ill-defined appears, displaying significant detail.
+BDMAP_00005403/ct.nii.gz BDMAP_00005403/segmentations/kidney_left.nii.gz BDMAP_00005403/segmentations/kidney_right.nii.gz Observed is a hyperattenuating, characterized by significant detail.
+BDMAP_00007162/ct.nii.gz BDMAP_00007162/segmentations/kidney_left.nii.gz BDMAP_00007162/segmentations/kidney_right.nii.gz There is a notable well-defined with significant detail.
+BDMAP_00007780/ct.nii.gz BDMAP_00007780/segmentations/kidney_left.nii.gz BDMAP_00007780/segmentations/kidney_right.nii.gz metastases appears, displaying significant detail.
+BDMAP_00009248/ct.nii.gz BDMAP_00009248/segmentations/kidney_left.nii.gz BDMAP_00009248/segmentations/kidney_right.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00006830/ct.nii.gz BDMAP_00006830/segmentations/kidney_left.nii.gz BDMAP_00006830/segmentations/kidney_right.nii.gz Observed is a well-defined, characterized by significant detail.
+BDMAP_00000284/ct.nii.gz BDMAP_00000284/segmentations/kidney_left.nii.gz BDMAP_00000284/segmentations/kidney_right.nii.gz There is a notable heterogeneous enhancement with significant detail.
+BDMAP_00007376/ct.nii.gz BDMAP_00007376/segmentations/kidney_left.nii.gz BDMAP_00007376/segmentations/kidney_right.nii.gz A distinct arterial enhancement and significant detail are noted.
+BDMAP_00007963/ct.nii.gz BDMAP_00007963/segmentations/kidney_left.nii.gz BDMAP_00007963/segmentations/kidney_right.nii.gz washout appears, displaying significant detail.
+BDMAP_00006663/ct.nii.gz BDMAP_00006663/segmentations/kidney_left.nii.gz BDMAP_00006663/segmentations/kidney_right.nii.gz washout is present, revealing significant detail.
+BDMAP_00009198/ct.nii.gz BDMAP_00009198/segmentations/kidney_left.nii.gz BDMAP_00009198/segmentations/kidney_right.nii.gz A distinct arterial enhancement and significant detail are noted.
+BDMAP_00006666/ct.nii.gz BDMAP_00006666/segmentations/kidney_left.nii.gz BDMAP_00006666/segmentations/kidney_right.nii.gz There is a notable cirrhosis with significant detail.
+BDMAP_00007477/ct.nii.gz BDMAP_00007477/segmentations/kidney_left.nii.gz BDMAP_00007477/segmentations/kidney_right.nii.gz A distinct washout and significant detail are noted.
+BDMAP_00008082/ct.nii.gz BDMAP_00008082/segmentations/kidney_left.nii.gz BDMAP_00008082/segmentations/kidney_right.nii.gz heterogeneous enhancement appears, displaying significant detail.
+BDMAP_00007094/ct.nii.gz BDMAP_00007094/segmentations/kidney_left.nii.gz BDMAP_00007094/segmentations/kidney_right.nii.gz heterogeneous enhancement appears, displaying significant detail.
+BDMAP_00009176/ct.nii.gz BDMAP_00009176/segmentations/kidney_left.nii.gz BDMAP_00009176/segmentations/kidney_right.nii.gz There is a notable hypoattenuating with significant detail.
+BDMAP_00007087/ct.nii.gz BDMAP_00007087/segmentations/kidney_left.nii.gz BDMAP_00007087/segmentations/kidney_right.nii.gz arterial enhancement is present, revealing significant detail.
+BDMAP_00007399/ct.nii.gz BDMAP_00007399/segmentations/kidney_left.nii.gz BDMAP_00007399/segmentations/kidney_right.nii.gz cyst appears, displaying significant detail.
+BDMAP_00006635/ct.nii.gz BDMAP_00006635/segmentations/kidney_left.nii.gz BDMAP_00006635/segmentations/kidney_right.nii.gz Observed is a well-defined, characterized by significant detail.
+BDMAP_00002209/ct.nii.gz BDMAP_00002209/segmentations/kidney_left.nii.gz BDMAP_00002209/segmentations/kidney_right.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00006056/ct.nii.gz BDMAP_00006056/segmentations/kidney_left.nii.gz BDMAP_00006056/segmentations/kidney_right.nii.gz There is a notable well-defined with significant detail.
+BDMAP_00007449/ct.nii.gz BDMAP_00007449/segmentations/kidney_left.nii.gz BDMAP_00007449/segmentations/kidney_right.nii.gz hypoattenuating is present, revealing significant detail.
+BDMAP_00006757/ct.nii.gz BDMAP_00006757/segmentations/kidney_left.nii.gz BDMAP_00006757/segmentations/kidney_right.nii.gz There is a notable hyperattenuating with significant detail.
+BDMAP_00007538/ct.nii.gz BDMAP_00007538/segmentations/kidney_left.nii.gz BDMAP_00007538/segmentations/kidney_right.nii.gz There is a notable washout with significant detail.
+BDMAP_00007710/ct.nii.gz BDMAP_00007710/segmentations/kidney_left.nii.gz BDMAP_00007710/segmentations/kidney_right.nii.gz There is a notable well-defined with significant detail.
+BDMAP_00006840/ct.nii.gz BDMAP_00006840/segmentations/kidney_left.nii.gz BDMAP_00006840/segmentations/kidney_right.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00005568/ct.nii.gz BDMAP_00005568/segmentations/kidney_left.nii.gz BDMAP_00005568/segmentations/kidney_right.nii.gz metastases appears, displaying significant detail.
+BDMAP_00005661/ct.nii.gz BDMAP_00005661/segmentations/kidney_left.nii.gz BDMAP_00005661/segmentations/kidney_right.nii.gz hypoattenuating is present, revealing significant detail.
+BDMAP_00006217/ct.nii.gz BDMAP_00006217/segmentations/kidney_left.nii.gz BDMAP_00006217/segmentations/kidney_right.nii.gz A distinct washout and significant detail are noted.
+BDMAP_00008184/ct.nii.gz BDMAP_00008184/segmentations/kidney_left.nii.gz BDMAP_00008184/segmentations/kidney_right.nii.gz arterial enhancement is present, revealing significant detail.
+BDMAP_00007478/ct.nii.gz BDMAP_00007478/segmentations/kidney_left.nii.gz BDMAP_00007478/segmentations/kidney_right.nii.gz There is a notable cyst with significant detail.
+BDMAP_00008083/ct.nii.gz BDMAP_00008083/segmentations/kidney_left.nii.gz BDMAP_00008083/segmentations/kidney_right.nii.gz A distinct well-defined and significant detail are noted.
+BDMAP_00007660/ct.nii.gz BDMAP_00007660/segmentations/kidney_left.nii.gz BDMAP_00007660/segmentations/kidney_right.nii.gz cyst is present, revealing significant detail.
+BDMAP_00006837/ct.nii.gz BDMAP_00006837/segmentations/kidney_left.nii.gz BDMAP_00006837/segmentations/kidney_right.nii.gz ill-defined appears, displaying significant detail.
+BDMAP_00005268/ct.nii.gz BDMAP_00005268/segmentations/kidney_left.nii.gz BDMAP_00005268/segmentations/kidney_right.nii.gz Observed is a heterogeneous enhancement, characterized by significant detail.
+BDMAP_00006601/ct.nii.gz BDMAP_00006601/segmentations/kidney_left.nii.gz BDMAP_00006601/segmentations/kidney_right.nii.gz hypoattenuating appears, displaying significant detail.
+BDMAP_00001213/ct.nii.gz BDMAP_00001213/segmentations/kidney_left.nii.gz BDMAP_00001213/segmentations/kidney_right.nii.gz Observed is a hypodensity, characterized by significant detail.
+BDMAP_00004138/ct.nii.gz BDMAP_00004138/segmentations/kidney_left.nii.gz BDMAP_00004138/segmentations/kidney_right.nii.gz metastases appears, displaying significant detail.
+BDMAP_00008823/ct.nii.gz BDMAP_00008823/segmentations/kidney_left.nii.gz BDMAP_00008823/segmentations/kidney_right.nii.gz metastases is present, revealing significant detail.
+BDMAP_00008274/ct.nii.gz BDMAP_00008274/segmentations/kidney_left.nii.gz BDMAP_00008274/segmentations/kidney_right.nii.gz metastases appears, displaying significant detail.
+BDMAP_00006426/ct.nii.gz BDMAP_00006426/segmentations/kidney_left.nii.gz BDMAP_00006426/segmentations/kidney_right.nii.gz Observed is a hypoattenuating, characterized by significant detail.
+BDMAP_00007654/ct.nii.gz BDMAP_00007654/segmentations/kidney_left.nii.gz BDMAP_00007654/segmentations/kidney_right.nii.gz cyst appears, displaying significant detail.
+BDMAP_00008243/ct.nii.gz BDMAP_00008243/segmentations/kidney_left.nii.gz BDMAP_00008243/segmentations/kidney_right.nii.gz hypodensity appears, displaying significant detail.
+BDMAP_00008136/ct.nii.gz BDMAP_00008136/segmentations/kidney_left.nii.gz BDMAP_00008136/segmentations/kidney_right.nii.gz metastases appears, displaying significant detail.
+BDMAP_00005912/ct.nii.gz BDMAP_00005912/segmentations/kidney_left.nii.gz BDMAP_00005912/segmentations/kidney_right.nii.gz A distinct washout and significant detail are noted.
+BDMAP_00008661/ct.nii.gz BDMAP_00008661/segmentations/kidney_left.nii.gz BDMAP_00008661/segmentations/kidney_right.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00007674/ct.nii.gz BDMAP_00007674/segmentations/kidney_left.nii.gz BDMAP_00007674/segmentations/kidney_right.nii.gz A distinct heterogeneous enhancement and significant detail are noted.
+BDMAP_00007332/ct.nii.gz BDMAP_00007332/segmentations/kidney_left.nii.gz BDMAP_00007332/segmentations/kidney_right.nii.gz There is a notable cirrhosis with significant detail.
+BDMAP_00008423/ct.nii.gz BDMAP_00008423/segmentations/kidney_left.nii.gz BDMAP_00008423/segmentations/kidney_right.nii.gz A distinct ill-defined and significant detail are noted.
+BDMAP_00008189/ct.nii.gz BDMAP_00008189/segmentations/kidney_left.nii.gz BDMAP_00008189/segmentations/kidney_right.nii.gz There is a notable hyperattenuating with significant detail.
+BDMAP_00006385/ct.nii.gz BDMAP_00006385/segmentations/kidney_left.nii.gz BDMAP_00006385/segmentations/kidney_right.nii.gz washout is present, revealing significant detail.
+BDMAP_00009168/ct.nii.gz BDMAP_00009168/segmentations/kidney_left.nii.gz BDMAP_00009168/segmentations/kidney_right.nii.gz There is a notable metastases with significant detail.
+BDMAP_00006113/ct.nii.gz BDMAP_00006113/segmentations/kidney_left.nii.gz BDMAP_00006113/segmentations/kidney_right.nii.gz cirrhosis is present, revealing significant detail.
+BDMAP_00009025/ct.nii.gz BDMAP_00009025/segmentations/kidney_left.nii.gz BDMAP_00009025/segmentations/kidney_right.nii.gz well-defined is present, revealing significant detail.
+BDMAP_00006221/ct.nii.gz BDMAP_00006221/segmentations/kidney_left.nii.gz BDMAP_00006221/segmentations/kidney_right.nii.gz hyperattenuating is present, revealing significant detail.
+BDMAP_00006386/ct.nii.gz BDMAP_00006386/segmentations/kidney_left.nii.gz BDMAP_00006386/segmentations/kidney_right.nii.gz There is a notable metastases with significant detail.
+BDMAP_00008351/ct.nii.gz BDMAP_00008351/segmentations/kidney_left.nii.gz BDMAP_00008351/segmentations/kidney_right.nii.gz heterogeneous enhancement is present, revealing significant detail.
+BDMAP_00005473/ct.nii.gz BDMAP_00005473/segmentations/kidney_left.nii.gz BDMAP_00005473/segmentations/kidney_right.nii.gz washout is present, revealing significant detail.
+BDMAP_00005181/ct.nii.gz BDMAP_00005181/segmentations/kidney_left.nii.gz BDMAP_00005181/segmentations/kidney_right.nii.gz hypodensity appears, displaying significant detail.
+BDMAP_00005924/ct.nii.gz BDMAP_00005924/segmentations/kidney_left.nii.gz BDMAP_00005924/segmentations/kidney_right.nii.gz Observed is a cirrhosis, characterized by significant detail.
+BDMAP_00008266/ct.nii.gz BDMAP_00008266/segmentations/kidney_left.nii.gz BDMAP_00008266/segmentations/kidney_right.nii.gz There is a notable hypoattenuating with significant detail.
+BDMAP_00009146/ct.nii.gz BDMAP_00009146/segmentations/kidney_left.nii.gz BDMAP_00009146/segmentations/kidney_right.nii.gz A distinct cirrhosis and significant detail are noted.
+BDMAP_00008807/ct.nii.gz BDMAP_00008807/segmentations/kidney_left.nii.gz BDMAP_00008807/segmentations/kidney_right.nii.gz A distinct ill-defined and significant detail are noted.
+BDMAP_00005533/ct.nii.gz BDMAP_00005533/segmentations/kidney_left.nii.gz BDMAP_00005533/segmentations/kidney_right.nii.gz heterogeneous enhancement appears, displaying significant detail.
+BDMAP_00008917/ct.nii.gz BDMAP_00008917/segmentations/kidney_left.nii.gz BDMAP_00008917/segmentations/kidney_right.nii.gz cyst is present, revealing significant detail.
+BDMAP_00004832/ct.nii.gz BDMAP_00004832/segmentations/kidney_left.nii.gz BDMAP_00004832/segmentations/kidney_right.nii.gz Observed is a cirrhosis, characterized by significant detail.
+BDMAP_00000216/ct.nii.gz BDMAP_00000216/segmentations/kidney_left.nii.gz BDMAP_00000216/segmentations/kidney_right.nii.gz There is a notable metastases with significant detail.
+BDMAP_00007045/ct.nii.gz BDMAP_00007045/segmentations/kidney_left.nii.gz BDMAP_00007045/segmentations/kidney_right.nii.gz There is a notable washout with significant detail.
+BDMAP_00008633/ct.nii.gz BDMAP_00008633/segmentations/kidney_left.nii.gz BDMAP_00008633/segmentations/kidney_right.nii.gz A distinct cyst and significant detail are noted.
+BDMAP_00007130/ct.nii.gz BDMAP_00007130/segmentations/kidney_left.nii.gz BDMAP_00007130/segmentations/kidney_right.nii.gz There is a notable metastases with significant detail.
+BDMAP_00001948/ct.nii.gz BDMAP_00001948/segmentations/kidney_left.nii.gz BDMAP_00001948/segmentations/kidney_right.nii.gz There is a notable cirrhosis with significant detail.
+BDMAP_00008798/ct.nii.gz BDMAP_00008798/segmentations/kidney_left.nii.gz BDMAP_00008798/segmentations/kidney_right.nii.gz There is a notable arterial enhancement with significant detail.
+BDMAP_00006089/ct.nii.gz BDMAP_00006089/segmentations/kidney_left.nii.gz BDMAP_00006089/segmentations/kidney_right.nii.gz Observed is a metastases, characterized by significant detail.
+BDMAP_00005247/ct.nii.gz BDMAP_00005247/segmentations/kidney_left.nii.gz BDMAP_00005247/segmentations/kidney_right.nii.gz cyst appears, displaying significant detail.
+BDMAP_00009226/ct.nii.gz BDMAP_00009226/segmentations/kidney_left.nii.gz BDMAP_00009226/segmentations/kidney_right.nii.gz A distinct hypodensity and significant detail are noted.
+BDMAP_00006948/ct.nii.gz BDMAP_00006948/segmentations/kidney_left.nii.gz BDMAP_00006948/segmentations/kidney_right.nii.gz arterial enhancement is present, revealing significant detail.
+BDMAP_00005272/ct.nii.gz BDMAP_00005272/segmentations/kidney_left.nii.gz BDMAP_00005272/segmentations/kidney_right.nii.gz There is a notable cyst with significant detail.
+BDMAP_00008603/ct.nii.gz BDMAP_00008603/segmentations/kidney_left.nii.gz BDMAP_00008603/segmentations/kidney_right.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00006546/ct.nii.gz BDMAP_00006546/segmentations/kidney_left.nii.gz BDMAP_00006546/segmentations/kidney_right.nii.gz There is a notable cirrhosis with significant detail.
+BDMAP_00008993/ct.nii.gz BDMAP_00008993/segmentations/kidney_left.nii.gz BDMAP_00008993/segmentations/kidney_right.nii.gz A distinct arterial enhancement and significant detail are noted.
+BDMAP_00006553/ct.nii.gz BDMAP_00006553/segmentations/kidney_left.nii.gz BDMAP_00006553/segmentations/kidney_right.nii.gz washout appears, displaying significant detail.
+BDMAP_00009206/ct.nii.gz BDMAP_00009206/segmentations/kidney_left.nii.gz BDMAP_00009206/segmentations/kidney_right.nii.gz hypodensity appears, displaying significant detail.
+BDMAP_00002373/ct.nii.gz BDMAP_00002373/segmentations/kidney_left.nii.gz BDMAP_00002373/segmentations/kidney_right.nii.gz There is a notable ill-defined with significant detail.
+BDMAP_00008150/ct.nii.gz BDMAP_00008150/segmentations/kidney_left.nii.gz BDMAP_00008150/segmentations/kidney_right.nii.gz Observed is a cirrhosis, characterized by significant detail.
+BDMAP_00005680/ct.nii.gz BDMAP_00005680/segmentations/kidney_left.nii.gz BDMAP_00005680/segmentations/kidney_right.nii.gz There is a notable arterial enhancement with significant detail.
+BDMAP_00009186/ct.nii.gz BDMAP_00009186/segmentations/kidney_left.nii.gz BDMAP_00009186/segmentations/kidney_right.nii.gz There is a notable metastases with significant detail.
+BDMAP_00006406/ct.nii.gz BDMAP_00006406/segmentations/kidney_left.nii.gz BDMAP_00006406/segmentations/kidney_right.nii.gz There is a notable heterogeneous enhancement with significant detail.
+BDMAP_00005472/ct.nii.gz BDMAP_00005472/segmentations/kidney_left.nii.gz BDMAP_00005472/segmentations/kidney_right.nii.gz hypoattenuating appears, displaying significant detail.
+BDMAP_00005870/ct.nii.gz BDMAP_00005870/segmentations/kidney_left.nii.gz BDMAP_00005870/segmentations/kidney_right.nii.gz A distinct heterogeneous enhancement and significant detail are noted.
+BDMAP_00005460/ct.nii.gz BDMAP_00005460/segmentations/kidney_left.nii.gz BDMAP_00005460/segmentations/kidney_right.nii.gz ill-defined appears, displaying significant detail.
+BDMAP_00003794/ct.nii.gz BDMAP_00003794/segmentations/kidney_left.nii.gz BDMAP_00003794/segmentations/kidney_right.nii.gz cyst appears, displaying significant detail.
+BDMAP_00006717/ct.nii.gz BDMAP_00006717/segmentations/kidney_left.nii.gz BDMAP_00006717/segmentations/kidney_right.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00006752/ct.nii.gz BDMAP_00006752/segmentations/kidney_left.nii.gz BDMAP_00006752/segmentations/kidney_right.nii.gz A distinct hypoattenuating and significant detail are noted.
+BDMAP_00007612/ct.nii.gz BDMAP_00007612/segmentations/kidney_left.nii.gz BDMAP_00007612/segmentations/kidney_right.nii.gz washout is present, revealing significant detail.
+BDMAP_00008971/ct.nii.gz BDMAP_00008971/segmentations/kidney_left.nii.gz BDMAP_00008971/segmentations/kidney_right.nii.gz A distinct metastases and significant detail are noted.
+BDMAP_00005283/ct.nii.gz BDMAP_00005283/segmentations/kidney_left.nii.gz BDMAP_00005283/segmentations/kidney_right.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00002367/ct.nii.gz BDMAP_00002367/segmentations/kidney_left.nii.gz BDMAP_00002367/segmentations/kidney_right.nii.gz There is a notable cirrhosis with significant detail.
+BDMAP_00007430/ct.nii.gz BDMAP_00007430/segmentations/kidney_left.nii.gz BDMAP_00007430/segmentations/kidney_right.nii.gz ill-defined appears, displaying significant detail.
+BDMAP_00008438/ct.nii.gz BDMAP_00008438/segmentations/kidney_left.nii.gz BDMAP_00008438/segmentations/kidney_right.nii.gz There is a notable cirrhosis with significant detail.
+BDMAP_00006856/ct.nii.gz BDMAP_00006856/segmentations/kidney_left.nii.gz BDMAP_00006856/segmentations/kidney_right.nii.gz Observed is a cirrhosis, characterized by significant detail.
+BDMAP_00008482/ct.nii.gz BDMAP_00008482/segmentations/kidney_left.nii.gz BDMAP_00008482/segmentations/kidney_right.nii.gz ill-defined appears, displaying significant detail.
+BDMAP_00008396/ct.nii.gz BDMAP_00008396/segmentations/kidney_left.nii.gz BDMAP_00008396/segmentations/kidney_right.nii.gz Observed is a cirrhosis, characterized by significant detail.
+BDMAP_00006065/ct.nii.gz BDMAP_00006065/segmentations/kidney_left.nii.gz BDMAP_00006065/segmentations/kidney_right.nii.gz Observed is a well-defined, characterized by significant detail.
+BDMAP_00007839/ct.nii.gz BDMAP_00007839/segmentations/kidney_left.nii.gz BDMAP_00007839/segmentations/kidney_right.nii.gz ill-defined appears, displaying significant detail.
+BDMAP_00007266/ct.nii.gz BDMAP_00007266/segmentations/kidney_left.nii.gz BDMAP_00007266/segmentations/kidney_right.nii.gz There is a notable hyperattenuating with significant detail.
+BDMAP_00008958/ct.nii.gz BDMAP_00008958/segmentations/kidney_left.nii.gz BDMAP_00008958/segmentations/kidney_right.nii.gz heterogeneous enhancement is present, revealing significant detail.
+BDMAP_00008809/ct.nii.gz BDMAP_00008809/segmentations/kidney_left.nii.gz BDMAP_00008809/segmentations/kidney_right.nii.gz A distinct cirrhosis and significant detail are noted.
+BDMAP_00009240/ct.nii.gz BDMAP_00009240/segmentations/kidney_left.nii.gz BDMAP_00009240/segmentations/kidney_right.nii.gz Observed is a ill-defined, characterized by significant detail.
+BDMAP_00008832/ct.nii.gz BDMAP_00008832/segmentations/kidney_left.nii.gz BDMAP_00008832/segmentations/kidney_right.nii.gz A distinct metastases and significant detail are noted.
+BDMAP_00009257/ct.nii.gz BDMAP_00009257/segmentations/kidney_left.nii.gz BDMAP_00009257/segmentations/kidney_right.nii.gz arterial enhancement appears, displaying significant detail.
+BDMAP_00005866/ct.nii.gz BDMAP_00005866/segmentations/kidney_left.nii.gz BDMAP_00005866/segmentations/kidney_right.nii.gz There is a notable washout with significant detail.
+BDMAP_00007614/ct.nii.gz BDMAP_00007614/segmentations/kidney_left.nii.gz BDMAP_00007614/segmentations/kidney_right.nii.gz Observed is a hyperattenuating, characterized by significant detail.
+BDMAP_00008945/ct.nii.gz BDMAP_00008945/segmentations/kidney_left.nii.gz BDMAP_00008945/segmentations/kidney_right.nii.gz A distinct hyperattenuating and significant detail are noted.
+BDMAP_00007799/ct.nii.gz BDMAP_00007799/segmentations/kidney_left.nii.gz BDMAP_00007799/segmentations/kidney_right.nii.gz There is a notable cyst with significant detail.
+BDMAP_00006485/ct.nii.gz BDMAP_00006485/segmentations/kidney_left.nii.gz BDMAP_00006485/segmentations/kidney_right.nii.gz Observed is a cirrhosis, characterized by significant detail.
+BDMAP_00007431/ct.nii.gz BDMAP_00007431/segmentations/kidney_left.nii.gz BDMAP_00007431/segmentations/kidney_right.nii.gz hyperattenuating is present, revealing significant detail.
+BDMAP_00008632/ct.nii.gz BDMAP_00008632/segmentations/kidney_left.nii.gz BDMAP_00008632/segmentations/kidney_right.nii.gz There is a notable ill-defined with significant detail.
+BDMAP_00002510/ct.nii.gz BDMAP_00002510/segmentations/kidney_left.nii.gz BDMAP_00002510/segmentations/kidney_right.nii.gz A distinct cyst and significant detail are noted.
+BDMAP_00006233/ct.nii.gz BDMAP_00006233/segmentations/kidney_left.nii.gz BDMAP_00006233/segmentations/kidney_right.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00007984/ct.nii.gz BDMAP_00007984/segmentations/kidney_left.nii.gz BDMAP_00007984/segmentations/kidney_right.nii.gz Observed is a hypoattenuating, characterized by significant detail.
+BDMAP_00007135/ct.nii.gz BDMAP_00007135/segmentations/kidney_left.nii.gz BDMAP_00007135/segmentations/kidney_right.nii.gz There is a notable hypoattenuating with significant detail.
+BDMAP_00007528/ct.nii.gz BDMAP_00007528/segmentations/kidney_left.nii.gz BDMAP_00007528/segmentations/kidney_right.nii.gz Observed is a metastases, characterized by significant detail.
+BDMAP_00006010/ct.nii.gz BDMAP_00006010/segmentations/kidney_left.nii.gz BDMAP_00006010/segmentations/kidney_right.nii.gz arterial enhancement is present, revealing significant detail.
+BDMAP_00009209/ct.nii.gz BDMAP_00009209/segmentations/kidney_left.nii.gz BDMAP_00009209/segmentations/kidney_right.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00006046/ct.nii.gz BDMAP_00006046/segmentations/kidney_left.nii.gz BDMAP_00006046/segmentations/kidney_right.nii.gz hyperattenuating is present, revealing significant detail.
+BDMAP_00005775/ct.nii.gz BDMAP_00005775/segmentations/kidney_left.nii.gz BDMAP_00005775/segmentations/kidney_right.nii.gz A distinct hypoattenuating and significant detail are noted.
+BDMAP_00008969/ct.nii.gz BDMAP_00008969/segmentations/kidney_left.nii.gz BDMAP_00008969/segmentations/kidney_right.nii.gz heterogeneous enhancement is present, revealing significant detail.
+BDMAP_00006975/ct.nii.gz BDMAP_00006975/segmentations/kidney_left.nii.gz BDMAP_00006975/segmentations/kidney_right.nii.gz well-defined is present, revealing significant detail.
+BDMAP_00007701/ct.nii.gz BDMAP_00007701/segmentations/kidney_left.nii.gz BDMAP_00007701/segmentations/kidney_right.nii.gz There is a notable well-defined with significant detail.
+BDMAP_00005998/ct.nii.gz BDMAP_00005998/segmentations/kidney_left.nii.gz BDMAP_00005998/segmentations/kidney_right.nii.gz A distinct metastases and significant detail are noted.
+BDMAP_00006918/ct.nii.gz BDMAP_00006918/segmentations/kidney_left.nii.gz BDMAP_00006918/segmentations/kidney_right.nii.gz metastases is present, revealing significant detail.
+BDMAP_00006893/ct.nii.gz BDMAP_00006893/segmentations/kidney_left.nii.gz BDMAP_00006893/segmentations/kidney_right.nii.gz There is a notable cirrhosis with significant detail.
+BDMAP_00008990/ct.nii.gz BDMAP_00008990/segmentations/kidney_left.nii.gz BDMAP_00008990/segmentations/kidney_right.nii.gz hyperattenuating is present, revealing significant detail.
+BDMAP_00006968/ct.nii.gz BDMAP_00006968/segmentations/kidney_left.nii.gz BDMAP_00006968/segmentations/kidney_right.nii.gz ill-defined appears, displaying significant detail.
+BDMAP_00007387/ct.nii.gz BDMAP_00007387/segmentations/kidney_left.nii.gz BDMAP_00007387/segmentations/kidney_right.nii.gz There is a notable cirrhosis with significant detail.
+BDMAP_00006613/ct.nii.gz BDMAP_00006613/segmentations/kidney_left.nii.gz BDMAP_00006613/segmentations/kidney_right.nii.gz A distinct hyperattenuating and significant detail are noted.
+BDMAP_00005915/ct.nii.gz BDMAP_00005915/segmentations/kidney_left.nii.gz BDMAP_00005915/segmentations/kidney_right.nii.gz There is a notable cyst with significant detail.
+BDMAP_00005681/ct.nii.gz BDMAP_00005681/segmentations/kidney_left.nii.gz BDMAP_00005681/segmentations/kidney_right.nii.gz washout is present, revealing significant detail.
+BDMAP_00005648/ct.nii.gz BDMAP_00005648/segmentations/kidney_left.nii.gz BDMAP_00005648/segmentations/kidney_right.nii.gz There is a notable washout with significant detail.
+BDMAP_00006851/ct.nii.gz BDMAP_00006851/segmentations/kidney_left.nii.gz BDMAP_00006851/segmentations/kidney_right.nii.gz Observed is a well-defined, characterized by significant detail.
+BDMAP_00006543/ct.nii.gz BDMAP_00006543/segmentations/kidney_left.nii.gz BDMAP_00006543/segmentations/kidney_right.nii.gz A distinct cirrhosis and significant detail are noted.
+BDMAP_00005613/ct.nii.gz BDMAP_00005613/segmentations/kidney_left.nii.gz BDMAP_00005613/segmentations/kidney_right.nii.gz Observed is a ill-defined, characterized by significant detail.
+BDMAP_00006488/ct.nii.gz BDMAP_00006488/segmentations/kidney_left.nii.gz BDMAP_00006488/segmentations/kidney_right.nii.gz arterial enhancement is present, revealing significant detail.
+BDMAP_00007802/ct.nii.gz BDMAP_00007802/segmentations/kidney_left.nii.gz BDMAP_00007802/segmentations/kidney_right.nii.gz A distinct cyst and significant detail are noted.
+BDMAP_00005839/ct.nii.gz BDMAP_00005839/segmentations/kidney_left.nii.gz BDMAP_00005839/segmentations/kidney_right.nii.gz arterial enhancement is present, revealing significant detail.
+BDMAP_00006770/ct.nii.gz BDMAP_00006770/segmentations/kidney_left.nii.gz BDMAP_00006770/segmentations/kidney_right.nii.gz There is a notable heterogeneous enhancement with significant detail.
+BDMAP_00003355/ct.nii.gz BDMAP_00003355/segmentations/kidney_left.nii.gz BDMAP_00003355/segmentations/kidney_right.nii.gz cyst is present, revealing significant detail.
+BDMAP_00007187/ct.nii.gz BDMAP_00007187/segmentations/kidney_left.nii.gz BDMAP_00007187/segmentations/kidney_right.nii.gz There is a notable cirrhosis with significant detail.
+BDMAP_00008242/ct.nii.gz BDMAP_00008242/segmentations/kidney_left.nii.gz BDMAP_00008242/segmentations/kidney_right.nii.gz There is a notable heterogeneous enhancement with significant detail.
+BDMAP_00006326/ct.nii.gz BDMAP_00006326/segmentations/kidney_left.nii.gz BDMAP_00006326/segmentations/kidney_right.nii.gz cyst is present, revealing significant detail.
+BDMAP_00000580/ct.nii.gz BDMAP_00000580/segmentations/kidney_left.nii.gz BDMAP_00000580/segmentations/kidney_right.nii.gz There is a notable well-defined with significant detail.
+BDMAP_00000131/ct.nii.gz BDMAP_00000131/segmentations/kidney_left.nii.gz BDMAP_00000131/segmentations/kidney_right.nii.gz Observed is a cyst, characterized by significant detail.
+BDMAP_00007232/ct.nii.gz BDMAP_00007232/segmentations/kidney_left.nii.gz BDMAP_00007232/segmentations/kidney_right.nii.gz Observed is a heterogeneous enhancement, characterized by significant detail.
+BDMAP_00005400/ct.nii.gz BDMAP_00005400/segmentations/kidney_left.nii.gz BDMAP_00005400/segmentations/kidney_right.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00005958/ct.nii.gz BDMAP_00005958/segmentations/kidney_left.nii.gz BDMAP_00005958/segmentations/kidney_right.nii.gz hypoattenuating appears, displaying significant detail.
+BDMAP_00000351/ct.nii.gz BDMAP_00000351/segmentations/kidney_left.nii.gz BDMAP_00000351/segmentations/kidney_right.nii.gz cirrhosis is present, revealing significant detail.
+BDMAP_00008020/ct.nii.gz BDMAP_00008020/segmentations/kidney_left.nii.gz BDMAP_00008020/segmentations/kidney_right.nii.gz There is a notable arterial enhancement with significant detail.
+BDMAP_00009109/ct.nii.gz BDMAP_00009109/segmentations/kidney_left.nii.gz BDMAP_00009109/segmentations/kidney_right.nii.gz There is a notable metastases with significant detail.
+BDMAP_00008570/ct.nii.gz BDMAP_00008570/segmentations/kidney_left.nii.gz BDMAP_00008570/segmentations/kidney_right.nii.gz hyperattenuating appears, displaying significant detail.
+BDMAP_00009083/ct.nii.gz BDMAP_00009083/segmentations/kidney_left.nii.gz BDMAP_00009083/segmentations/kidney_right.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00002842/ct.nii.gz BDMAP_00002842/segmentations/kidney_left.nii.gz BDMAP_00002842/segmentations/kidney_right.nii.gz hypoattenuating is present, revealing significant detail.
+BDMAP_00002489/ct.nii.gz BDMAP_00002489/segmentations/kidney_left.nii.gz BDMAP_00002489/segmentations/kidney_right.nii.gz ill-defined is present, revealing significant detail.
+BDMAP_00007679/ct.nii.gz BDMAP_00007679/segmentations/kidney_left.nii.gz BDMAP_00007679/segmentations/kidney_right.nii.gz Observed is a heterogeneous enhancement, characterized by significant detail.
+BDMAP_00009141/ct.nii.gz BDMAP_00009141/segmentations/kidney_left.nii.gz BDMAP_00009141/segmentations/kidney_right.nii.gz well-defined is present, revealing significant detail.
+BDMAP_00001399/ct.nii.gz BDMAP_00001399/segmentations/kidney_left.nii.gz BDMAP_00001399/segmentations/kidney_right.nii.gz cirrhosis appears, displaying significant detail.
+BDMAP_00002871/ct.nii.gz BDMAP_00002871/segmentations/kidney_left.nii.gz BDMAP_00002871/segmentations/kidney_right.nii.gz A distinct heterogeneous enhancement and significant detail are noted.
+BDMAP_00008621/ct.nii.gz BDMAP_00008621/segmentations/kidney_left.nii.gz BDMAP_00008621/segmentations/kidney_right.nii.gz There is a notable well-defined with significant detail.
+BDMAP_00007725/ct.nii.gz BDMAP_00007725/segmentations/kidney_left.nii.gz BDMAP_00007725/segmentations/kidney_right.nii.gz washout is present, revealing significant detail.
+BDMAP_00005529/ct.nii.gz BDMAP_00005529/segmentations/kidney_left.nii.gz BDMAP_00005529/segmentations/kidney_right.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00008867/ct.nii.gz BDMAP_00008867/segmentations/kidney_left.nii.gz BDMAP_00008867/segmentations/kidney_right.nii.gz metastases is present, revealing significant detail.
+BDMAP_00001917/ct.nii.gz BDMAP_00001917/segmentations/kidney_left.nii.gz BDMAP_00001917/segmentations/kidney_right.nii.gz A distinct heterogeneous enhancement and significant detail are noted.
+BDMAP_00005962/ct.nii.gz BDMAP_00005962/segmentations/kidney_left.nii.gz BDMAP_00005962/segmentations/kidney_right.nii.gz hypodensity appears, displaying significant detail.
+BDMAP_00008369/ct.nii.gz BDMAP_00008369/segmentations/kidney_left.nii.gz BDMAP_00008369/segmentations/kidney_right.nii.gz There is a notable hypoattenuating with significant detail.
+BDMAP_00006577/ct.nii.gz BDMAP_00006577/segmentations/kidney_left.nii.gz BDMAP_00006577/segmentations/kidney_right.nii.gz A distinct hyperattenuating and significant detail are noted.
+BDMAP_00009227/ct.nii.gz BDMAP_00009227/segmentations/kidney_left.nii.gz BDMAP_00009227/segmentations/kidney_right.nii.gz hyperattenuating appears, displaying significant detail.
+BDMAP_00008790/ct.nii.gz BDMAP_00008790/segmentations/kidney_left.nii.gz BDMAP_00008790/segmentations/kidney_right.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00006121/ct.nii.gz BDMAP_00006121/segmentations/kidney_left.nii.gz BDMAP_00006121/segmentations/kidney_right.nii.gz hypoattenuating appears, displaying significant detail.
+BDMAP_00003222/ct.nii.gz BDMAP_00003222/segmentations/kidney_left.nii.gz BDMAP_00003222/segmentations/kidney_right.nii.gz Observed is a hypoattenuating, characterized by significant detail.
+BDMAP_00007406/ct.nii.gz BDMAP_00007406/segmentations/kidney_left.nii.gz BDMAP_00007406/segmentations/kidney_right.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00001674/ct.nii.gz BDMAP_00001674/segmentations/kidney_left.nii.gz BDMAP_00001674/segmentations/kidney_right.nii.gz A distinct arterial enhancement and significant detail are noted.
+BDMAP_00009250/ct.nii.gz BDMAP_00009250/segmentations/kidney_left.nii.gz BDMAP_00009250/segmentations/kidney_right.nii.gz ill-defined appears, displaying significant detail.
+BDMAP_00006414/ct.nii.gz BDMAP_00006414/segmentations/kidney_left.nii.gz BDMAP_00006414/segmentations/kidney_right.nii.gz Observed is a hypoattenuating, characterized by significant detail.
+BDMAP_00008628/ct.nii.gz BDMAP_00008628/segmentations/kidney_left.nii.gz BDMAP_00008628/segmentations/kidney_right.nii.gz cyst is present, revealing significant detail.
+BDMAP_00006246/ct.nii.gz BDMAP_00006246/segmentations/kidney_left.nii.gz BDMAP_00006246/segmentations/kidney_right.nii.gz A distinct metastases and significant detail are noted.
+BDMAP_00007067/ct.nii.gz BDMAP_00007067/segmentations/kidney_left.nii.gz BDMAP_00007067/segmentations/kidney_right.nii.gz Observed is a cirrhosis, characterized by significant detail.
+BDMAP_00007386/ct.nii.gz BDMAP_00007386/segmentations/kidney_left.nii.gz BDMAP_00007386/segmentations/kidney_right.nii.gz Observed is a hypoattenuating, characterized by significant detail.
+BDMAP_00005823/ct.nii.gz BDMAP_00005823/segmentations/kidney_left.nii.gz BDMAP_00005823/segmentations/kidney_right.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00008529/ct.nii.gz BDMAP_00008529/segmentations/kidney_left.nii.gz BDMAP_00008529/segmentations/kidney_right.nii.gz There is a notable well-defined with significant detail.
+BDMAP_00007023/ct.nii.gz BDMAP_00007023/segmentations/kidney_left.nii.gz BDMAP_00007023/segmentations/kidney_right.nii.gz A distinct cyst and significant detail are noted.
+BDMAP_00007439/ct.nii.gz BDMAP_00007439/segmentations/kidney_left.nii.gz BDMAP_00007439/segmentations/kidney_right.nii.gz There is a notable arterial enhancement with significant detail.
+BDMAP_00006930/ct.nii.gz BDMAP_00006930/segmentations/kidney_left.nii.gz BDMAP_00006930/segmentations/kidney_right.nii.gz There is a notable cyst with significant detail.
+BDMAP_00008877/ct.nii.gz BDMAP_00008877/segmentations/kidney_left.nii.gz BDMAP_00008877/segmentations/kidney_right.nii.gz A distinct well-defined and significant detail are noted.
+BDMAP_00007172/ct.nii.gz BDMAP_00007172/segmentations/kidney_left.nii.gz BDMAP_00007172/segmentations/kidney_right.nii.gz hyperattenuating appears, displaying significant detail.
+BDMAP_00008230/ct.nii.gz BDMAP_00008230/segmentations/kidney_left.nii.gz BDMAP_00008230/segmentations/kidney_right.nii.gz metastases appears, displaying significant detail.
+BDMAP_00005441/ct.nii.gz BDMAP_00005441/segmentations/kidney_left.nii.gz BDMAP_00005441/segmentations/kidney_right.nii.gz A distinct ill-defined and significant detail are noted.
+BDMAP_00008060/ct.nii.gz BDMAP_00008060/segmentations/kidney_left.nii.gz BDMAP_00008060/segmentations/kidney_right.nii.gz Observed is a hyperattenuating, characterized by significant detail.
+BDMAP_00000969/ct.nii.gz BDMAP_00000969/segmentations/kidney_left.nii.gz BDMAP_00000969/segmentations/kidney_right.nii.gz A distinct arterial enhancement and significant detail are noted.
+BDMAP_00007079/ct.nii.gz BDMAP_00007079/segmentations/kidney_left.nii.gz BDMAP_00007079/segmentations/kidney_right.nii.gz A distinct hypoattenuating and significant detail are noted.
+BDMAP_00003137/ct.nii.gz BDMAP_00003137/segmentations/kidney_left.nii.gz BDMAP_00003137/segmentations/kidney_right.nii.gz There is a notable hyperattenuating with significant detail.
+BDMAP_00006047/ct.nii.gz BDMAP_00006047/segmentations/kidney_left.nii.gz BDMAP_00006047/segmentations/kidney_right.nii.gz hypodensity appears, displaying significant detail.
+BDMAP_00007322/ct.nii.gz BDMAP_00007322/segmentations/kidney_left.nii.gz BDMAP_00007322/segmentations/kidney_right.nii.gz cyst appears, displaying significant detail.
+BDMAP_00008399/ct.nii.gz BDMAP_00008399/segmentations/kidney_left.nii.gz BDMAP_00008399/segmentations/kidney_right.nii.gz Observed is a washout, characterized by significant detail.
+BDMAP_00007922/ct.nii.gz BDMAP_00007922/segmentations/kidney_left.nii.gz BDMAP_00007922/segmentations/kidney_right.nii.gz well-defined is present, revealing significant detail.
+BDMAP_00008354/ct.nii.gz BDMAP_00008354/segmentations/kidney_left.nii.gz BDMAP_00008354/segmentations/kidney_right.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00009009/ct.nii.gz BDMAP_00009009/segmentations/kidney_left.nii.gz BDMAP_00009009/segmentations/kidney_right.nii.gz Observed is a hyperattenuating, characterized by significant detail.
+BDMAP_00008222/ct.nii.gz BDMAP_00008222/segmentations/kidney_left.nii.gz BDMAP_00008222/segmentations/kidney_right.nii.gz There is a notable ill-defined with significant detail.
+BDMAP_00007447/ct.nii.gz BDMAP_00007447/segmentations/kidney_left.nii.gz BDMAP_00007447/segmentations/kidney_right.nii.gz Observed is a well-defined, characterized by significant detail.
+BDMAP_00005659/ct.nii.gz BDMAP_00005659/segmentations/kidney_left.nii.gz BDMAP_00005659/segmentations/kidney_right.nii.gz A distinct heterogeneous enhancement and significant detail are noted.
+BDMAP_00008329/ct.nii.gz BDMAP_00008329/segmentations/kidney_left.nii.gz BDMAP_00008329/segmentations/kidney_right.nii.gz Observed is a cirrhosis, characterized by significant detail.
+BDMAP_00006451/ct.nii.gz BDMAP_00006451/segmentations/kidney_left.nii.gz BDMAP_00006451/segmentations/kidney_right.nii.gz well-defined is present, revealing significant detail.
+BDMAP_00009117/ct.nii.gz BDMAP_00009117/segmentations/kidney_left.nii.gz BDMAP_00009117/segmentations/kidney_right.nii.gz There is a notable washout with significant detail.
+BDMAP_00008712/ct.nii.gz BDMAP_00008712/segmentations/kidney_left.nii.gz BDMAP_00008712/segmentations/kidney_right.nii.gz hyperattenuating is present, revealing significant detail.
+BDMAP_00009260/ct.nii.gz BDMAP_00009260/segmentations/kidney_left.nii.gz BDMAP_00009260/segmentations/kidney_right.nii.gz There is a notable well-defined with significant detail.
+BDMAP_00005835/ct.nii.gz BDMAP_00005835/segmentations/kidney_left.nii.gz BDMAP_00005835/segmentations/kidney_right.nii.gz hypoattenuating appears, displaying significant detail.
+BDMAP_00008942/ct.nii.gz BDMAP_00008942/segmentations/kidney_left.nii.gz BDMAP_00008942/segmentations/kidney_right.nii.gz metastases appears, displaying significant detail.
+BDMAP_00008892/ct.nii.gz BDMAP_00008892/segmentations/kidney_left.nii.gz BDMAP_00008892/segmentations/kidney_right.nii.gz There is a notable cirrhosis with significant detail.
+BDMAP_00005551/ct.nii.gz BDMAP_00005551/segmentations/kidney_left.nii.gz BDMAP_00005551/segmentations/kidney_right.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00006318/ct.nii.gz BDMAP_00006318/segmentations/kidney_left.nii.gz BDMAP_00006318/segmentations/kidney_right.nii.gz A distinct arterial enhancement and significant detail are noted.
+BDMAP_00007016/ct.nii.gz BDMAP_00007016/segmentations/kidney_left.nii.gz BDMAP_00007016/segmentations/kidney_right.nii.gz A distinct hypodensity and significant detail are noted.
+BDMAP_00005857/ct.nii.gz BDMAP_00005857/segmentations/kidney_left.nii.gz BDMAP_00005857/segmentations/kidney_right.nii.gz Observed is a hypoattenuating, characterized by significant detail.
+BDMAP_00005911/ct.nii.gz BDMAP_00005911/segmentations/kidney_left.nii.gz BDMAP_00005911/segmentations/kidney_right.nii.gz There is a notable hypodensity with significant detail.
+BDMAP_00008513/ct.nii.gz BDMAP_00008513/segmentations/kidney_left.nii.gz BDMAP_00008513/segmentations/kidney_right.nii.gz There is a notable cyst with significant detail.
+BDMAP_00006950/ct.nii.gz BDMAP_00006950/segmentations/kidney_left.nii.gz BDMAP_00006950/segmentations/kidney_right.nii.gz Observed is a hyperattenuating, characterized by significant detail.
+BDMAP_00007968/ct.nii.gz BDMAP_00007968/segmentations/kidney_left.nii.gz BDMAP_00007968/segmentations/kidney_right.nii.gz There is a notable well-defined with significant detail.
+BDMAP_00006872/ct.nii.gz BDMAP_00006872/segmentations/kidney_left.nii.gz BDMAP_00006872/segmentations/kidney_right.nii.gz heterogeneous enhancement is present, revealing significant detail.
+BDMAP_00007819/ct.nii.gz BDMAP_00007819/segmentations/kidney_left.nii.gz BDMAP_00007819/segmentations/kidney_right.nii.gz A distinct heterogeneous enhancement and significant detail are noted.
+BDMAP_00002206/ct.nii.gz BDMAP_00002206/segmentations/kidney_left.nii.gz BDMAP_00002206/segmentations/kidney_right.nii.gz A distinct hyperattenuating and significant detail are noted.
+BDMAP_00008247/ct.nii.gz BDMAP_00008247/segmentations/kidney_left.nii.gz BDMAP_00008247/segmentations/kidney_right.nii.gz Observed is a cirrhosis, characterized by significant detail.
+BDMAP_00005296/ct.nii.gz BDMAP_00005296/segmentations/kidney_left.nii.gz BDMAP_00005296/segmentations/kidney_right.nii.gz A distinct metastases and significant detail are noted.
+BDMAP_00008675/ct.nii.gz BDMAP_00008675/segmentations/kidney_left.nii.gz BDMAP_00008675/segmentations/kidney_right.nii.gz Observed is a ill-defined, characterized by significant detail.
+BDMAP_00008753/ct.nii.gz BDMAP_00008753/segmentations/kidney_left.nii.gz BDMAP_00008753/segmentations/kidney_right.nii.gz well-defined is present, revealing significant detail.
+BDMAP_00005114/ct.nii.gz BDMAP_00005114/segmentations/kidney_left.nii.gz BDMAP_00005114/segmentations/kidney_right.nii.gz ill-defined is present, revealing significant detail.
+BDMAP_00007184/ct.nii.gz BDMAP_00007184/segmentations/kidney_left.nii.gz BDMAP_00007184/segmentations/kidney_right.nii.gz A distinct hyperattenuating and significant detail are noted.
+BDMAP_00007250/ct.nii.gz BDMAP_00007250/segmentations/kidney_left.nii.gz BDMAP_00007250/segmentations/kidney_right.nii.gz Observed is a washout, characterized by significant detail.
+BDMAP_00008235/ct.nii.gz BDMAP_00008235/segmentations/kidney_left.nii.gz BDMAP_00008235/segmentations/kidney_right.nii.gz hyperattenuating is present, revealing significant detail.
+BDMAP_00001044/ct.nii.gz BDMAP_00001044/segmentations/kidney_left.nii.gz BDMAP_00001044/segmentations/kidney_right.nii.gz A distinct hyperattenuating and significant detail are noted.
+BDMAP_00007128/ct.nii.gz BDMAP_00007128/segmentations/kidney_left.nii.gz BDMAP_00007128/segmentations/kidney_right.nii.gz Observed is a cirrhosis, characterized by significant detail.
+BDMAP_00008585/ct.nii.gz BDMAP_00008585/segmentations/kidney_left.nii.gz BDMAP_00008585/segmentations/kidney_right.nii.gz There is a notable cyst with significant detail.
+BDMAP_00006689/ct.nii.gz BDMAP_00006689/segmentations/kidney_left.nii.gz BDMAP_00006689/segmentations/kidney_right.nii.gz Observed is a well-defined, characterized by significant detail.
+BDMAP_00001960/ct.nii.gz BDMAP_00001960/segmentations/kidney_left.nii.gz BDMAP_00001960/segmentations/kidney_right.nii.gz A distinct washout and significant detail are noted.
+BDMAP_00007796/ct.nii.gz BDMAP_00007796/segmentations/kidney_left.nii.gz BDMAP_00007796/segmentations/kidney_right.nii.gz metastases is present, revealing significant detail.
+BDMAP_00006473/ct.nii.gz BDMAP_00006473/segmentations/kidney_left.nii.gz BDMAP_00006473/segmentations/kidney_right.nii.gz hypodensity is present, revealing significant detail.
+BDMAP_00008453/ct.nii.gz BDMAP_00008453/segmentations/kidney_left.nii.gz BDMAP_00008453/segmentations/kidney_right.nii.gz Observed is a metastases, characterized by significant detail.
+BDMAP_00006833/ct.nii.gz BDMAP_00006833/segmentations/kidney_left.nii.gz BDMAP_00006833/segmentations/kidney_right.nii.gz There is a notable hypoattenuating with significant detail.
+BDMAP_00006291/ct.nii.gz BDMAP_00006291/segmentations/kidney_left.nii.gz BDMAP_00006291/segmentations/kidney_right.nii.gz Observed is a washout, characterized by significant detail.
+BDMAP_00007967/ct.nii.gz BDMAP_00007967/segmentations/kidney_left.nii.gz BDMAP_00007967/segmentations/kidney_right.nii.gz heterogeneous enhancement is present, revealing significant detail.
+BDMAP_00007550/ct.nii.gz BDMAP_00007550/segmentations/kidney_left.nii.gz BDMAP_00007550/segmentations/kidney_right.nii.gz hypoattenuating appears, displaying significant detail.
+BDMAP_00006874/ct.nii.gz BDMAP_00006874/segmentations/kidney_left.nii.gz BDMAP_00006874/segmentations/kidney_right.nii.gz Observed is a hypoattenuating, characterized by significant detail.
+BDMAP_00006932/ct.nii.gz BDMAP_00006932/segmentations/kidney_left.nii.gz BDMAP_00006932/segmentations/kidney_right.nii.gz ill-defined appears, displaying significant detail.
+BDMAP_00009044/ct.nii.gz BDMAP_00009044/segmentations/kidney_left.nii.gz BDMAP_00009044/segmentations/kidney_right.nii.gz cyst appears, displaying significant detail.
+BDMAP_00007609/ct.nii.gz BDMAP_00007609/segmentations/kidney_left.nii.gz BDMAP_00007609/segmentations/kidney_right.nii.gz cirrhosis appears, displaying significant detail.
+BDMAP_00005742/ct.nii.gz BDMAP_00005742/segmentations/kidney_left.nii.gz BDMAP_00005742/segmentations/kidney_right.nii.gz hyperattenuating appears, displaying significant detail.
+BDMAP_00007005/ct.nii.gz BDMAP_00007005/segmentations/kidney_left.nii.gz BDMAP_00007005/segmentations/kidney_right.nii.gz ill-defined is present, revealing significant detail.
+BDMAP_00005408/ct.nii.gz BDMAP_00005408/segmentations/kidney_left.nii.gz BDMAP_00005408/segmentations/kidney_right.nii.gz hypoattenuating appears, displaying significant detail.
+BDMAP_00008936/ct.nii.gz BDMAP_00008936/segmentations/kidney_left.nii.gz BDMAP_00008936/segmentations/kidney_right.nii.gz cyst is present, revealing significant detail.
+BDMAP_00008118/ct.nii.gz BDMAP_00008118/segmentations/kidney_left.nii.gz BDMAP_00008118/segmentations/kidney_right.nii.gz ill-defined is present, revealing significant detail.
+BDMAP_00008316/ct.nii.gz BDMAP_00008316/segmentations/kidney_left.nii.gz BDMAP_00008316/segmentations/kidney_right.nii.gz There is a notable hypodensity with significant detail.
+BDMAP_00006331/ct.nii.gz BDMAP_00006331/segmentations/kidney_left.nii.gz BDMAP_00006331/segmentations/kidney_right.nii.gz A distinct washout and significant detail are noted.
+BDMAP_00005262/ct.nii.gz BDMAP_00005262/segmentations/kidney_left.nii.gz BDMAP_00005262/segmentations/kidney_right.nii.gz hypodensity is present, revealing significant detail.
+BDMAP_00005352/ct.nii.gz BDMAP_00005352/segmentations/kidney_left.nii.gz BDMAP_00005352/segmentations/kidney_right.nii.gz There is a notable arterial enhancement with significant detail.
+BDMAP_00008576/ct.nii.gz BDMAP_00008576/segmentations/kidney_left.nii.gz BDMAP_00008576/segmentations/kidney_right.nii.gz hypodensity appears, displaying significant detail.
+BDMAP_00006095/ct.nii.gz BDMAP_00006095/segmentations/kidney_left.nii.gz BDMAP_00006095/segmentations/kidney_right.nii.gz cyst appears, displaying significant detail.
+BDMAP_00008646/ct.nii.gz BDMAP_00008646/segmentations/kidney_left.nii.gz BDMAP_00008646/segmentations/kidney_right.nii.gz ill-defined appears, displaying significant detail.
+BDMAP_00006692/ct.nii.gz BDMAP_00006692/segmentations/kidney_left.nii.gz BDMAP_00006692/segmentations/kidney_right.nii.gz There is a notable hyperattenuating with significant detail.
+BDMAP_00005420/ct.nii.gz BDMAP_00005420/segmentations/kidney_left.nii.gz BDMAP_00005420/segmentations/kidney_right.nii.gz Observed is a hypodensity, characterized by significant detail.
+BDMAP_00005536/ct.nii.gz BDMAP_00005536/segmentations/kidney_left.nii.gz BDMAP_00005536/segmentations/kidney_right.nii.gz well-defined is present, revealing significant detail.
+BDMAP_00009051/ct.nii.gz BDMAP_00009051/segmentations/kidney_left.nii.gz BDMAP_00009051/segmentations/kidney_right.nii.gz There is a notable cirrhosis with significant detail.
+BDMAP_00008113/ct.nii.gz BDMAP_00008113/segmentations/kidney_left.nii.gz BDMAP_00008113/segmentations/kidney_right.nii.gz A distinct heterogeneous enhancement and significant detail are noted.
+BDMAP_00003783/ct.nii.gz BDMAP_00003783/segmentations/kidney_left.nii.gz BDMAP_00003783/segmentations/kidney_right.nii.gz There is a notable hyperattenuating with significant detail.
+BDMAP_00007076/ct.nii.gz BDMAP_00007076/segmentations/kidney_left.nii.gz BDMAP_00007076/segmentations/kidney_right.nii.gz Observed is a metastases, characterized by significant detail.
+BDMAP_00007102/ct.nii.gz BDMAP_00007102/segmentations/kidney_left.nii.gz BDMAP_00007102/segmentations/kidney_right.nii.gz washout is present, revealing significant detail.
+BDMAP_00007427/ct.nii.gz BDMAP_00007427/segmentations/kidney_left.nii.gz BDMAP_00007427/segmentations/kidney_right.nii.gz There is a notable metastases with significant detail.
+BDMAP_00005808/ct.nii.gz BDMAP_00005808/segmentations/kidney_left.nii.gz BDMAP_00005808/segmentations/kidney_right.nii.gz hypoattenuating is present, revealing significant detail.
+BDMAP_00008921/ct.nii.gz BDMAP_00008921/segmentations/kidney_left.nii.gz BDMAP_00008921/segmentations/kidney_right.nii.gz There is a notable cyst with significant detail.
+BDMAP_00007327/ct.nii.gz BDMAP_00007327/segmentations/kidney_left.nii.gz BDMAP_00007327/segmentations/kidney_right.nii.gz cyst is present, revealing significant detail.
+BDMAP_00006597/ct.nii.gz BDMAP_00006597/segmentations/kidney_left.nii.gz BDMAP_00006597/segmentations/kidney_right.nii.gz There is a notable cirrhosis with significant detail.
+BDMAP_00005449/ct.nii.gz BDMAP_00005449/segmentations/kidney_left.nii.gz BDMAP_00005449/segmentations/kidney_right.nii.gz Observed is a hyperattenuating, characterized by significant detail.
+BDMAP_00005273/ct.nii.gz BDMAP_00005273/segmentations/kidney_left.nii.gz BDMAP_00005273/segmentations/kidney_right.nii.gz There is a notable cirrhosis with significant detail.
+BDMAP_00000659/ct.nii.gz BDMAP_00000659/segmentations/kidney_left.nii.gz BDMAP_00000659/segmentations/kidney_right.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00008330/ct.nii.gz BDMAP_00008330/segmentations/kidney_left.nii.gz BDMAP_00008330/segmentations/kidney_right.nii.gz Observed is a hyperattenuating, characterized by significant detail.
+BDMAP_00006427/ct.nii.gz BDMAP_00006427/segmentations/kidney_left.nii.gz BDMAP_00006427/segmentations/kidney_right.nii.gz A distinct well-defined and significant detail are noted.
+BDMAP_00009056/ct.nii.gz BDMAP_00009056/segmentations/kidney_left.nii.gz BDMAP_00009056/segmentations/kidney_right.nii.gz A distinct heterogeneous enhancement and significant detail are noted.
+BDMAP_00005843/ct.nii.gz BDMAP_00005843/segmentations/kidney_left.nii.gz BDMAP_00005843/segmentations/kidney_right.nii.gz ill-defined is present, revealing significant detail.
+BDMAP_00005458/ct.nii.gz BDMAP_00005458/segmentations/kidney_left.nii.gz BDMAP_00005458/segmentations/kidney_right.nii.gz A distinct metastases and significant detail are noted.
+BDMAP_00006587/ct.nii.gz BDMAP_00006587/segmentations/kidney_left.nii.gz BDMAP_00006587/segmentations/kidney_right.nii.gz A distinct heterogeneous enhancement and significant detail are noted.
+BDMAP_00007610/ct.nii.gz BDMAP_00007610/segmentations/kidney_left.nii.gz BDMAP_00007610/segmentations/kidney_right.nii.gz well-defined is present, revealing significant detail.
+BDMAP_00006382/ct.nii.gz BDMAP_00006382/segmentations/kidney_left.nii.gz BDMAP_00006382/segmentations/kidney_right.nii.gz A distinct hyperattenuating and significant detail are noted.
+BDMAP_00008236/ct.nii.gz BDMAP_00008236/segmentations/kidney_left.nii.gz BDMAP_00008236/segmentations/kidney_right.nii.gz hypodensity appears, displaying significant detail.
+BDMAP_00006937/ct.nii.gz BDMAP_00006937/segmentations/kidney_left.nii.gz BDMAP_00006937/segmentations/kidney_right.nii.gz A distinct well-defined and significant detail are noted.
+BDMAP_00007574/ct.nii.gz BDMAP_00007574/segmentations/kidney_left.nii.gz BDMAP_00007574/segmentations/kidney_right.nii.gz A distinct cirrhosis and significant detail are noted.
+BDMAP_00007793/ct.nii.gz BDMAP_00007793/segmentations/kidney_left.nii.gz BDMAP_00007793/segmentations/kidney_right.nii.gz There is a notable hypodensity with significant detail.
+BDMAP_00007194/ct.nii.gz BDMAP_00007194/segmentations/kidney_left.nii.gz BDMAP_00007194/segmentations/kidney_right.nii.gz There is a notable hypodensity with significant detail.
+BDMAP_00005785/ct.nii.gz BDMAP_00005785/segmentations/kidney_left.nii.gz BDMAP_00005785/segmentations/kidney_right.nii.gz washout is present, revealing significant detail.
+BDMAP_00006802/ct.nii.gz BDMAP_00006802/segmentations/kidney_left.nii.gz BDMAP_00006802/segmentations/kidney_right.nii.gz ill-defined is present, revealing significant detail.
+BDMAP_00007750/ct.nii.gz BDMAP_00007750/segmentations/kidney_left.nii.gz BDMAP_00007750/segmentations/kidney_right.nii.gz Observed is a hypoattenuating, characterized by significant detail.
+BDMAP_00001993/ct.nii.gz BDMAP_00001993/segmentations/kidney_left.nii.gz BDMAP_00001993/segmentations/kidney_right.nii.gz cyst appears, displaying significant detail.
+BDMAP_00008022/ct.nii.gz BDMAP_00008022/segmentations/kidney_left.nii.gz BDMAP_00008022/segmentations/kidney_right.nii.gz metastases appears, displaying significant detail.
+BDMAP_00008261/ct.nii.gz BDMAP_00008261/segmentations/kidney_left.nii.gz BDMAP_00008261/segmentations/kidney_right.nii.gz A distinct hyperattenuating and significant detail are noted.
+BDMAP_00003982/ct.nii.gz BDMAP_00003982/segmentations/kidney_left.nii.gz BDMAP_00003982/segmentations/kidney_right.nii.gz There is a notable ill-defined with significant detail.
+BDMAP_00001338/ct.nii.gz BDMAP_00001338/segmentations/kidney_left.nii.gz BDMAP_00001338/segmentations/kidney_right.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00006038/ct.nii.gz BDMAP_00006038/segmentations/kidney_left.nii.gz BDMAP_00006038/segmentations/kidney_right.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00005690/ct.nii.gz BDMAP_00005690/segmentations/kidney_left.nii.gz BDMAP_00005690/segmentations/kidney_right.nii.gz There is a notable hyperattenuating with significant detail.
+BDMAP_00005503/ct.nii.gz BDMAP_00005503/segmentations/kidney_left.nii.gz BDMAP_00005503/segmentations/kidney_right.nii.gz heterogeneous enhancement is present, revealing significant detail.
+BDMAP_00006216/ct.nii.gz BDMAP_00006216/segmentations/kidney_left.nii.gz BDMAP_00006216/segmentations/kidney_right.nii.gz A distinct hyperattenuating and significant detail are noted.
+BDMAP_00005611/ct.nii.gz BDMAP_00005611/segmentations/kidney_left.nii.gz BDMAP_00005611/segmentations/kidney_right.nii.gz A distinct arterial enhancement and significant detail are noted.
+BDMAP_00005414/ct.nii.gz BDMAP_00005414/segmentations/kidney_left.nii.gz BDMAP_00005414/segmentations/kidney_right.nii.gz cyst appears, displaying significant detail.
+BDMAP_00006287/ct.nii.gz BDMAP_00006287/segmentations/kidney_left.nii.gz BDMAP_00006287/segmentations/kidney_right.nii.gz A distinct arterial enhancement and significant detail are noted.
+BDMAP_00008863/ct.nii.gz BDMAP_00008863/segmentations/kidney_left.nii.gz BDMAP_00008863/segmentations/kidney_right.nii.gz Observed is a well-defined, characterized by significant detail.
+BDMAP_00008226/ct.nii.gz BDMAP_00008226/segmentations/kidney_left.nii.gz BDMAP_00008226/segmentations/kidney_right.nii.gz A distinct hyperattenuating and significant detail are noted.
+BDMAP_00005926/ct.nii.gz BDMAP_00005926/segmentations/kidney_left.nii.gz BDMAP_00005926/segmentations/kidney_right.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00009261/ct.nii.gz BDMAP_00009261/segmentations/kidney_left.nii.gz BDMAP_00009261/segmentations/kidney_right.nii.gz There is a notable hyperattenuating with significant detail.
+BDMAP_00007244/ct.nii.gz BDMAP_00007244/segmentations/kidney_left.nii.gz BDMAP_00007244/segmentations/kidney_right.nii.gz There is a notable washout with significant detail.
+BDMAP_00007323/ct.nii.gz BDMAP_00007323/segmentations/kidney_left.nii.gz BDMAP_00007323/segmentations/kidney_right.nii.gz heterogeneous enhancement appears, displaying significant detail.
+BDMAP_00005447/ct.nii.gz BDMAP_00005447/segmentations/kidney_left.nii.gz BDMAP_00005447/segmentations/kidney_right.nii.gz Observed is a cyst, characterized by significant detail.
+BDMAP_00006141/ct.nii.gz BDMAP_00006141/segmentations/kidney_left.nii.gz BDMAP_00006141/segmentations/kidney_right.nii.gz A distinct hypodensity and significant detail are noted.
+BDMAP_00007410/ct.nii.gz BDMAP_00007410/segmentations/kidney_left.nii.gz BDMAP_00007410/segmentations/kidney_right.nii.gz A distinct hypodensity and significant detail are noted.
+BDMAP_00007553/ct.nii.gz BDMAP_00007553/segmentations/kidney_left.nii.gz BDMAP_00007553/segmentations/kidney_right.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00006069/ct.nii.gz BDMAP_00006069/segmentations/kidney_left.nii.gz BDMAP_00006069/segmentations/kidney_right.nii.gz A distinct hypoattenuating and significant detail are noted.
+BDMAP_00008599/ct.nii.gz BDMAP_00008599/segmentations/kidney_left.nii.gz BDMAP_00008599/segmentations/kidney_right.nii.gz There is a notable cyst with significant detail.
+BDMAP_00008734/ct.nii.gz BDMAP_00008734/segmentations/kidney_left.nii.gz BDMAP_00008734/segmentations/kidney_right.nii.gz There is a notable arterial enhancement with significant detail.
+BDMAP_00006022/ct.nii.gz BDMAP_00006022/segmentations/kidney_left.nii.gz BDMAP_00006022/segmentations/kidney_right.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00007143/ct.nii.gz BDMAP_00007143/segmentations/kidney_left.nii.gz BDMAP_00007143/segmentations/kidney_right.nii.gz Observed is a hypoattenuating, characterized by significant detail.
+BDMAP_00003235/ct.nii.gz BDMAP_00003235/segmentations/kidney_left.nii.gz BDMAP_00003235/segmentations/kidney_right.nii.gz There is a notable metastases with significant detail.
+BDMAP_00004698/ct.nii.gz BDMAP_00004698/segmentations/kidney_left.nii.gz BDMAP_00004698/segmentations/kidney_right.nii.gz hypodensity appears, displaying significant detail.
+BDMAP_00000024/ct.nii.gz BDMAP_00000024/segmentations/kidney_left.nii.gz BDMAP_00000024/segmentations/kidney_right.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00005679/ct.nii.gz BDMAP_00005679/segmentations/kidney_left.nii.gz BDMAP_00005679/segmentations/kidney_right.nii.gz Observed is a hypoattenuating, characterized by significant detail.
+BDMAP_00006764/ct.nii.gz BDMAP_00006764/segmentations/kidney_left.nii.gz BDMAP_00006764/segmentations/kidney_right.nii.gz There is a notable cyst with significant detail.
+BDMAP_00003837/ct.nii.gz BDMAP_00003837/segmentations/kidney_left.nii.gz BDMAP_00003837/segmentations/kidney_right.nii.gz A distinct hyperattenuating and significant detail are noted.
+BDMAP_00007276/ct.nii.gz BDMAP_00007276/segmentations/kidney_left.nii.gz BDMAP_00007276/segmentations/kidney_right.nii.gz heterogeneous enhancement is present, revealing significant detail.
+BDMAP_00006280/ct.nii.gz BDMAP_00006280/segmentations/kidney_left.nii.gz BDMAP_00006280/segmentations/kidney_right.nii.gz A distinct cirrhosis and significant detail are noted.
+BDMAP_00008728/ct.nii.gz BDMAP_00008728/segmentations/kidney_left.nii.gz BDMAP_00008728/segmentations/kidney_right.nii.gz well-defined is present, revealing significant detail.
+BDMAP_00006751/ct.nii.gz BDMAP_00006751/segmentations/kidney_left.nii.gz BDMAP_00006751/segmentations/kidney_right.nii.gz Observed is a washout, characterized by significant detail.
+BDMAP_00006177/ct.nii.gz BDMAP_00006177/segmentations/kidney_left.nii.gz BDMAP_00006177/segmentations/kidney_right.nii.gz washout is present, revealing significant detail.
+BDMAP_00009228/ct.nii.gz BDMAP_00009228/segmentations/kidney_left.nii.gz BDMAP_00009228/segmentations/kidney_right.nii.gz There is a notable washout with significant detail.
+BDMAP_00005264/ct.nii.gz BDMAP_00005264/segmentations/kidney_left.nii.gz BDMAP_00005264/segmentations/kidney_right.nii.gz Observed is a metastases, characterized by significant detail.
+BDMAP_00005896/ct.nii.gz BDMAP_00005896/segmentations/kidney_left.nii.gz BDMAP_00005896/segmentations/kidney_right.nii.gz Observed is a ill-defined, characterized by significant detail.
+BDMAP_00005527/ct.nii.gz BDMAP_00005527/segmentations/kidney_left.nii.gz BDMAP_00005527/segmentations/kidney_right.nii.gz A distinct heterogeneous enhancement and significant detail are noted.
+BDMAP_00002212/ct.nii.gz BDMAP_00002212/segmentations/kidney_left.nii.gz BDMAP_00002212/segmentations/kidney_right.nii.gz heterogeneous enhancement appears, displaying significant detail.
+BDMAP_00006084/ct.nii.gz BDMAP_00006084/segmentations/kidney_left.nii.gz BDMAP_00006084/segmentations/kidney_right.nii.gz Observed is a well-defined, characterized by significant detail.
+BDMAP_00002314/ct.nii.gz BDMAP_00002314/segmentations/kidney_left.nii.gz BDMAP_00002314/segmentations/kidney_right.nii.gz hypodensity appears, displaying significant detail.
+BDMAP_00007221/ct.nii.gz BDMAP_00007221/segmentations/kidney_left.nii.gz BDMAP_00007221/segmentations/kidney_right.nii.gz cirrhosis is present, revealing significant detail.
+BDMAP_00005713/ct.nii.gz BDMAP_00005713/segmentations/kidney_left.nii.gz BDMAP_00005713/segmentations/kidney_right.nii.gz Observed is a heterogeneous enhancement, characterized by significant detail.
+BDMAP_00006224/ct.nii.gz BDMAP_00006224/segmentations/kidney_left.nii.gz BDMAP_00006224/segmentations/kidney_right.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00006866/ct.nii.gz BDMAP_00006866/segmentations/kidney_left.nii.gz BDMAP_00006866/segmentations/kidney_right.nii.gz Observed is a hypodensity, characterized by significant detail.
+BDMAP_00005689/ct.nii.gz BDMAP_00005689/segmentations/kidney_left.nii.gz BDMAP_00005689/segmentations/kidney_right.nii.gz arterial enhancement is present, revealing significant detail.
+BDMAP_00008604/ct.nii.gz BDMAP_00008604/segmentations/kidney_left.nii.gz BDMAP_00008604/segmentations/kidney_right.nii.gz hypodensity appears, displaying significant detail.
+BDMAP_00006207/ct.nii.gz BDMAP_00006207/segmentations/kidney_left.nii.gz BDMAP_00006207/segmentations/kidney_right.nii.gz Observed is a hyperattenuating, characterized by significant detail.
+BDMAP_00009070/ct.nii.gz BDMAP_00009070/segmentations/kidney_left.nii.gz BDMAP_00009070/segmentations/kidney_right.nii.gz arterial enhancement is present, revealing significant detail.
+BDMAP_00007722/ct.nii.gz BDMAP_00007722/segmentations/kidney_left.nii.gz BDMAP_00007722/segmentations/kidney_right.nii.gz metastases is present, revealing significant detail.
+BDMAP_00007198/ct.nii.gz BDMAP_00007198/segmentations/kidney_left.nii.gz BDMAP_00007198/segmentations/kidney_right.nii.gz washout appears, displaying significant detail.
+BDMAP_00007092/ct.nii.gz BDMAP_00007092/segmentations/kidney_left.nii.gz BDMAP_00007092/segmentations/kidney_right.nii.gz cirrhosis appears, displaying significant detail.
+BDMAP_00006457/ct.nii.gz BDMAP_00006457/segmentations/kidney_left.nii.gz BDMAP_00006457/segmentations/kidney_right.nii.gz heterogeneous enhancement is present, revealing significant detail.
+BDMAP_00006784/ct.nii.gz BDMAP_00006784/segmentations/kidney_left.nii.gz BDMAP_00006784/segmentations/kidney_right.nii.gz A distinct well-defined and significant detail are noted.
+BDMAP_00007516/ct.nii.gz BDMAP_00007516/segmentations/kidney_left.nii.gz BDMAP_00007516/segmentations/kidney_right.nii.gz Observed is a washout, characterized by significant detail.
+BDMAP_00006974/ct.nii.gz BDMAP_00006974/segmentations/kidney_left.nii.gz BDMAP_00006974/segmentations/kidney_right.nii.gz cyst is present, revealing significant detail.
+BDMAP_00006941/ct.nii.gz BDMAP_00006941/segmentations/kidney_left.nii.gz BDMAP_00006941/segmentations/kidney_right.nii.gz hypoattenuating appears, displaying significant detail.
+BDMAP_00007234/ct.nii.gz BDMAP_00007234/segmentations/kidney_left.nii.gz BDMAP_00007234/segmentations/kidney_right.nii.gz arterial enhancement appears, displaying significant detail.
+BDMAP_00007875/ct.nii.gz BDMAP_00007875/segmentations/kidney_left.nii.gz BDMAP_00007875/segmentations/kidney_right.nii.gz ill-defined is present, revealing significant detail.
+BDMAP_00007225/ct.nii.gz BDMAP_00007225/segmentations/kidney_left.nii.gz BDMAP_00007225/segmentations/kidney_right.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00005477/ct.nii.gz BDMAP_00005477/segmentations/kidney_left.nii.gz BDMAP_00005477/segmentations/kidney_right.nii.gz There is a notable hypodensity with significant detail.
+BDMAP_00008325/ct.nii.gz BDMAP_00008325/segmentations/kidney_left.nii.gz BDMAP_00008325/segmentations/kidney_right.nii.gz Observed is a hypodensity, characterized by significant detail.
+BDMAP_00008963/ct.nii.gz BDMAP_00008963/segmentations/kidney_left.nii.gz BDMAP_00008963/segmentations/kidney_right.nii.gz There is a notable cirrhosis with significant detail.

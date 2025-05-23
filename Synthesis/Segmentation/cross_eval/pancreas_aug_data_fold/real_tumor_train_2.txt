@@ -1,0 +1,725 @@
+Task07_Pancreas/imagesTr/pancreas_004.nii.gz Task07_Pancreas/labelsTr/pancreas_004.nii.gz
+Task07_Pancreas/imagesTr/pancreas_005.nii.gz Task07_Pancreas/labelsTr/pancreas_005.nii.gz
+Task07_Pancreas/imagesTr/pancreas_006.nii.gz Task07_Pancreas/labelsTr/pancreas_006.nii.gz
+Task07_Pancreas/imagesTr/pancreas_010.nii.gz Task07_Pancreas/labelsTr/pancreas_010.nii.gz
+Task07_Pancreas/imagesTr/pancreas_012.nii.gz Task07_Pancreas/labelsTr/pancreas_012.nii.gz
+Task07_Pancreas/imagesTr/pancreas_015.nii.gz Task07_Pancreas/labelsTr/pancreas_015.nii.gz
+Task07_Pancreas/imagesTr/pancreas_016.nii.gz Task07_Pancreas/labelsTr/pancreas_016.nii.gz
+Task07_Pancreas/imagesTr/pancreas_018.nii.gz Task07_Pancreas/labelsTr/pancreas_018.nii.gz
+Task07_Pancreas/imagesTr/pancreas_019.nii.gz Task07_Pancreas/labelsTr/pancreas_019.nii.gz
+Task07_Pancreas/imagesTr/pancreas_021.nii.gz Task07_Pancreas/labelsTr/pancreas_021.nii.gz
+Task07_Pancreas/imagesTr/pancreas_028.nii.gz Task07_Pancreas/labelsTr/pancreas_028.nii.gz
+Task07_Pancreas/imagesTr/pancreas_029.nii.gz Task07_Pancreas/labelsTr/pancreas_029.nii.gz
+Task07_Pancreas/imagesTr/pancreas_032.nii.gz Task07_Pancreas/labelsTr/pancreas_032.nii.gz
+Task07_Pancreas/imagesTr/pancreas_035.nii.gz Task07_Pancreas/labelsTr/pancreas_035.nii.gz
+Task07_Pancreas/imagesTr/pancreas_037.nii.gz Task07_Pancreas/labelsTr/pancreas_037.nii.gz
+Task07_Pancreas/imagesTr/pancreas_040.nii.gz Task07_Pancreas/labelsTr/pancreas_040.nii.gz
+Task07_Pancreas/imagesTr/pancreas_041.nii.gz Task07_Pancreas/labelsTr/pancreas_041.nii.gz
+Task07_Pancreas/imagesTr/pancreas_042.nii.gz Task07_Pancreas/labelsTr/pancreas_042.nii.gz
+Task07_Pancreas/imagesTr/pancreas_043.nii.gz Task07_Pancreas/labelsTr/pancreas_043.nii.gz
+Task07_Pancreas/imagesTr/pancreas_045.nii.gz Task07_Pancreas/labelsTr/pancreas_045.nii.gz
+Task07_Pancreas/imagesTr/pancreas_046.nii.gz Task07_Pancreas/labelsTr/pancreas_046.nii.gz
+Task07_Pancreas/imagesTr/pancreas_048.nii.gz Task07_Pancreas/labelsTr/pancreas_048.nii.gz
+Task07_Pancreas/imagesTr/pancreas_049.nii.gz Task07_Pancreas/labelsTr/pancreas_049.nii.gz
+Task07_Pancreas/imagesTr/pancreas_051.nii.gz Task07_Pancreas/labelsTr/pancreas_051.nii.gz
+Task07_Pancreas/imagesTr/pancreas_056.nii.gz Task07_Pancreas/labelsTr/pancreas_056.nii.gz
+Task07_Pancreas/imagesTr/pancreas_058.nii.gz Task07_Pancreas/labelsTr/pancreas_058.nii.gz
+Task07_Pancreas/imagesTr/pancreas_061.nii.gz Task07_Pancreas/labelsTr/pancreas_061.nii.gz
+Task07_Pancreas/imagesTr/pancreas_064.nii.gz Task07_Pancreas/labelsTr/pancreas_064.nii.gz
+Task07_Pancreas/imagesTr/pancreas_066.nii.gz Task07_Pancreas/labelsTr/pancreas_066.nii.gz
+Task07_Pancreas/imagesTr/pancreas_070.nii.gz Task07_Pancreas/labelsTr/pancreas_070.nii.gz
+Task07_Pancreas/imagesTr/pancreas_071.nii.gz Task07_Pancreas/labelsTr/pancreas_071.nii.gz
+Task07_Pancreas/imagesTr/pancreas_074.nii.gz Task07_Pancreas/labelsTr/pancreas_074.nii.gz
+Task07_Pancreas/imagesTr/pancreas_075.nii.gz Task07_Pancreas/labelsTr/pancreas_075.nii.gz
+Task07_Pancreas/imagesTr/pancreas_078.nii.gz Task07_Pancreas/labelsTr/pancreas_078.nii.gz
+Task07_Pancreas/imagesTr/pancreas_080.nii.gz Task07_Pancreas/labelsTr/pancreas_080.nii.gz
+Task07_Pancreas/imagesTr/pancreas_081.nii.gz Task07_Pancreas/labelsTr/pancreas_081.nii.gz
+Task07_Pancreas/imagesTr/pancreas_083.nii.gz Task07_Pancreas/labelsTr/pancreas_083.nii.gz
+Task07_Pancreas/imagesTr/pancreas_084.nii.gz Task07_Pancreas/labelsTr/pancreas_084.nii.gz
+Task07_Pancreas/imagesTr/pancreas_086.nii.gz Task07_Pancreas/labelsTr/pancreas_086.nii.gz
+Task07_Pancreas/imagesTr/pancreas_087.nii.gz Task07_Pancreas/labelsTr/pancreas_087.nii.gz
+Task07_Pancreas/imagesTr/pancreas_088.nii.gz Task07_Pancreas/labelsTr/pancreas_088.nii.gz
+Task07_Pancreas/imagesTr/pancreas_089.nii.gz Task07_Pancreas/labelsTr/pancreas_089.nii.gz
+Task07_Pancreas/imagesTr/pancreas_092.nii.gz Task07_Pancreas/labelsTr/pancreas_092.nii.gz
+Task07_Pancreas/imagesTr/pancreas_093.nii.gz Task07_Pancreas/labelsTr/pancreas_093.nii.gz
+Task07_Pancreas/imagesTr/pancreas_094.nii.gz Task07_Pancreas/labelsTr/pancreas_094.nii.gz
+Task07_Pancreas/imagesTr/pancreas_095.nii.gz Task07_Pancreas/labelsTr/pancreas_095.nii.gz
+Task07_Pancreas/imagesTr/pancreas_096.nii.gz Task07_Pancreas/labelsTr/pancreas_096.nii.gz
+Task07_Pancreas/imagesTr/pancreas_098.nii.gz Task07_Pancreas/labelsTr/pancreas_098.nii.gz
+Task07_Pancreas/imagesTr/pancreas_099.nii.gz Task07_Pancreas/labelsTr/pancreas_099.nii.gz
+Task07_Pancreas/imagesTr/pancreas_100.nii.gz Task07_Pancreas/labelsTr/pancreas_100.nii.gz
+Task07_Pancreas/imagesTr/pancreas_101.nii.gz Task07_Pancreas/labelsTr/pancreas_101.nii.gz
+Task07_Pancreas/imagesTr/pancreas_103.nii.gz Task07_Pancreas/labelsTr/pancreas_103.nii.gz
+Task07_Pancreas/imagesTr/pancreas_104.nii.gz Task07_Pancreas/labelsTr/pancreas_104.nii.gz
+Task07_Pancreas/imagesTr/pancreas_105.nii.gz Task07_Pancreas/labelsTr/pancreas_105.nii.gz
+Task07_Pancreas/imagesTr/pancreas_107.nii.gz Task07_Pancreas/labelsTr/pancreas_107.nii.gz
+Task07_Pancreas/imagesTr/pancreas_109.nii.gz Task07_Pancreas/labelsTr/pancreas_109.nii.gz
+Task07_Pancreas/imagesTr/pancreas_110.nii.gz Task07_Pancreas/labelsTr/pancreas_110.nii.gz
+Task07_Pancreas/imagesTr/pancreas_111.nii.gz Task07_Pancreas/labelsTr/pancreas_111.nii.gz
+Task07_Pancreas/imagesTr/pancreas_113.nii.gz Task07_Pancreas/labelsTr/pancreas_113.nii.gz
+Task07_Pancreas/imagesTr/pancreas_114.nii.gz Task07_Pancreas/labelsTr/pancreas_114.nii.gz
+Task07_Pancreas/imagesTr/pancreas_117.nii.gz Task07_Pancreas/labelsTr/pancreas_117.nii.gz
+Task07_Pancreas/imagesTr/pancreas_119.nii.gz Task07_Pancreas/labelsTr/pancreas_119.nii.gz
+Task07_Pancreas/imagesTr/pancreas_122.nii.gz Task07_Pancreas/labelsTr/pancreas_122.nii.gz
+Task07_Pancreas/imagesTr/pancreas_124.nii.gz Task07_Pancreas/labelsTr/pancreas_124.nii.gz
+Task07_Pancreas/imagesTr/pancreas_125.nii.gz Task07_Pancreas/labelsTr/pancreas_125.nii.gz
+Task07_Pancreas/imagesTr/pancreas_126.nii.gz Task07_Pancreas/labelsTr/pancreas_126.nii.gz
+Task07_Pancreas/imagesTr/pancreas_127.nii.gz Task07_Pancreas/labelsTr/pancreas_127.nii.gz
+Task07_Pancreas/imagesTr/pancreas_129.nii.gz Task07_Pancreas/labelsTr/pancreas_129.nii.gz
+Task07_Pancreas/imagesTr/pancreas_130.nii.gz Task07_Pancreas/labelsTr/pancreas_130.nii.gz
+Task07_Pancreas/imagesTr/pancreas_131.nii.gz Task07_Pancreas/labelsTr/pancreas_131.nii.gz
+Task07_Pancreas/imagesTr/pancreas_135.nii.gz Task07_Pancreas/labelsTr/pancreas_135.nii.gz
+Task07_Pancreas/imagesTr/pancreas_137.nii.gz Task07_Pancreas/labelsTr/pancreas_137.nii.gz
+Task07_Pancreas/imagesTr/pancreas_140.nii.gz Task07_Pancreas/labelsTr/pancreas_140.nii.gz
+Task07_Pancreas/imagesTr/pancreas_145.nii.gz Task07_Pancreas/labelsTr/pancreas_145.nii.gz
+Task07_Pancreas/imagesTr/pancreas_147.nii.gz Task07_Pancreas/labelsTr/pancreas_147.nii.gz
+Task07_Pancreas/imagesTr/pancreas_148.nii.gz Task07_Pancreas/labelsTr/pancreas_148.nii.gz
+Task07_Pancreas/imagesTr/pancreas_149.nii.gz Task07_Pancreas/labelsTr/pancreas_149.nii.gz
+Task07_Pancreas/imagesTr/pancreas_155.nii.gz Task07_Pancreas/labelsTr/pancreas_155.nii.gz
+Task07_Pancreas/imagesTr/pancreas_157.nii.gz Task07_Pancreas/labelsTr/pancreas_157.nii.gz
+Task07_Pancreas/imagesTr/pancreas_158.nii.gz Task07_Pancreas/labelsTr/pancreas_158.nii.gz
+Task07_Pancreas/imagesTr/pancreas_159.nii.gz Task07_Pancreas/labelsTr/pancreas_159.nii.gz
+Task07_Pancreas/imagesTr/pancreas_166.nii.gz Task07_Pancreas/labelsTr/pancreas_166.nii.gz
+Task07_Pancreas/imagesTr/pancreas_169.nii.gz Task07_Pancreas/labelsTr/pancreas_169.nii.gz
+Task07_Pancreas/imagesTr/pancreas_172.nii.gz Task07_Pancreas/labelsTr/pancreas_172.nii.gz
+Task07_Pancreas/imagesTr/pancreas_173.nii.gz Task07_Pancreas/labelsTr/pancreas_173.nii.gz
+Task07_Pancreas/imagesTr/pancreas_175.nii.gz Task07_Pancreas/labelsTr/pancreas_175.nii.gz
+Task07_Pancreas/imagesTr/pancreas_178.nii.gz Task07_Pancreas/labelsTr/pancreas_178.nii.gz
+Task07_Pancreas/imagesTr/pancreas_179.nii.gz Task07_Pancreas/labelsTr/pancreas_179.nii.gz
+Task07_Pancreas/imagesTr/pancreas_180.nii.gz Task07_Pancreas/labelsTr/pancreas_180.nii.gz
+Task07_Pancreas/imagesTr/pancreas_181.nii.gz Task07_Pancreas/labelsTr/pancreas_181.nii.gz
+Task07_Pancreas/imagesTr/pancreas_182.nii.gz Task07_Pancreas/labelsTr/pancreas_182.nii.gz
+Task07_Pancreas/imagesTr/pancreas_183.nii.gz Task07_Pancreas/labelsTr/pancreas_183.nii.gz
+Task07_Pancreas/imagesTr/pancreas_186.nii.gz Task07_Pancreas/labelsTr/pancreas_186.nii.gz
+Task07_Pancreas/imagesTr/pancreas_187.nii.gz Task07_Pancreas/labelsTr/pancreas_187.nii.gz
+Task07_Pancreas/imagesTr/pancreas_191.nii.gz Task07_Pancreas/labelsTr/pancreas_191.nii.gz
+Task07_Pancreas/imagesTr/pancreas_193.nii.gz Task07_Pancreas/labelsTr/pancreas_193.nii.gz
+Task07_Pancreas/imagesTr/pancreas_194.nii.gz Task07_Pancreas/labelsTr/pancreas_194.nii.gz
+Task07_Pancreas/imagesTr/pancreas_196.nii.gz Task07_Pancreas/labelsTr/pancreas_196.nii.gz
+Task07_Pancreas/imagesTr/pancreas_197.nii.gz Task07_Pancreas/labelsTr/pancreas_197.nii.gz
+Task07_Pancreas/imagesTr/pancreas_200.nii.gz Task07_Pancreas/labelsTr/pancreas_200.nii.gz
+Task07_Pancreas/imagesTr/pancreas_201.nii.gz Task07_Pancreas/labelsTr/pancreas_201.nii.gz
+Task07_Pancreas/imagesTr/pancreas_203.nii.gz Task07_Pancreas/labelsTr/pancreas_203.nii.gz
+Task07_Pancreas/imagesTr/pancreas_204.nii.gz Task07_Pancreas/labelsTr/pancreas_204.nii.gz
+Task07_Pancreas/imagesTr/pancreas_207.nii.gz Task07_Pancreas/labelsTr/pancreas_207.nii.gz
+Task07_Pancreas/imagesTr/pancreas_210.nii.gz Task07_Pancreas/labelsTr/pancreas_210.nii.gz
+Task07_Pancreas/imagesTr/pancreas_211.nii.gz Task07_Pancreas/labelsTr/pancreas_211.nii.gz
+Task07_Pancreas/imagesTr/pancreas_212.nii.gz Task07_Pancreas/labelsTr/pancreas_212.nii.gz
+Task07_Pancreas/imagesTr/pancreas_213.nii.gz Task07_Pancreas/labelsTr/pancreas_213.nii.gz
+Task07_Pancreas/imagesTr/pancreas_214.nii.gz Task07_Pancreas/labelsTr/pancreas_214.nii.gz
+Task07_Pancreas/imagesTr/pancreas_215.nii.gz Task07_Pancreas/labelsTr/pancreas_215.nii.gz
+Task07_Pancreas/imagesTr/pancreas_217.nii.gz Task07_Pancreas/labelsTr/pancreas_217.nii.gz
+Task07_Pancreas/imagesTr/pancreas_218.nii.gz Task07_Pancreas/labelsTr/pancreas_218.nii.gz
+Task07_Pancreas/imagesTr/pancreas_219.nii.gz Task07_Pancreas/labelsTr/pancreas_219.nii.gz
+Task07_Pancreas/imagesTr/pancreas_222.nii.gz Task07_Pancreas/labelsTr/pancreas_222.nii.gz
+Task07_Pancreas/imagesTr/pancreas_224.nii.gz Task07_Pancreas/labelsTr/pancreas_224.nii.gz
+Task07_Pancreas/imagesTr/pancreas_226.nii.gz Task07_Pancreas/labelsTr/pancreas_226.nii.gz
+Task07_Pancreas/imagesTr/pancreas_227.nii.gz Task07_Pancreas/labelsTr/pancreas_227.nii.gz
+Task07_Pancreas/imagesTr/pancreas_228.nii.gz Task07_Pancreas/labelsTr/pancreas_228.nii.gz
+Task07_Pancreas/imagesTr/pancreas_231.nii.gz Task07_Pancreas/labelsTr/pancreas_231.nii.gz
+Task07_Pancreas/imagesTr/pancreas_235.nii.gz Task07_Pancreas/labelsTr/pancreas_235.nii.gz
+Task07_Pancreas/imagesTr/pancreas_236.nii.gz Task07_Pancreas/labelsTr/pancreas_236.nii.gz
+Task07_Pancreas/imagesTr/pancreas_239.nii.gz Task07_Pancreas/labelsTr/pancreas_239.nii.gz
+Task07_Pancreas/imagesTr/pancreas_241.nii.gz Task07_Pancreas/labelsTr/pancreas_241.nii.gz
+Task07_Pancreas/imagesTr/pancreas_242.nii.gz Task07_Pancreas/labelsTr/pancreas_242.nii.gz
+Task07_Pancreas/imagesTr/pancreas_243.nii.gz Task07_Pancreas/labelsTr/pancreas_243.nii.gz
+Task07_Pancreas/imagesTr/pancreas_246.nii.gz Task07_Pancreas/labelsTr/pancreas_246.nii.gz
+Task07_Pancreas/imagesTr/pancreas_247.nii.gz Task07_Pancreas/labelsTr/pancreas_247.nii.gz
+Task07_Pancreas/imagesTr/pancreas_249.nii.gz Task07_Pancreas/labelsTr/pancreas_249.nii.gz
+Task07_Pancreas/imagesTr/pancreas_255.nii.gz Task07_Pancreas/labelsTr/pancreas_255.nii.gz
+Task07_Pancreas/imagesTr/pancreas_256.nii.gz Task07_Pancreas/labelsTr/pancreas_256.nii.gz
+Task07_Pancreas/imagesTr/pancreas_258.nii.gz Task07_Pancreas/labelsTr/pancreas_258.nii.gz
+Task07_Pancreas/imagesTr/pancreas_259.nii.gz Task07_Pancreas/labelsTr/pancreas_259.nii.gz
+Task07_Pancreas/imagesTr/pancreas_261.nii.gz Task07_Pancreas/labelsTr/pancreas_261.nii.gz
+Task07_Pancreas/imagesTr/pancreas_262.nii.gz Task07_Pancreas/labelsTr/pancreas_262.nii.gz
+Task07_Pancreas/imagesTr/pancreas_264.nii.gz Task07_Pancreas/labelsTr/pancreas_264.nii.gz
+Task07_Pancreas/imagesTr/pancreas_265.nii.gz Task07_Pancreas/labelsTr/pancreas_265.nii.gz
+Task07_Pancreas/imagesTr/pancreas_266.nii.gz Task07_Pancreas/labelsTr/pancreas_266.nii.gz
+Task07_Pancreas/imagesTr/pancreas_268.nii.gz Task07_Pancreas/labelsTr/pancreas_268.nii.gz
+Task07_Pancreas/imagesTr/pancreas_269.nii.gz Task07_Pancreas/labelsTr/pancreas_269.nii.gz
+Task07_Pancreas/imagesTr/pancreas_274.nii.gz Task07_Pancreas/labelsTr/pancreas_274.nii.gz
+Task07_Pancreas/imagesTr/pancreas_275.nii.gz Task07_Pancreas/labelsTr/pancreas_275.nii.gz
+Task07_Pancreas/imagesTr/pancreas_276.nii.gz Task07_Pancreas/labelsTr/pancreas_276.nii.gz
+Task07_Pancreas/imagesTr/pancreas_277.nii.gz Task07_Pancreas/labelsTr/pancreas_277.nii.gz
+Task07_Pancreas/imagesTr/pancreas_279.nii.gz Task07_Pancreas/labelsTr/pancreas_279.nii.gz
+Task07_Pancreas/imagesTr/pancreas_280.nii.gz Task07_Pancreas/labelsTr/pancreas_280.nii.gz
+Task07_Pancreas/imagesTr/pancreas_283.nii.gz Task07_Pancreas/labelsTr/pancreas_283.nii.gz
+Task07_Pancreas/imagesTr/pancreas_284.nii.gz Task07_Pancreas/labelsTr/pancreas_284.nii.gz
+Task07_Pancreas/imagesTr/pancreas_285.nii.gz Task07_Pancreas/labelsTr/pancreas_285.nii.gz
+Task07_Pancreas/imagesTr/pancreas_287.nii.gz Task07_Pancreas/labelsTr/pancreas_287.nii.gz
+Task07_Pancreas/imagesTr/pancreas_289.nii.gz Task07_Pancreas/labelsTr/pancreas_289.nii.gz
+Task07_Pancreas/imagesTr/pancreas_290.nii.gz Task07_Pancreas/labelsTr/pancreas_290.nii.gz
+Task07_Pancreas/imagesTr/pancreas_291.nii.gz Task07_Pancreas/labelsTr/pancreas_291.nii.gz
+Task07_Pancreas/imagesTr/pancreas_294.nii.gz Task07_Pancreas/labelsTr/pancreas_294.nii.gz
+Task07_Pancreas/imagesTr/pancreas_295.nii.gz Task07_Pancreas/labelsTr/pancreas_295.nii.gz
+Task07_Pancreas/imagesTr/pancreas_296.nii.gz Task07_Pancreas/labelsTr/pancreas_296.nii.gz
+Task07_Pancreas/imagesTr/pancreas_297.nii.gz Task07_Pancreas/labelsTr/pancreas_297.nii.gz
+Task07_Pancreas/imagesTr/pancreas_298.nii.gz Task07_Pancreas/labelsTr/pancreas_298.nii.gz
+Task07_Pancreas/imagesTr/pancreas_299.nii.gz Task07_Pancreas/labelsTr/pancreas_299.nii.gz
+Task07_Pancreas/imagesTr/pancreas_301.nii.gz Task07_Pancreas/labelsTr/pancreas_301.nii.gz
+Task07_Pancreas/imagesTr/pancreas_302.nii.gz Task07_Pancreas/labelsTr/pancreas_302.nii.gz
+Task07_Pancreas/imagesTr/pancreas_303.nii.gz Task07_Pancreas/labelsTr/pancreas_303.nii.gz
+Task07_Pancreas/imagesTr/pancreas_304.nii.gz Task07_Pancreas/labelsTr/pancreas_304.nii.gz
+Task07_Pancreas/imagesTr/pancreas_305.nii.gz Task07_Pancreas/labelsTr/pancreas_305.nii.gz
+Task07_Pancreas/imagesTr/pancreas_308.nii.gz Task07_Pancreas/labelsTr/pancreas_308.nii.gz
+Task07_Pancreas/imagesTr/pancreas_309.nii.gz Task07_Pancreas/labelsTr/pancreas_309.nii.gz
+Task07_Pancreas/imagesTr/pancreas_310.nii.gz Task07_Pancreas/labelsTr/pancreas_310.nii.gz
+Task07_Pancreas/imagesTr/pancreas_311.nii.gz Task07_Pancreas/labelsTr/pancreas_311.nii.gz
+Task07_Pancreas/imagesTr/pancreas_313.nii.gz Task07_Pancreas/labelsTr/pancreas_313.nii.gz
+Task07_Pancreas/imagesTr/pancreas_315.nii.gz Task07_Pancreas/labelsTr/pancreas_315.nii.gz
+Task07_Pancreas/imagesTr/pancreas_316.nii.gz Task07_Pancreas/labelsTr/pancreas_316.nii.gz
+Task07_Pancreas/imagesTr/pancreas_318.nii.gz Task07_Pancreas/labelsTr/pancreas_318.nii.gz
+Task07_Pancreas/imagesTr/pancreas_323.nii.gz Task07_Pancreas/labelsTr/pancreas_323.nii.gz
+Task07_Pancreas/imagesTr/pancreas_325.nii.gz Task07_Pancreas/labelsTr/pancreas_325.nii.gz
+Task07_Pancreas/imagesTr/pancreas_326.nii.gz Task07_Pancreas/labelsTr/pancreas_326.nii.gz
+Task07_Pancreas/imagesTr/pancreas_327.nii.gz Task07_Pancreas/labelsTr/pancreas_327.nii.gz
+Task07_Pancreas/imagesTr/pancreas_328.nii.gz Task07_Pancreas/labelsTr/pancreas_328.nii.gz
+Task07_Pancreas/imagesTr/pancreas_329.nii.gz Task07_Pancreas/labelsTr/pancreas_329.nii.gz
+Task07_Pancreas/imagesTr/pancreas_330.nii.gz Task07_Pancreas/labelsTr/pancreas_330.nii.gz
+Task07_Pancreas/imagesTr/pancreas_331.nii.gz Task07_Pancreas/labelsTr/pancreas_331.nii.gz
+Task07_Pancreas/imagesTr/pancreas_336.nii.gz Task07_Pancreas/labelsTr/pancreas_336.nii.gz
+Task07_Pancreas/imagesTr/pancreas_339.nii.gz Task07_Pancreas/labelsTr/pancreas_339.nii.gz
+Task07_Pancreas/imagesTr/pancreas_342.nii.gz Task07_Pancreas/labelsTr/pancreas_342.nii.gz
+Task07_Pancreas/imagesTr/pancreas_343.nii.gz Task07_Pancreas/labelsTr/pancreas_343.nii.gz
+Task07_Pancreas/imagesTr/pancreas_346.nii.gz Task07_Pancreas/labelsTr/pancreas_346.nii.gz
+Task07_Pancreas/imagesTr/pancreas_348.nii.gz Task07_Pancreas/labelsTr/pancreas_348.nii.gz
+Task07_Pancreas/imagesTr/pancreas_350.nii.gz Task07_Pancreas/labelsTr/pancreas_350.nii.gz
+Task07_Pancreas/imagesTr/pancreas_351.nii.gz Task07_Pancreas/labelsTr/pancreas_351.nii.gz
+Task07_Pancreas/imagesTr/pancreas_356.nii.gz Task07_Pancreas/labelsTr/pancreas_356.nii.gz
+Task07_Pancreas/imagesTr/pancreas_357.nii.gz Task07_Pancreas/labelsTr/pancreas_357.nii.gz
+Task07_Pancreas/imagesTr/pancreas_360.nii.gz Task07_Pancreas/labelsTr/pancreas_360.nii.gz
+Task07_Pancreas/imagesTr/pancreas_361.nii.gz Task07_Pancreas/labelsTr/pancreas_361.nii.gz
+Task07_Pancreas/imagesTr/pancreas_362.nii.gz Task07_Pancreas/labelsTr/pancreas_362.nii.gz
+Task07_Pancreas/imagesTr/pancreas_364.nii.gz Task07_Pancreas/labelsTr/pancreas_364.nii.gz
+Task07_Pancreas/imagesTr/pancreas_365.nii.gz Task07_Pancreas/labelsTr/pancreas_365.nii.gz
+Task07_Pancreas/imagesTr/pancreas_366.nii.gz Task07_Pancreas/labelsTr/pancreas_366.nii.gz
+Task07_Pancreas/imagesTr/pancreas_367.nii.gz Task07_Pancreas/labelsTr/pancreas_367.nii.gz
+Task07_Pancreas/imagesTr/pancreas_369.nii.gz Task07_Pancreas/labelsTr/pancreas_369.nii.gz
+Task07_Pancreas/imagesTr/pancreas_370.nii.gz Task07_Pancreas/labelsTr/pancreas_370.nii.gz
+Task07_Pancreas/imagesTr/pancreas_374.nii.gz Task07_Pancreas/labelsTr/pancreas_374.nii.gz
+Task07_Pancreas/imagesTr/pancreas_375.nii.gz Task07_Pancreas/labelsTr/pancreas_375.nii.gz
+Task07_Pancreas/imagesTr/pancreas_377.nii.gz Task07_Pancreas/labelsTr/pancreas_377.nii.gz
+Task07_Pancreas/imagesTr/pancreas_378.nii.gz Task07_Pancreas/labelsTr/pancreas_378.nii.gz
+Task07_Pancreas/imagesTr/pancreas_379.nii.gz Task07_Pancreas/labelsTr/pancreas_379.nii.gz
+Task07_Pancreas/imagesTr/pancreas_382.nii.gz Task07_Pancreas/labelsTr/pancreas_382.nii.gz
+Task07_Pancreas/imagesTr/pancreas_385.nii.gz Task07_Pancreas/labelsTr/pancreas_385.nii.gz
+Task07_Pancreas/imagesTr/pancreas_386.nii.gz Task07_Pancreas/labelsTr/pancreas_386.nii.gz
+Task07_Pancreas/imagesTr/pancreas_387.nii.gz Task07_Pancreas/labelsTr/pancreas_387.nii.gz
+Task07_Pancreas/imagesTr/pancreas_388.nii.gz Task07_Pancreas/labelsTr/pancreas_388.nii.gz
+Task07_Pancreas/imagesTr/pancreas_389.nii.gz Task07_Pancreas/labelsTr/pancreas_389.nii.gz
+Task07_Pancreas/imagesTr/pancreas_392.nii.gz Task07_Pancreas/labelsTr/pancreas_392.nii.gz
+Task07_Pancreas/imagesTr/pancreas_393.nii.gz Task07_Pancreas/labelsTr/pancreas_393.nii.gz
+Task07_Pancreas/imagesTr/pancreas_395.nii.gz Task07_Pancreas/labelsTr/pancreas_395.nii.gz
+Task07_Pancreas/imagesTr/pancreas_398.nii.gz Task07_Pancreas/labelsTr/pancreas_398.nii.gz
+Task07_Pancreas/imagesTr/pancreas_399.nii.gz Task07_Pancreas/labelsTr/pancreas_399.nii.gz
+Task07_Pancreas/imagesTr/pancreas_400.nii.gz Task07_Pancreas/labelsTr/pancreas_400.nii.gz
+Task07_Pancreas/imagesTr/pancreas_402.nii.gz Task07_Pancreas/labelsTr/pancreas_402.nii.gz
+Task07_Pancreas/imagesTr/pancreas_404.nii.gz Task07_Pancreas/labelsTr/pancreas_404.nii.gz
+Task07_Pancreas/imagesTr/pancreas_405.nii.gz Task07_Pancreas/labelsTr/pancreas_405.nii.gz
+Task07_Pancreas/imagesTr/pancreas_409.nii.gz Task07_Pancreas/labelsTr/pancreas_409.nii.gz
+Task07_Pancreas/imagesTr/pancreas_410.nii.gz Task07_Pancreas/labelsTr/pancreas_410.nii.gz
+Task07_Pancreas/imagesTr/pancreas_411.nii.gz Task07_Pancreas/labelsTr/pancreas_411.nii.gz
+Task07_Pancreas/imagesTr/pancreas_414.nii.gz Task07_Pancreas/labelsTr/pancreas_414.nii.gz
+Task07_Pancreas/imagesTr/pancreas_418.nii.gz Task07_Pancreas/labelsTr/pancreas_418.nii.gz
+Task07_Pancreas/imagesTr/pancreas_419.nii.gz Task07_Pancreas/labelsTr/pancreas_419.nii.gz
+Task07_Pancreas/imagesTr/pancreas_421.nii.gz Task07_Pancreas/labelsTr/pancreas_421.nii.gz
+BDMAP_00008520/ct.nii.gz BDMAP_00008520/segmentations/pancreas.nii.gz A distinct well-defined and significant detail are noted.
+BDMAP_00005245/ct.nii.gz BDMAP_00005245/segmentations/pancreas.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00007101/ct.nii.gz BDMAP_00007101/segmentations/pancreas.nii.gz cirrhosis is present, revealing significant detail.
+BDMAP_00008505/ct.nii.gz BDMAP_00008505/segmentations/pancreas.nii.gz washout is present, revealing significant detail.
+BDMAP_00005224/ct.nii.gz BDMAP_00005224/segmentations/pancreas.nii.gz washout appears, displaying significant detail.
+BDMAP_00007643/ct.nii.gz BDMAP_00007643/segmentations/pancreas.nii.gz There is a notable hypoattenuating with significant detail.
+BDMAP_00009129/ct.nii.gz BDMAP_00009129/segmentations/pancreas.nii.gz washout appears, displaying significant detail.
+BDMAP_00007588/ct.nii.gz BDMAP_00007588/segmentations/pancreas.nii.gz A distinct metastases and significant detail are noted.
+BDMAP_00007704/ct.nii.gz BDMAP_00007704/segmentations/pancreas.nii.gz There is a notable ill-defined with significant detail.
+BDMAP_00005831/ct.nii.gz BDMAP_00005831/segmentations/pancreas.nii.gz There is a notable metastases with significant detail.
+BDMAP_00008660/ct.nii.gz BDMAP_00008660/segmentations/pancreas.nii.gz Observed is a hyperattenuating, characterized by significant detail.
+BDMAP_00008705/ct.nii.gz BDMAP_00008705/segmentations/pancreas.nii.gz A distinct cirrhosis and significant detail are noted.
+BDMAP_00006582/ct.nii.gz BDMAP_00006582/segmentations/pancreas.nii.gz There is a notable metastases with significant detail.
+BDMAP_00006503/ct.nii.gz BDMAP_00006503/segmentations/pancreas.nii.gz A distinct metastases and significant detail are noted.
+BDMAP_00005518/ct.nii.gz BDMAP_00005518/segmentations/pancreas.nii.gz cyst is present, revealing significant detail.
+BDMAP_00006343/ct.nii.gz BDMAP_00006343/segmentations/pancreas.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00005675/ct.nii.gz BDMAP_00005675/segmentations/pancreas.nii.gz Observed is a well-defined, characterized by significant detail.
+BDMAP_00008427/ct.nii.gz BDMAP_00008427/segmentations/pancreas.nii.gz Observed is a washout, characterized by significant detail.
+BDMAP_00002510/ct.nii.gz BDMAP_00002510/segmentations/pancreas.nii.gz metastases appears, displaying significant detail.
+BDMAP_00006465/ct.nii.gz BDMAP_00006465/segmentations/pancreas.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00008386/ct.nii.gz BDMAP_00008386/segmentations/pancreas.nii.gz Observed is a washout, characterized by significant detail.
+BDMAP_00007435/ct.nii.gz BDMAP_00007435/segmentations/pancreas.nii.gz hypoattenuating appears, displaying significant detail.
+BDMAP_00006607/ct.nii.gz BDMAP_00006607/segmentations/pancreas.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00008186/ct.nii.gz BDMAP_00008186/segmentations/pancreas.nii.gz Observed is a hyperattenuating, characterized by significant detail.
+BDMAP_00006703/ct.nii.gz BDMAP_00006703/segmentations/pancreas.nii.gz Observed is a well-defined, characterized by significant detail.
+BDMAP_00004535/ct.nii.gz BDMAP_00004535/segmentations/pancreas.nii.gz A distinct hyperattenuating and significant detail are noted.
+BDMAP_00007006/ct.nii.gz BDMAP_00007006/segmentations/pancreas.nii.gz Observed is a ill-defined, characterized by significant detail.
+BDMAP_00008338/ct.nii.gz BDMAP_00008338/segmentations/pancreas.nii.gz Observed is a cyst, characterized by significant detail.
+BDMAP_00006646/ct.nii.gz BDMAP_00006646/segmentations/pancreas.nii.gz Observed is a washout, characterized by significant detail.
+BDMAP_00005450/ct.nii.gz BDMAP_00005450/segmentations/pancreas.nii.gz heterogeneous enhancement is present, revealing significant detail.
+BDMAP_00009098/ct.nii.gz BDMAP_00009098/segmentations/pancreas.nii.gz cyst appears, displaying significant detail.
+BDMAP_00006520/ct.nii.gz BDMAP_00006520/segmentations/pancreas.nii.gz There is a notable ill-defined with significant detail.
+BDMAP_00005958/ct.nii.gz BDMAP_00005958/segmentations/pancreas.nii.gz cyst is present, revealing significant detail.
+BDMAP_00007780/ct.nii.gz BDMAP_00007780/segmentations/pancreas.nii.gz A distinct hypodensity and significant detail are noted.
+BDMAP_00006760/ct.nii.gz BDMAP_00006760/segmentations/pancreas.nii.gz hyperattenuating appears, displaying significant detail.
+BDMAP_00009198/ct.nii.gz BDMAP_00009198/segmentations/pancreas.nii.gz Observed is a hyperattenuating, characterized by significant detail.
+BDMAP_00006421/ct.nii.gz BDMAP_00006421/segmentations/pancreas.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00006657/ct.nii.gz BDMAP_00006657/segmentations/pancreas.nii.gz Observed is a hyperattenuating, characterized by significant detail.
+BDMAP_00007615/ct.nii.gz BDMAP_00007615/segmentations/pancreas.nii.gz arterial enhancement is present, revealing significant detail.
+BDMAP_00006038/ct.nii.gz BDMAP_00006038/segmentations/pancreas.nii.gz A distinct metastases and significant detail are noted.
+BDMAP_00007505/ct.nii.gz BDMAP_00007505/segmentations/pancreas.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00007343/ct.nii.gz BDMAP_00007343/segmentations/pancreas.nii.gz There is a notable well-defined with significant detail.
+BDMAP_00007843/ct.nii.gz BDMAP_00007843/segmentations/pancreas.nii.gz A distinct arterial enhancement and significant detail are noted.
+BDMAP_00009156/ct.nii.gz BDMAP_00009156/segmentations/pancreas.nii.gz Observed is a cyst, characterized by significant detail.
+BDMAP_00006157/ct.nii.gz BDMAP_00006157/segmentations/pancreas.nii.gz A distinct arterial enhancement and significant detail are noted.
+BDMAP_00009255/ct.nii.gz BDMAP_00009255/segmentations/pancreas.nii.gz Observed is a metastases, characterized by significant detail.
+BDMAP_00005275/ct.nii.gz BDMAP_00005275/segmentations/pancreas.nii.gz Observed is a hypodensity, characterized by significant detail.
+BDMAP_00007383/ct.nii.gz BDMAP_00007383/segmentations/pancreas.nii.gz cyst is present, revealing significant detail.
+BDMAP_00008020/ct.nii.gz BDMAP_00008020/segmentations/pancreas.nii.gz Observed is a ill-defined, characterized by significant detail.
+BDMAP_00009207/ct.nii.gz BDMAP_00009207/segmentations/pancreas.nii.gz hypoattenuating is present, revealing significant detail.
+BDMAP_00008952/ct.nii.gz BDMAP_00008952/segmentations/pancreas.nii.gz hyperattenuating is present, revealing significant detail.
+BDMAP_00008407/ct.nii.gz BDMAP_00008407/segmentations/pancreas.nii.gz A distinct well-defined and significant detail are noted.
+BDMAP_00005227/ct.nii.gz BDMAP_00005227/segmentations/pancreas.nii.gz A distinct hypoattenuating and significant detail are noted.
+BDMAP_00005980/ct.nii.gz BDMAP_00005980/segmentations/pancreas.nii.gz There is a notable cyst with significant detail.
+BDMAP_00004386/ct.nii.gz BDMAP_00004386/segmentations/pancreas.nii.gz A distinct cirrhosis and significant detail are noted.
+BDMAP_00005524/ct.nii.gz BDMAP_00005524/segmentations/pancreas.nii.gz A distinct hypoattenuating and significant detail are noted.
+BDMAP_00006409/ct.nii.gz BDMAP_00006409/segmentations/pancreas.nii.gz cyst appears, displaying significant detail.
+BDMAP_00009041/ct.nii.gz BDMAP_00009041/segmentations/pancreas.nii.gz heterogeneous enhancement appears, displaying significant detail.
+BDMAP_00008616/ct.nii.gz BDMAP_00008616/segmentations/pancreas.nii.gz Observed is a hyperattenuating, characterized by significant detail.
+BDMAP_00007410/ct.nii.gz BDMAP_00007410/segmentations/pancreas.nii.gz hypodensity appears, displaying significant detail.
+BDMAP_00007210/ct.nii.gz BDMAP_00007210/segmentations/pancreas.nii.gz There is a notable hypoattenuating with significant detail.
+BDMAP_00000909/ct.nii.gz BDMAP_00000909/segmentations/pancreas.nii.gz There is a notable metastases with significant detail.
+BDMAP_00008951/ct.nii.gz BDMAP_00008951/segmentations/pancreas.nii.gz A distinct well-defined and significant detail are noted.
+BDMAP_00007947/ct.nii.gz BDMAP_00007947/segmentations/pancreas.nii.gz hypodensity is present, revealing significant detail.
+BDMAP_00006217/ct.nii.gz BDMAP_00006217/segmentations/pancreas.nii.gz arterial enhancement appears, displaying significant detail.
+BDMAP_00005640/ct.nii.gz BDMAP_00005640/segmentations/pancreas.nii.gz There is a notable arterial enhancement with significant detail.
+BDMAP_00007347/ct.nii.gz BDMAP_00007347/segmentations/pancreas.nii.gz well-defined is present, revealing significant detail.
+BDMAP_00005583/ct.nii.gz BDMAP_00005583/segmentations/pancreas.nii.gz A distinct well-defined and significant detail are noted.
+BDMAP_00006934/ct.nii.gz BDMAP_00006934/segmentations/pancreas.nii.gz Observed is a hyperattenuating, characterized by significant detail.
+BDMAP_00008661/ct.nii.gz BDMAP_00008661/segmentations/pancreas.nii.gz well-defined is present, revealing significant detail.
+BDMAP_00005712/ct.nii.gz BDMAP_00005712/segmentations/pancreas.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00008376/ct.nii.gz BDMAP_00008376/segmentations/pancreas.nii.gz well-defined is present, revealing significant detail.
+BDMAP_00006686/ct.nii.gz BDMAP_00006686/segmentations/pancreas.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00008079/ct.nii.gz BDMAP_00008079/segmentations/pancreas.nii.gz hyperattenuating is present, revealing significant detail.
+BDMAP_00008655/ct.nii.gz BDMAP_00008655/segmentations/pancreas.nii.gz A distinct heterogeneous enhancement and significant detail are noted.
+BDMAP_00008408/ct.nii.gz BDMAP_00008408/segmentations/pancreas.nii.gz cyst appears, displaying significant detail.
+BDMAP_00007336/ct.nii.gz BDMAP_00007336/segmentations/pancreas.nii.gz There is a notable cirrhosis with significant detail.
+BDMAP_00009138/ct.nii.gz BDMAP_00009138/segmentations/pancreas.nii.gz Observed is a well-defined, characterized by significant detail.
+BDMAP_00008694/ct.nii.gz BDMAP_00008694/segmentations/pancreas.nii.gz washout is present, revealing significant detail.
+BDMAP_00009042/ct.nii.gz BDMAP_00009042/segmentations/pancreas.nii.gz washout is present, revealing significant detail.
+BDMAP_00007633/ct.nii.gz BDMAP_00007633/segmentations/pancreas.nii.gz hypoattenuating appears, displaying significant detail.
+BDMAP_00007156/ct.nii.gz BDMAP_00007156/segmentations/pancreas.nii.gz Observed is a hypodensity, characterized by significant detail.
+BDMAP_00002455/ct.nii.gz BDMAP_00002455/segmentations/pancreas.nii.gz metastases appears, displaying significant detail.
+BDMAP_00006699/ct.nii.gz BDMAP_00006699/segmentations/pancreas.nii.gz arterial enhancement appears, displaying significant detail.
+BDMAP_00005769/ct.nii.gz BDMAP_00005769/segmentations/pancreas.nii.gz Observed is a cyst, characterized by significant detail.
+BDMAP_00005593/ct.nii.gz BDMAP_00005593/segmentations/pancreas.nii.gz hyperattenuating is present, revealing significant detail.
+BDMAP_00007654/ct.nii.gz BDMAP_00007654/segmentations/pancreas.nii.gz A distinct hypodensity and significant detail are noted.
+BDMAP_00005889/ct.nii.gz BDMAP_00005889/segmentations/pancreas.nii.gz cyst is present, revealing significant detail.
+BDMAP_00006870/ct.nii.gz BDMAP_00006870/segmentations/pancreas.nii.gz Observed is a well-defined, characterized by significant detail.
+BDMAP_00003282/ct.nii.gz BDMAP_00003282/segmentations/pancreas.nii.gz washout appears, displaying significant detail.
+BDMAP_00006428/ct.nii.gz BDMAP_00006428/segmentations/pancreas.nii.gz well-defined is present, revealing significant detail.
+BDMAP_00006136/ct.nii.gz BDMAP_00006136/segmentations/pancreas.nii.gz There is a notable hyperattenuating with significant detail.
+BDMAP_00005438/ct.nii.gz BDMAP_00005438/segmentations/pancreas.nii.gz A distinct heterogeneous enhancement and significant detail are noted.
+BDMAP_00006244/ct.nii.gz BDMAP_00006244/segmentations/pancreas.nii.gz metastases appears, displaying significant detail.
+BDMAP_00008678/ct.nii.gz BDMAP_00008678/segmentations/pancreas.nii.gz There is a notable metastases with significant detail.
+BDMAP_00008586/ct.nii.gz BDMAP_00008586/segmentations/pancreas.nii.gz well-defined is present, revealing significant detail.
+BDMAP_00007791/ct.nii.gz BDMAP_00007791/segmentations/pancreas.nii.gz cyst is present, revealing significant detail.
+BDMAP_00007842/ct.nii.gz BDMAP_00007842/segmentations/pancreas.nii.gz A distinct hypodensity and significant detail are noted.
+BDMAP_00006801/ct.nii.gz BDMAP_00006801/segmentations/pancreas.nii.gz ill-defined appears, displaying significant detail.
+BDMAP_00003277/ct.nii.gz BDMAP_00003277/segmentations/pancreas.nii.gz arterial enhancement appears, displaying significant detail.
+BDMAP_00007728/ct.nii.gz BDMAP_00007728/segmentations/pancreas.nii.gz Observed is a washout, characterized by significant detail.
+BDMAP_00005440/ct.nii.gz BDMAP_00005440/segmentations/pancreas.nii.gz There is a notable hyperattenuating with significant detail.
+BDMAP_00005235/ct.nii.gz BDMAP_00005235/segmentations/pancreas.nii.gz A distinct ill-defined and significant detail are noted.
+BDMAP_00006238/ct.nii.gz BDMAP_00006238/segmentations/pancreas.nii.gz arterial enhancement appears, displaying significant detail.
+BDMAP_00007509/ct.nii.gz BDMAP_00007509/segmentations/pancreas.nii.gz well-defined is present, revealing significant detail.
+BDMAP_00008134/ct.nii.gz BDMAP_00008134/segmentations/pancreas.nii.gz There is a notable arterial enhancement with significant detail.
+BDMAP_00006088/ct.nii.gz BDMAP_00006088/segmentations/pancreas.nii.gz There is a notable ill-defined with significant detail.
+BDMAP_00008925/ct.nii.gz BDMAP_00008925/segmentations/pancreas.nii.gz A distinct metastases and significant detail are noted.
+BDMAP_00006186/ct.nii.gz BDMAP_00006186/segmentations/pancreas.nii.gz cirrhosis appears, displaying significant detail.
+BDMAP_00007279/ct.nii.gz BDMAP_00007279/segmentations/pancreas.nii.gz There is a notable metastases with significant detail.
+BDMAP_00005677/ct.nii.gz BDMAP_00005677/segmentations/pancreas.nii.gz Observed is a cyst, characterized by significant detail.
+BDMAP_00006336/ct.nii.gz BDMAP_00006336/segmentations/pancreas.nii.gz A distinct hyperattenuating and significant detail are noted.
+BDMAP_00008120/ct.nii.gz BDMAP_00008120/segmentations/pancreas.nii.gz ill-defined appears, displaying significant detail.
+BDMAP_00006536/ct.nii.gz BDMAP_00006536/segmentations/pancreas.nii.gz A distinct cirrhosis and significant detail are noted.
+BDMAP_00009117/ct.nii.gz BDMAP_00009117/segmentations/pancreas.nii.gz cirrhosis appears, displaying significant detail.
+BDMAP_00008462/ct.nii.gz BDMAP_00008462/segmentations/pancreas.nii.gz Observed is a well-defined, characterized by significant detail.
+BDMAP_00006581/ct.nii.gz BDMAP_00006581/segmentations/pancreas.nii.gz well-defined is present, revealing significant detail.
+BDMAP_00006757/ct.nii.gz BDMAP_00006757/segmentations/pancreas.nii.gz A distinct washout and significant detail are noted.
+BDMAP_00005119/ct.nii.gz BDMAP_00005119/segmentations/pancreas.nii.gz metastases appears, displaying significant detail.
+BDMAP_00008357/ct.nii.gz BDMAP_00008357/segmentations/pancreas.nii.gz hyperattenuating appears, displaying significant detail.
+BDMAP_00007032/ct.nii.gz BDMAP_00007032/segmentations/pancreas.nii.gz cyst is present, revealing significant detail.
+BDMAP_00005731/ct.nii.gz BDMAP_00005731/segmentations/pancreas.nii.gz cirrhosis is present, revealing significant detail.
+BDMAP_00005430/ct.nii.gz BDMAP_00005430/segmentations/pancreas.nii.gz There is a notable cirrhosis with significant detail.
+BDMAP_00005951/ct.nii.gz BDMAP_00005951/segmentations/pancreas.nii.gz Observed is a cirrhosis, characterized by significant detail.
+BDMAP_00008580/ct.nii.gz BDMAP_00008580/segmentations/pancreas.nii.gz cirrhosis is present, revealing significant detail.
+BDMAP_00003794/ct.nii.gz BDMAP_00003794/segmentations/pancreas.nii.gz Observed is a hyperattenuating, characterized by significant detail.
+BDMAP_00007491/ct.nii.gz BDMAP_00007491/segmentations/pancreas.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00005605/ct.nii.gz BDMAP_00005605/segmentations/pancreas.nii.gz heterogeneous enhancement is present, revealing significant detail.
+BDMAP_00006709/ct.nii.gz BDMAP_00006709/segmentations/pancreas.nii.gz There is a notable cirrhosis with significant detail.
+BDMAP_00005912/ct.nii.gz BDMAP_00005912/segmentations/pancreas.nii.gz washout appears, displaying significant detail.
+BDMAP_00007452/ct.nii.gz BDMAP_00007452/segmentations/pancreas.nii.gz washout is present, revealing significant detail.
+BDMAP_00008692/ct.nii.gz BDMAP_00008692/segmentations/pancreas.nii.gz There is a notable metastases with significant detail.
+BDMAP_00007359/ct.nii.gz BDMAP_00007359/segmentations/pancreas.nii.gz ill-defined appears, displaying significant detail.
+BDMAP_00009116/ct.nii.gz BDMAP_00009116/segmentations/pancreas.nii.gz Observed is a hypoattenuating, characterized by significant detail.
+BDMAP_00009224/ct.nii.gz BDMAP_00009224/segmentations/pancreas.nii.gz hypoattenuating appears, displaying significant detail.
+BDMAP_00001937/ct.nii.gz BDMAP_00001937/segmentations/pancreas.nii.gz Observed is a hyperattenuating, characterized by significant detail.
+BDMAP_00008367/ct.nii.gz BDMAP_00008367/segmentations/pancreas.nii.gz There is a notable arterial enhancement with significant detail.
+BDMAP_00009175/ct.nii.gz BDMAP_00009175/segmentations/pancreas.nii.gz metastases is present, revealing significant detail.
+BDMAP_00005439/ct.nii.gz BDMAP_00005439/segmentations/pancreas.nii.gz There is a notable cyst with significant detail.
+BDMAP_00007523/ct.nii.gz BDMAP_00007523/segmentations/pancreas.nii.gz metastases appears, displaying significant detail.
+BDMAP_00005885/ct.nii.gz BDMAP_00005885/segmentations/pancreas.nii.gz A distinct arterial enhancement and significant detail are noted.
+BDMAP_00007927/ct.nii.gz BDMAP_00007927/segmentations/pancreas.nii.gz There is a notable hypodensity with significant detail.
+BDMAP_00008653/ct.nii.gz BDMAP_00008653/segmentations/pancreas.nii.gz A distinct cyst and significant detail are noted.
+BDMAP_00007177/ct.nii.gz BDMAP_00007177/segmentations/pancreas.nii.gz A distinct ill-defined and significant detail are noted.
+BDMAP_00007983/ct.nii.gz BDMAP_00007983/segmentations/pancreas.nii.gz Observed is a cyst, characterized by significant detail.
+BDMAP_00009001/ct.nii.gz BDMAP_00009001/segmentations/pancreas.nii.gz A distinct ill-defined and significant detail are noted.
+BDMAP_00008693/ct.nii.gz BDMAP_00008693/segmentations/pancreas.nii.gz There is a notable ill-defined with significant detail.
+BDMAP_00008405/ct.nii.gz BDMAP_00008405/segmentations/pancreas.nii.gz arterial enhancement is present, revealing significant detail.
+BDMAP_00006919/ct.nii.gz BDMAP_00006919/segmentations/pancreas.nii.gz hypoattenuating is present, revealing significant detail.
+BDMAP_00003544/ct.nii.gz BDMAP_00003544/segmentations/pancreas.nii.gz washout appears, displaying significant detail.
+BDMAP_00009201/ct.nii.gz BDMAP_00009201/segmentations/pancreas.nii.gz metastases is present, revealing significant detail.
+BDMAP_00007622/ct.nii.gz BDMAP_00007622/segmentations/pancreas.nii.gz Observed is a hyperattenuating, characterized by significant detail.
+BDMAP_00006802/ct.nii.gz BDMAP_00006802/segmentations/pancreas.nii.gz There is a notable ill-defined with significant detail.
+BDMAP_00007788/ct.nii.gz BDMAP_00007788/segmentations/pancreas.nii.gz There is a notable well-defined with significant detail.
+BDMAP_00008683/ct.nii.gz BDMAP_00008683/segmentations/pancreas.nii.gz hypoattenuating is present, revealing significant detail.
+BDMAP_00005868/ct.nii.gz BDMAP_00005868/segmentations/pancreas.nii.gz ill-defined appears, displaying significant detail.
+BDMAP_00005884/ct.nii.gz BDMAP_00005884/segmentations/pancreas.nii.gz hyperattenuating appears, displaying significant detail.
+BDMAP_00001399/ct.nii.gz BDMAP_00001399/segmentations/pancreas.nii.gz washout is present, revealing significant detail.
+BDMAP_00005337/ct.nii.gz BDMAP_00005337/segmentations/pancreas.nii.gz A distinct cyst and significant detail are noted.
+BDMAP_00006572/ct.nii.gz BDMAP_00006572/segmentations/pancreas.nii.gz Observed is a heterogeneous enhancement, characterized by significant detail.
+BDMAP_00008414/ct.nii.gz BDMAP_00008414/segmentations/pancreas.nii.gz A distinct hyperattenuating and significant detail are noted.
+BDMAP_00008603/ct.nii.gz BDMAP_00008603/segmentations/pancreas.nii.gz A distinct hyperattenuating and significant detail are noted.
+BDMAP_00008859/ct.nii.gz BDMAP_00008859/segmentations/pancreas.nii.gz There is a notable hyperattenuating with significant detail.
+BDMAP_00006284/ct.nii.gz BDMAP_00006284/segmentations/pancreas.nii.gz There is a notable hypoattenuating with significant detail.
+BDMAP_00003702/ct.nii.gz BDMAP_00003702/segmentations/pancreas.nii.gz A distinct hyperattenuating and significant detail are noted.
+BDMAP_00001756/ct.nii.gz BDMAP_00001756/segmentations/pancreas.nii.gz A distinct washout and significant detail are noted.
+BDMAP_00008594/ct.nii.gz BDMAP_00008594/segmentations/pancreas.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00006771/ct.nii.gz BDMAP_00006771/segmentations/pancreas.nii.gz Observed is a hypodensity, characterized by significant detail.
+BDMAP_00006641/ct.nii.gz BDMAP_00006641/segmentations/pancreas.nii.gz There is a notable hyperattenuating with significant detail.
+BDMAP_00005470/ct.nii.gz BDMAP_00005470/segmentations/pancreas.nii.gz There is a notable well-defined with significant detail.
+BDMAP_00006970/ct.nii.gz BDMAP_00006970/segmentations/pancreas.nii.gz A distinct arterial enhancement and significant detail are noted.
+BDMAP_00005893/ct.nii.gz BDMAP_00005893/segmentations/pancreas.nii.gz There is a notable heterogeneous enhancement with significant detail.
+BDMAP_00005312/ct.nii.gz BDMAP_00005312/segmentations/pancreas.nii.gz Observed is a well-defined, characterized by significant detail.
+BDMAP_00007338/ct.nii.gz BDMAP_00007338/segmentations/pancreas.nii.gz cirrhosis is present, revealing significant detail.
+BDMAP_00006738/ct.nii.gz BDMAP_00006738/segmentations/pancreas.nii.gz ill-defined appears, displaying significant detail.
+BDMAP_00009159/ct.nii.gz BDMAP_00009159/segmentations/pancreas.nii.gz cyst is present, revealing significant detail.
+BDMAP_00002597/ct.nii.gz BDMAP_00002597/segmentations/pancreas.nii.gz A distinct hypoattenuating and significant detail are noted.
+BDMAP_00006285/ct.nii.gz BDMAP_00006285/segmentations/pancreas.nii.gz hypoattenuating appears, displaying significant detail.
+BDMAP_00005659/ct.nii.gz BDMAP_00005659/segmentations/pancreas.nii.gz A distinct heterogeneous enhancement and significant detail are noted.
+BDMAP_00006203/ct.nii.gz BDMAP_00006203/segmentations/pancreas.nii.gz A distinct metastases and significant detail are noted.
+BDMAP_00006839/ct.nii.gz BDMAP_00006839/segmentations/pancreas.nii.gz A distinct metastases and significant detail are noted.
+BDMAP_00007014/ct.nii.gz BDMAP_00007014/segmentations/pancreas.nii.gz Observed is a hypodensity, characterized by significant detail.
+BDMAP_00000051/ct.nii.gz BDMAP_00000051/segmentations/pancreas.nii.gz cirrhosis appears, displaying significant detail.
+BDMAP_00007366/ct.nii.gz BDMAP_00007366/segmentations/pancreas.nii.gz Observed is a washout, characterized by significant detail.
+BDMAP_00008576/ct.nii.gz BDMAP_00008576/segmentations/pancreas.nii.gz Observed is a hypoattenuating, characterized by significant detail.
+BDMAP_00008530/ct.nii.gz BDMAP_00008530/segmentations/pancreas.nii.gz There is a notable cyst with significant detail.
+BDMAP_00008131/ct.nii.gz BDMAP_00008131/segmentations/pancreas.nii.gz A distinct cirrhosis and significant detail are noted.
+BDMAP_00008285/ct.nii.gz BDMAP_00008285/segmentations/pancreas.nii.gz hypodensity appears, displaying significant detail.
+BDMAP_00005327/ct.nii.gz BDMAP_00005327/segmentations/pancreas.nii.gz Observed is a hypoattenuating, characterized by significant detail.
+BDMAP_00009153/ct.nii.gz BDMAP_00009153/segmentations/pancreas.nii.gz There is a notable metastases with significant detail.
+BDMAP_00008214/ct.nii.gz BDMAP_00008214/segmentations/pancreas.nii.gz There is a notable cirrhosis with significant detail.
+BDMAP_00006557/ct.nii.gz BDMAP_00006557/segmentations/pancreas.nii.gz There is a notable arterial enhancement with significant detail.
+BDMAP_00007833/ct.nii.gz BDMAP_00007833/segmentations/pancreas.nii.gz Observed is a hypoattenuating, characterized by significant detail.
+BDMAP_00008659/ct.nii.gz BDMAP_00008659/segmentations/pancreas.nii.gz A distinct cyst and significant detail are noted.
+BDMAP_00005467/ct.nii.gz BDMAP_00005467/segmentations/pancreas.nii.gz Observed is a cirrhosis, characterized by significant detail.
+BDMAP_00006256/ct.nii.gz BDMAP_00006256/segmentations/pancreas.nii.gz There is a notable arterial enhancement with significant detail.
+BDMAP_00005380/ct.nii.gz BDMAP_00005380/segmentations/pancreas.nii.gz arterial enhancement is present, revealing significant detail.
+BDMAP_00006671/ct.nii.gz BDMAP_00006671/segmentations/pancreas.nii.gz There is a notable washout with significant detail.
+BDMAP_00007441/ct.nii.gz BDMAP_00007441/segmentations/pancreas.nii.gz Observed is a washout, characterized by significant detail.
+BDMAP_00008494/ct.nii.gz BDMAP_00008494/segmentations/pancreas.nii.gz A distinct cirrhosis and significant detail are noted.
+BDMAP_00008340/ct.nii.gz BDMAP_00008340/segmentations/pancreas.nii.gz well-defined is present, revealing significant detail.
+BDMAP_00004531/ct.nii.gz BDMAP_00004531/segmentations/pancreas.nii.gz There is a notable cyst with significant detail.
+BDMAP_00003235/ct.nii.gz BDMAP_00003235/segmentations/pancreas.nii.gz washout appears, displaying significant detail.
+BDMAP_00007196/ct.nii.gz BDMAP_00007196/segmentations/pancreas.nii.gz A distinct washout and significant detail are noted.
+BDMAP_00008832/ct.nii.gz BDMAP_00008832/segmentations/pancreas.nii.gz There is a notable hyperattenuating with significant detail.
+BDMAP_00006282/ct.nii.gz BDMAP_00006282/segmentations/pancreas.nii.gz A distinct cyst and significant detail are noted.
+BDMAP_00006814/ct.nii.gz BDMAP_00006814/segmentations/pancreas.nii.gz Observed is a washout, characterized by significant detail.
+BDMAP_00007284/ct.nii.gz BDMAP_00007284/segmentations/pancreas.nii.gz A distinct hypoattenuating and significant detail are noted.
+BDMAP_00007744/ct.nii.gz BDMAP_00007744/segmentations/pancreas.nii.gz A distinct heterogeneous enhancement and significant detail are noted.
+BDMAP_00008902/ct.nii.gz BDMAP_00008902/segmentations/pancreas.nii.gz well-defined is present, revealing significant detail.
+BDMAP_00008315/ct.nii.gz BDMAP_00008315/segmentations/pancreas.nii.gz washout appears, displaying significant detail.
+BDMAP_00009050/ct.nii.gz BDMAP_00009050/segmentations/pancreas.nii.gz Observed is a hypodensity, characterized by significant detail.
+BDMAP_00006990/ct.nii.gz BDMAP_00006990/segmentations/pancreas.nii.gz There is a notable hypodensity with significant detail.
+BDMAP_00006580/ct.nii.gz BDMAP_00006580/segmentations/pancreas.nii.gz A distinct heterogeneous enhancement and significant detail are noted.
+BDMAP_00007727/ct.nii.gz BDMAP_00007727/segmentations/pancreas.nii.gz There is a notable heterogeneous enhancement with significant detail.
+BDMAP_00006943/ct.nii.gz BDMAP_00006943/segmentations/pancreas.nii.gz A distinct hyperattenuating and significant detail are noted.
+BDMAP_00008348/ct.nii.gz BDMAP_00008348/segmentations/pancreas.nii.gz A distinct washout and significant detail are noted.
+BDMAP_00005581/ct.nii.gz BDMAP_00005581/segmentations/pancreas.nii.gz metastases is present, revealing significant detail.
+BDMAP_00008418/ct.nii.gz BDMAP_00008418/segmentations/pancreas.nii.gz Observed is a hypodensity, characterized by significant detail.
+BDMAP_00008323/ct.nii.gz BDMAP_00008323/segmentations/pancreas.nii.gz There is a notable arterial enhancement with significant detail.
+BDMAP_00008897/ct.nii.gz BDMAP_00008897/segmentations/pancreas.nii.gz A distinct well-defined and significant detail are noted.
+BDMAP_00004656/ct.nii.gz BDMAP_00004656/segmentations/pancreas.nii.gz Observed is a hypodensity, characterized by significant detail.
+BDMAP_00005262/ct.nii.gz BDMAP_00005262/segmentations/pancreas.nii.gz A distinct metastases and significant detail are noted.
+BDMAP_00005653/ct.nii.gz BDMAP_00005653/segmentations/pancreas.nii.gz heterogeneous enhancement is present, revealing significant detail.
+BDMAP_00005689/ct.nii.gz BDMAP_00005689/segmentations/pancreas.nii.gz Observed is a cyst, characterized by significant detail.
+BDMAP_00007315/ct.nii.gz BDMAP_00007315/segmentations/pancreas.nii.gz A distinct cyst and significant detail are noted.
+BDMAP_00007618/ct.nii.gz BDMAP_00007618/segmentations/pancreas.nii.gz A distinct washout and significant detail are noted.
+BDMAP_00007580/ct.nii.gz BDMAP_00007580/segmentations/pancreas.nii.gz ill-defined is present, revealing significant detail.
+BDMAP_00006689/ct.nii.gz BDMAP_00006689/segmentations/pancreas.nii.gz A distinct hypoattenuating and significant detail are noted.
+BDMAP_00006313/ct.nii.gz BDMAP_00006313/segmentations/pancreas.nii.gz cyst is present, revealing significant detail.
+BDMAP_00005907/ct.nii.gz BDMAP_00005907/segmentations/pancreas.nii.gz A distinct cyst and significant detail are noted.
+BDMAP_00005765/ct.nii.gz BDMAP_00005765/segmentations/pancreas.nii.gz arterial enhancement is present, revealing significant detail.
+BDMAP_00006354/ct.nii.gz BDMAP_00006354/segmentations/pancreas.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00006815/ct.nii.gz BDMAP_00006815/segmentations/pancreas.nii.gz A distinct cirrhosis and significant detail are noted.
+BDMAP_00006660/ct.nii.gz BDMAP_00006660/segmentations/pancreas.nii.gz washout is present, revealing significant detail.
+BDMAP_00006701/ct.nii.gz BDMAP_00006701/segmentations/pancreas.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00007060/ct.nii.gz BDMAP_00007060/segmentations/pancreas.nii.gz hypoattenuating appears, displaying significant detail.
+BDMAP_00000111/ct.nii.gz BDMAP_00000111/segmentations/pancreas.nii.gz heterogeneous enhancement is present, revealing significant detail.
+BDMAP_00008480/ct.nii.gz BDMAP_00008480/segmentations/pancreas.nii.gz A distinct washout and significant detail are noted.
+BDMAP_00009049/ct.nii.gz BDMAP_00009049/segmentations/pancreas.nii.gz There is a notable hyperattenuating with significant detail.
+BDMAP_00005459/ct.nii.gz BDMAP_00005459/segmentations/pancreas.nii.gz hypoattenuating appears, displaying significant detail.
+BDMAP_00007535/ct.nii.gz BDMAP_00007535/segmentations/pancreas.nii.gz There is a notable cirrhosis with significant detail.
+BDMAP_00005793/ct.nii.gz BDMAP_00005793/segmentations/pancreas.nii.gz washout is present, revealing significant detail.
+BDMAP_00002628/ct.nii.gz BDMAP_00002628/segmentations/pancreas.nii.gz A distinct washout and significant detail are noted.
+BDMAP_00008577/ct.nii.gz BDMAP_00008577/segmentations/pancreas.nii.gz Observed is a washout, characterized by significant detail.
+BDMAP_00006863/ct.nii.gz BDMAP_00006863/segmentations/pancreas.nii.gz There is a notable well-defined with significant detail.
+BDMAP_00001336/ct.nii.gz BDMAP_00001336/segmentations/pancreas.nii.gz A distinct ill-defined and significant detail are noted.
+BDMAP_00006359/ct.nii.gz BDMAP_00006359/segmentations/pancreas.nii.gz ill-defined appears, displaying significant detail.
+BDMAP_00006778/ct.nii.gz BDMAP_00006778/segmentations/pancreas.nii.gz There is a notable cirrhosis with significant detail.
+BDMAP_00006298/ct.nii.gz BDMAP_00006298/segmentations/pancreas.nii.gz arterial enhancement is present, revealing significant detail.
+BDMAP_00007327/ct.nii.gz BDMAP_00007327/segmentations/pancreas.nii.gz A distinct well-defined and significant detail are noted.
+BDMAP_00008115/ct.nii.gz BDMAP_00008115/segmentations/pancreas.nii.gz washout is present, revealing significant detail.
+BDMAP_00006352/ct.nii.gz BDMAP_00006352/segmentations/pancreas.nii.gz Observed is a ill-defined, characterized by significant detail.
+BDMAP_00005458/ct.nii.gz BDMAP_00005458/segmentations/pancreas.nii.gz well-defined is present, revealing significant detail.
+BDMAP_00007663/ct.nii.gz BDMAP_00007663/segmentations/pancreas.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00009190/ct.nii.gz BDMAP_00009190/segmentations/pancreas.nii.gz A distinct hyperattenuating and significant detail are noted.
+BDMAP_00006886/ct.nii.gz BDMAP_00006886/segmentations/pancreas.nii.gz There is a notable metastases with significant detail.
+BDMAP_00009046/ct.nii.gz BDMAP_00009046/segmentations/pancreas.nii.gz cyst is present, revealing significant detail.
+BDMAP_00007013/ct.nii.gz BDMAP_00007013/segmentations/pancreas.nii.gz Observed is a metastases, characterized by significant detail.
+BDMAP_00006050/ct.nii.gz BDMAP_00006050/segmentations/pancreas.nii.gz A distinct cirrhosis and significant detail are noted.
+BDMAP_00008652/ct.nii.gz BDMAP_00008652/segmentations/pancreas.nii.gz There is a notable ill-defined with significant detail.
+BDMAP_00008420/ct.nii.gz BDMAP_00008420/segmentations/pancreas.nii.gz Observed is a hypodensity, characterized by significant detail.
+BDMAP_00005963/ct.nii.gz BDMAP_00005963/segmentations/pancreas.nii.gz Observed is a washout, characterized by significant detail.
+BDMAP_00007810/ct.nii.gz BDMAP_00007810/segmentations/pancreas.nii.gz cirrhosis is present, revealing significant detail.
+BDMAP_00006224/ct.nii.gz BDMAP_00006224/segmentations/pancreas.nii.gz A distinct hypodensity and significant detail are noted.
+BDMAP_00008106/ct.nii.gz BDMAP_00008106/segmentations/pancreas.nii.gz There is a notable hypodensity with significant detail.
+BDMAP_00008904/ct.nii.gz BDMAP_00008904/segmentations/pancreas.nii.gz A distinct hypoattenuating and significant detail are noted.
+BDMAP_00009191/ct.nii.gz BDMAP_00009191/segmentations/pancreas.nii.gz A distinct arterial enhancement and significant detail are noted.
+BDMAP_00006389/ct.nii.gz BDMAP_00006389/segmentations/pancreas.nii.gz There is a notable cirrhosis with significant detail.
+BDMAP_00007229/ct.nii.gz BDMAP_00007229/segmentations/pancreas.nii.gz hyperattenuating is present, revealing significant detail.
+BDMAP_00008994/ct.nii.gz BDMAP_00008994/segmentations/pancreas.nii.gz There is a notable hyperattenuating with significant detail.
+BDMAP_00007346/ct.nii.gz BDMAP_00007346/segmentations/pancreas.nii.gz There is a notable well-defined with significant detail.
+BDMAP_00002917/ct.nii.gz BDMAP_00002917/segmentations/pancreas.nii.gz A distinct hyperattenuating and significant detail are noted.
+BDMAP_00005267/ct.nii.gz BDMAP_00005267/segmentations/pancreas.nii.gz A distinct metastases and significant detail are noted.
+BDMAP_00007929/ct.nii.gz BDMAP_00007929/segmentations/pancreas.nii.gz A distinct arterial enhancement and significant detail are noted.
+BDMAP_00007084/ct.nii.gz BDMAP_00007084/segmentations/pancreas.nii.gz There is a notable hypoattenuating with significant detail.
+BDMAP_00008448/ct.nii.gz BDMAP_00008448/segmentations/pancreas.nii.gz There is a notable metastases with significant detail.
+BDMAP_00008212/ct.nii.gz BDMAP_00008212/segmentations/pancreas.nii.gz Observed is a metastases, characterized by significant detail.
+BDMAP_00009118/ct.nii.gz BDMAP_00009118/segmentations/pancreas.nii.gz A distinct washout and significant detail are noted.
+BDMAP_00005368/ct.nii.gz BDMAP_00005368/segmentations/pancreas.nii.gz Observed is a hypoattenuating, characterized by significant detail.
+BDMAP_00005770/ct.nii.gz BDMAP_00005770/segmentations/pancreas.nii.gz Observed is a washout, characterized by significant detail.
+BDMAP_00006345/ct.nii.gz BDMAP_00006345/segmentations/pancreas.nii.gz A distinct heterogeneous enhancement and significant detail are noted.
+BDMAP_00005228/ct.nii.gz BDMAP_00005228/segmentations/pancreas.nii.gz Observed is a hyperattenuating, characterized by significant detail.
+BDMAP_00004044/ct.nii.gz BDMAP_00004044/segmentations/pancreas.nii.gz There is a notable hyperattenuating with significant detail.
+BDMAP_00006358/ct.nii.gz BDMAP_00006358/segmentations/pancreas.nii.gz metastases appears, displaying significant detail.
+BDMAP_00007255/ct.nii.gz BDMAP_00007255/segmentations/pancreas.nii.gz A distinct heterogeneous enhancement and significant detail are noted.
+BDMAP_00007349/ct.nii.gz BDMAP_00007349/segmentations/pancreas.nii.gz washout is present, revealing significant detail.
+BDMAP_00006483/ct.nii.gz BDMAP_00006483/segmentations/pancreas.nii.gz A distinct cirrhosis and significant detail are noted.
+BDMAP_00006594/ct.nii.gz BDMAP_00006594/segmentations/pancreas.nii.gz A distinct cyst and significant detail are noted.
+BDMAP_00005995/ct.nii.gz BDMAP_00005995/segmentations/pancreas.nii.gz Observed is a hyperattenuating, characterized by significant detail.
+BDMAP_00007494/ct.nii.gz BDMAP_00007494/segmentations/pancreas.nii.gz ill-defined is present, revealing significant detail.
+BDMAP_00007610/ct.nii.gz BDMAP_00007610/segmentations/pancreas.nii.gz cyst is present, revealing significant detail.
+BDMAP_00007492/ct.nii.gz BDMAP_00007492/segmentations/pancreas.nii.gz There is a notable hyperattenuating with significant detail.
+BDMAP_00007451/ct.nii.gz BDMAP_00007451/segmentations/pancreas.nii.gz arterial enhancement is present, revealing significant detail.
+BDMAP_00008325/ct.nii.gz BDMAP_00008325/segmentations/pancreas.nii.gz Observed is a hypodensity, characterized by significant detail.
+BDMAP_00006013/ct.nii.gz BDMAP_00006013/segmentations/pancreas.nii.gz washout appears, displaying significant detail.
+BDMAP_00006628/ct.nii.gz BDMAP_00006628/segmentations/pancreas.nii.gz A distinct hypoattenuating and significant detail are noted.
+BDMAP_00008915/ct.nii.gz BDMAP_00008915/segmentations/pancreas.nii.gz There is a notable washout with significant detail.
+BDMAP_00007707/ct.nii.gz BDMAP_00007707/segmentations/pancreas.nii.gz A distinct heterogeneous enhancement and significant detail are noted.
+BDMAP_00008675/ct.nii.gz BDMAP_00008675/segmentations/pancreas.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00005419/ct.nii.gz BDMAP_00005419/segmentations/pancreas.nii.gz ill-defined is present, revealing significant detail.
+BDMAP_00006014/ct.nii.gz BDMAP_00006014/segmentations/pancreas.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00007085/ct.nii.gz BDMAP_00007085/segmentations/pancreas.nii.gz There is a notable arterial enhancement with significant detail.
+BDMAP_00005881/ct.nii.gz BDMAP_00005881/segmentations/pancreas.nii.gz There is a notable hyperattenuating with significant detail.
+BDMAP_00006874/ct.nii.gz BDMAP_00006874/segmentations/pancreas.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00005209/ct.nii.gz BDMAP_00005209/segmentations/pancreas.nii.gz There is a notable well-defined with significant detail.
+BDMAP_00007213/ct.nii.gz BDMAP_00007213/segmentations/pancreas.nii.gz metastases appears, displaying significant detail.
+BDMAP_00005880/ct.nii.gz BDMAP_00005880/segmentations/pancreas.nii.gz A distinct hypodensity and significant detail are noted.
+BDMAP_00009026/ct.nii.gz BDMAP_00009026/segmentations/pancreas.nii.gz hypoattenuating appears, displaying significant detail.
+BDMAP_00005592/ct.nii.gz BDMAP_00005592/segmentations/pancreas.nii.gz Observed is a hyperattenuating, characterized by significant detail.
+BDMAP_00007355/ct.nii.gz BDMAP_00007355/segmentations/pancreas.nii.gz There is a notable cyst with significant detail.
+BDMAP_00005931/ct.nii.gz BDMAP_00005931/segmentations/pancreas.nii.gz hypoattenuating is present, revealing significant detail.
+BDMAP_00008436/ct.nii.gz BDMAP_00008436/segmentations/pancreas.nii.gz washout appears, displaying significant detail.
+BDMAP_00005463/ct.nii.gz BDMAP_00005463/segmentations/pancreas.nii.gz There is a notable well-defined with significant detail.
+BDMAP_00005882/ct.nii.gz BDMAP_00005882/segmentations/pancreas.nii.gz heterogeneous enhancement appears, displaying significant detail.
+BDMAP_00008922/ct.nii.gz BDMAP_00008922/segmentations/pancreas.nii.gz hyperattenuating appears, displaying significant detail.
+BDMAP_00007297/ct.nii.gz BDMAP_00007297/segmentations/pancreas.nii.gz A distinct hypoattenuating and significant detail are noted.
+BDMAP_00009251/ct.nii.gz BDMAP_00009251/segmentations/pancreas.nii.gz There is a notable hypoattenuating with significant detail.
+BDMAP_00007878/ct.nii.gz BDMAP_00007878/segmentations/pancreas.nii.gz ill-defined appears, displaying significant detail.
+BDMAP_00002890/ct.nii.gz BDMAP_00002890/segmentations/pancreas.nii.gz Observed is a well-defined, characterized by significant detail.
+BDMAP_00007758/ct.nii.gz BDMAP_00007758/segmentations/pancreas.nii.gz Observed is a hypodensity, characterized by significant detail.
+BDMAP_00002494/ct.nii.gz BDMAP_00002494/segmentations/pancreas.nii.gz hypoattenuating appears, displaying significant detail.
+BDMAP_00005384/ct.nii.gz BDMAP_00005384/segmentations/pancreas.nii.gz Observed is a hyperattenuating, characterized by significant detail.
+BDMAP_00007885/ct.nii.gz BDMAP_00007885/segmentations/pancreas.nii.gz A distinct arterial enhancement and significant detail are noted.
+BDMAP_00006764/ct.nii.gz BDMAP_00006764/segmentations/pancreas.nii.gz There is a notable arterial enhancement with significant detail.
+BDMAP_00009254/ct.nii.gz BDMAP_00009254/segmentations/pancreas.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00007148/ct.nii.gz BDMAP_00007148/segmentations/pancreas.nii.gz hypoattenuating appears, displaying significant detail.
+BDMAP_00005270/ct.nii.gz BDMAP_00005270/segmentations/pancreas.nii.gz There is a notable metastases with significant detail.
+BDMAP_00007739/ct.nii.gz BDMAP_00007739/segmentations/pancreas.nii.gz Observed is a cirrhosis, characterized by significant detail.
+BDMAP_00009017/ct.nii.gz BDMAP_00009017/segmentations/pancreas.nii.gz arterial enhancement appears, displaying significant detail.
+BDMAP_00008081/ct.nii.gz BDMAP_00008081/segmentations/pancreas.nii.gz hypoattenuating is present, revealing significant detail.
+BDMAP_00008987/ct.nii.gz BDMAP_00008987/segmentations/pancreas.nii.gz Observed is a washout, characterized by significant detail.
+BDMAP_00007206/ct.nii.gz BDMAP_00007206/segmentations/pancreas.nii.gz ill-defined appears, displaying significant detail.
+BDMAP_00005939/ct.nii.gz BDMAP_00005939/segmentations/pancreas.nii.gz arterial enhancement appears, displaying significant detail.
+BDMAP_00005131/ct.nii.gz BDMAP_00005131/segmentations/pancreas.nii.gz ill-defined is present, revealing significant detail.
+BDMAP_00008433/ct.nii.gz BDMAP_00008433/segmentations/pancreas.nii.gz cirrhosis appears, displaying significant detail.
+BDMAP_00000496/ct.nii.gz BDMAP_00000496/segmentations/pancreas.nii.gz A distinct hyperattenuating and significant detail are noted.
+BDMAP_00006155/ct.nii.gz BDMAP_00006155/segmentations/pancreas.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00008165/ct.nii.gz BDMAP_00008165/segmentations/pancreas.nii.gz Observed is a ill-defined, characterized by significant detail.
+BDMAP_00007731/ct.nii.gz BDMAP_00007731/segmentations/pancreas.nii.gz cirrhosis is present, revealing significant detail.
+BDMAP_00007311/ct.nii.gz BDMAP_00007311/segmentations/pancreas.nii.gz washout appears, displaying significant detail.
+BDMAP_00008118/ct.nii.gz BDMAP_00008118/segmentations/pancreas.nii.gz hyperattenuating is present, revealing significant detail.
+BDMAP_00007274/ct.nii.gz BDMAP_00007274/segmentations/pancreas.nii.gz A distinct hypoattenuating and significant detail are noted.
+BDMAP_00006009/ct.nii.gz BDMAP_00006009/segmentations/pancreas.nii.gz hypoattenuating appears, displaying significant detail.
+BDMAP_00001960/ct.nii.gz BDMAP_00001960/segmentations/pancreas.nii.gz Observed is a well-defined, characterized by significant detail.
+BDMAP_00009212/ct.nii.gz BDMAP_00009212/segmentations/pancreas.nii.gz There is a notable cirrhosis with significant detail.
+BDMAP_00009107/ct.nii.gz BDMAP_00009107/segmentations/pancreas.nii.gz A distinct cyst and significant detail are noted.
+BDMAP_00007258/ct.nii.gz BDMAP_00007258/segmentations/pancreas.nii.gz A distinct well-defined and significant detail are noted.
+BDMAP_00002373/ct.nii.gz BDMAP_00002373/segmentations/pancreas.nii.gz cyst is present, revealing significant detail.
+BDMAP_00008087/ct.nii.gz BDMAP_00008087/segmentations/pancreas.nii.gz cirrhosis is present, revealing significant detail.
+BDMAP_00006611/ct.nii.gz BDMAP_00006611/segmentations/pancreas.nii.gz Observed is a hypoattenuating, characterized by significant detail.
+BDMAP_00006727/ct.nii.gz BDMAP_00006727/segmentations/pancreas.nii.gz A distinct cirrhosis and significant detail are noted.
+BDMAP_00008416/ct.nii.gz BDMAP_00008416/segmentations/pancreas.nii.gz A distinct ill-defined and significant detail are noted.
+BDMAP_00005446/ct.nii.gz BDMAP_00005446/segmentations/pancreas.nii.gz hypodensity appears, displaying significant detail.
+BDMAP_00009240/ct.nii.gz BDMAP_00009240/segmentations/pancreas.nii.gz Observed is a hypoattenuating, characterized by significant detail.
+BDMAP_00007866/ct.nii.gz BDMAP_00007866/segmentations/pancreas.nii.gz There is a notable hypodensity with significant detail.
+BDMAP_00006819/ct.nii.gz BDMAP_00006819/segmentations/pancreas.nii.gz heterogeneous enhancement is present, revealing significant detail.
+BDMAP_00006169/ct.nii.gz BDMAP_00006169/segmentations/pancreas.nii.gz heterogeneous enhancement is present, revealing significant detail.
+BDMAP_00007097/ct.nii.gz BDMAP_00007097/segmentations/pancreas.nii.gz Observed is a hyperattenuating, characterized by significant detail.
+BDMAP_00009073/ct.nii.gz BDMAP_00009073/segmentations/pancreas.nii.gz A distinct washout and significant detail are noted.
+BDMAP_00005896/ct.nii.gz BDMAP_00005896/segmentations/pancreas.nii.gz A distinct heterogeneous enhancement and significant detail are noted.
+BDMAP_00005426/ct.nii.gz BDMAP_00005426/segmentations/pancreas.nii.gz A distinct hypodensity and significant detail are noted.
+BDMAP_00005725/ct.nii.gz BDMAP_00005725/segmentations/pancreas.nii.gz There is a notable well-defined with significant detail.
+BDMAP_00007456/ct.nii.gz BDMAP_00007456/segmentations/pancreas.nii.gz There is a notable hyperattenuating with significant detail.
+BDMAP_00005705/ct.nii.gz BDMAP_00005705/segmentations/pancreas.nii.gz There is a notable heterogeneous enhancement with significant detail.
+BDMAP_00007161/ct.nii.gz BDMAP_00007161/segmentations/pancreas.nii.gz A distinct cyst and significant detail are noted.
+BDMAP_00008366/ct.nii.gz BDMAP_00008366/segmentations/pancreas.nii.gz Observed is a heterogeneous enhancement, characterized by significant detail.
+BDMAP_00007298/ct.nii.gz BDMAP_00007298/segmentations/pancreas.nii.gz Observed is a hypoattenuating, characterized by significant detail.
+BDMAP_00006811/ct.nii.gz BDMAP_00006811/segmentations/pancreas.nii.gz heterogeneous enhancement appears, displaying significant detail.
+BDMAP_00005367/ct.nii.gz BDMAP_00005367/segmentations/pancreas.nii.gz arterial enhancement is present, revealing significant detail.
+BDMAP_00006961/ct.nii.gz BDMAP_00006961/segmentations/pancreas.nii.gz There is a notable heterogeneous enhancement with significant detail.
+BDMAP_00008527/ct.nii.gz BDMAP_00008527/segmentations/pancreas.nii.gz A distinct washout and significant detail are noted.
+BDMAP_00008358/ct.nii.gz BDMAP_00008358/segmentations/pancreas.nii.gz There is a notable hypoattenuating with significant detail.
+BDMAP_00007529/ct.nii.gz BDMAP_00007529/segmentations/pancreas.nii.gz Observed is a hypodensity, characterized by significant detail.
+BDMAP_00006017/ct.nii.gz BDMAP_00006017/segmentations/pancreas.nii.gz A distinct cyst and significant detail are noted.
+BDMAP_00006196/ct.nii.gz BDMAP_00006196/segmentations/pancreas.nii.gz well-defined is present, revealing significant detail.
+BDMAP_00006861/ct.nii.gz BDMAP_00006861/segmentations/pancreas.nii.gz cyst appears, displaying significant detail.
+BDMAP_00008905/ct.nii.gz BDMAP_00008905/segmentations/pancreas.nii.gz cirrhosis is present, revealing significant detail.
+BDMAP_00007511/ct.nii.gz BDMAP_00007511/segmentations/pancreas.nii.gz heterogeneous enhancement is present, revealing significant detail.
+BDMAP_00007793/ct.nii.gz BDMAP_00007793/segmentations/pancreas.nii.gz cirrhosis is present, revealing significant detail.
+BDMAP_00008349/ct.nii.gz BDMAP_00008349/segmentations/pancreas.nii.gz A distinct cirrhosis and significant detail are noted.
+BDMAP_00005567/ct.nii.gz BDMAP_00005567/segmentations/pancreas.nii.gz There is a notable heterogeneous enhancement with significant detail.
+BDMAP_00007584/ct.nii.gz BDMAP_00007584/segmentations/pancreas.nii.gz There is a notable metastases with significant detail.
+BDMAP_00006039/ct.nii.gz BDMAP_00006039/segmentations/pancreas.nii.gz A distinct heterogeneous enhancement and significant detail are noted.
+BDMAP_00006846/ct.nii.gz BDMAP_00006846/segmentations/pancreas.nii.gz There is a notable arterial enhancement with significant detail.
+BDMAP_00008998/ct.nii.gz BDMAP_00008998/segmentations/pancreas.nii.gz metastases appears, displaying significant detail.
+BDMAP_00005937/ct.nii.gz BDMAP_00005937/segmentations/pancreas.nii.gz There is a notable hypoattenuating with significant detail.
+BDMAP_00005373/ct.nii.gz BDMAP_00005373/segmentations/pancreas.nii.gz hypoattenuating appears, displaying significant detail.
+BDMAP_00005569/ct.nii.gz BDMAP_00005569/segmentations/pancreas.nii.gz Observed is a washout, characterized by significant detail.
+BDMAP_00007102/ct.nii.gz BDMAP_00007102/segmentations/pancreas.nii.gz metastases appears, displaying significant detail.
+BDMAP_00004109/ct.nii.gz BDMAP_00004109/segmentations/pancreas.nii.gz A distinct heterogeneous enhancement and significant detail are noted.
+BDMAP_00008010/ct.nii.gz BDMAP_00008010/segmentations/pancreas.nii.gz heterogeneous enhancement is present, revealing significant detail.
+BDMAP_00007594/ct.nii.gz BDMAP_00007594/segmentations/pancreas.nii.gz There is a notable well-defined with significant detail.
+BDMAP_00008682/ct.nii.gz BDMAP_00008682/segmentations/pancreas.nii.gz well-defined is present, revealing significant detail.
+BDMAP_00008982/ct.nii.gz BDMAP_00008982/segmentations/pancreas.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00007868/ct.nii.gz BDMAP_00007868/segmentations/pancreas.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00002044/ct.nii.gz BDMAP_00002044/segmentations/pancreas.nii.gz cirrhosis appears, displaying significant detail.
+BDMAP_00006539/ct.nii.gz BDMAP_00006539/segmentations/pancreas.nii.gz A distinct well-defined and significant detail are noted.
+BDMAP_00005974/ct.nii.gz BDMAP_00005974/segmentations/pancreas.nii.gz A distinct hyperattenuating and significant detail are noted.
+BDMAP_00007011/ct.nii.gz BDMAP_00007011/segmentations/pancreas.nii.gz metastases appears, displaying significant detail.
+BDMAP_00006259/ct.nii.gz BDMAP_00006259/segmentations/pancreas.nii.gz A distinct washout and significant detail are noted.
+BDMAP_00007416/ct.nii.gz BDMAP_00007416/segmentations/pancreas.nii.gz hypoattenuating is present, revealing significant detail.
+BDMAP_00007446/ct.nii.gz BDMAP_00007446/segmentations/pancreas.nii.gz cyst is present, revealing significant detail.
+BDMAP_00007777/ct.nii.gz BDMAP_00007777/segmentations/pancreas.nii.gz Observed is a cirrhosis, characterized by significant detail.
+BDMAP_00006759/ct.nii.gz BDMAP_00006759/segmentations/pancreas.nii.gz washout appears, displaying significant detail.
+BDMAP_00008741/ct.nii.gz BDMAP_00008741/segmentations/pancreas.nii.gz metastases appears, displaying significant detail.
+BDMAP_00008005/ct.nii.gz BDMAP_00008005/segmentations/pancreas.nii.gz Observed is a hypoattenuating, characterized by significant detail.
+BDMAP_00005729/ct.nii.gz BDMAP_00005729/segmentations/pancreas.nii.gz washout appears, displaying significant detail.
+BDMAP_00007730/ct.nii.gz BDMAP_00007730/segmentations/pancreas.nii.gz well-defined is present, revealing significant detail.
+BDMAP_00006185/ct.nii.gz BDMAP_00006185/segmentations/pancreas.nii.gz A distinct ill-defined and significant detail are noted.
+BDMAP_00008657/ct.nii.gz BDMAP_00008657/segmentations/pancreas.nii.gz Observed is a ill-defined, characterized by significant detail.
+BDMAP_00006334/ct.nii.gz BDMAP_00006334/segmentations/pancreas.nii.gz Observed is a hypoattenuating, characterized by significant detail.
+BDMAP_00005790/ct.nii.gz BDMAP_00005790/segmentations/pancreas.nii.gz A distinct metastases and significant detail are noted.
+BDMAP_00009222/ct.nii.gz BDMAP_00009222/segmentations/pancreas.nii.gz Observed is a hyperattenuating, characterized by significant detail.
+BDMAP_00008836/ct.nii.gz BDMAP_00008836/segmentations/pancreas.nii.gz A distinct washout and significant detail are noted.
+BDMAP_00008730/ct.nii.gz BDMAP_00008730/segmentations/pancreas.nii.gz cyst is present, revealing significant detail.
+BDMAP_00005664/ct.nii.gz BDMAP_00005664/segmentations/pancreas.nii.gz Observed is a hypodensity, characterized by significant detail.
+BDMAP_00008391/ct.nii.gz BDMAP_00008391/segmentations/pancreas.nii.gz There is a notable hypoattenuating with significant detail.
+BDMAP_00008069/ct.nii.gz BDMAP_00008069/segmentations/pancreas.nii.gz There is a notable hypodensity with significant detail.
+BDMAP_00008271/ct.nii.gz BDMAP_00008271/segmentations/pancreas.nii.gz Observed is a well-defined, characterized by significant detail.
+BDMAP_00006828/ct.nii.gz BDMAP_00006828/segmentations/pancreas.nii.gz heterogeneous enhancement appears, displaying significant detail.
+BDMAP_00008875/ct.nii.gz BDMAP_00008875/segmentations/pancreas.nii.gz hyperattenuating appears, displaying significant detail.
+BDMAP_00005687/ct.nii.gz BDMAP_00005687/segmentations/pancreas.nii.gz There is a notable cirrhosis with significant detail.
+BDMAP_00006040/ct.nii.gz BDMAP_00006040/segmentations/pancreas.nii.gz heterogeneous enhancement is present, revealing significant detail.
+BDMAP_00006908/ct.nii.gz BDMAP_00006908/segmentations/pancreas.nii.gz A distinct washout and significant detail are noted.
+BDMAP_00006280/ct.nii.gz BDMAP_00006280/segmentations/pancreas.nii.gz hypoattenuating appears, displaying significant detail.
+BDMAP_00002007/ct.nii.gz BDMAP_00002007/segmentations/pancreas.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00008082/ct.nii.gz BDMAP_00008082/segmentations/pancreas.nii.gz hypoattenuating appears, displaying significant detail.
+BDMAP_00006011/ct.nii.gz BDMAP_00006011/segmentations/pancreas.nii.gz A distinct hypoattenuating and significant detail are noted.
+BDMAP_00008065/ct.nii.gz BDMAP_00008065/segmentations/pancreas.nii.gz There is a notable ill-defined with significant detail.
+BDMAP_00008956/ct.nii.gz BDMAP_00008956/segmentations/pancreas.nii.gz arterial enhancement appears, displaying significant detail.
+BDMAP_00008872/ct.nii.gz BDMAP_00008872/segmentations/pancreas.nii.gz heterogeneous enhancement appears, displaying significant detail.
+BDMAP_00008309/ct.nii.gz BDMAP_00008309/segmentations/pancreas.nii.gz heterogeneous enhancement is present, revealing significant detail.
+BDMAP_00007795/ct.nii.gz BDMAP_00007795/segmentations/pancreas.nii.gz washout is present, revealing significant detail.
+BDMAP_00009139/ct.nii.gz BDMAP_00009139/segmentations/pancreas.nii.gz hypodensity is present, revealing significant detail.
+BDMAP_00005814/ct.nii.gz BDMAP_00005814/segmentations/pancreas.nii.gz cyst appears, displaying significant detail.
+BDMAP_00003525/ct.nii.gz BDMAP_00003525/segmentations/pancreas.nii.gz A distinct cirrhosis and significant detail are noted.
+BDMAP_00008162/ct.nii.gz BDMAP_00008162/segmentations/pancreas.nii.gz Observed is a metastases, characterized by significant detail.
+BDMAP_00005795/ct.nii.gz BDMAP_00005795/segmentations/pancreas.nii.gz Observed is a ill-defined, characterized by significant detail.
+BDMAP_00007227/ct.nii.gz BDMAP_00007227/segmentations/pancreas.nii.gz There is a notable hyperattenuating with significant detail.
+BDMAP_00005923/ct.nii.gz BDMAP_00005923/segmentations/pancreas.nii.gz hypoattenuating is present, revealing significant detail.
+BDMAP_00005919/ct.nii.gz BDMAP_00005919/segmentations/pancreas.nii.gz There is a notable hypoattenuating with significant detail.
+BDMAP_00007986/ct.nii.gz BDMAP_00007986/segmentations/pancreas.nii.gz A distinct hyperattenuating and significant detail are noted.
+BDMAP_00009014/ct.nii.gz BDMAP_00009014/segmentations/pancreas.nii.gz heterogeneous enhancement appears, displaying significant detail.
+BDMAP_00005411/ct.nii.gz BDMAP_00005411/segmentations/pancreas.nii.gz Observed is a hyperattenuating, characterized by significant detail.
+BDMAP_00002676/ct.nii.gz BDMAP_00002676/segmentations/pancreas.nii.gz Observed is a metastases, characterized by significant detail.
+BDMAP_00005301/ct.nii.gz BDMAP_00005301/segmentations/pancreas.nii.gz A distinct metastases and significant detail are noted.
+BDMAP_00008615/ct.nii.gz BDMAP_00008615/segmentations/pancreas.nii.gz hypodensity is present, revealing significant detail.
+BDMAP_00005652/ct.nii.gz BDMAP_00005652/segmentations/pancreas.nii.gz There is a notable hyperattenuating with significant detail.
+BDMAP_00006644/ct.nii.gz BDMAP_00006644/segmentations/pancreas.nii.gz metastases appears, displaying significant detail.
+BDMAP_00007281/ct.nii.gz BDMAP_00007281/segmentations/pancreas.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00005281/ct.nii.gz BDMAP_00005281/segmentations/pancreas.nii.gz A distinct metastases and significant detail are noted.
+BDMAP_00007075/ct.nii.gz BDMAP_00007075/segmentations/pancreas.nii.gz hypodensity is present, revealing significant detail.
+BDMAP_00005887/ct.nii.gz BDMAP_00005887/segmentations/pancreas.nii.gz Observed is a cirrhosis, characterized by significant detail.
+BDMAP_00008360/ct.nii.gz BDMAP_00008360/segmentations/pancreas.nii.gz arterial enhancement is present, revealing significant detail.
+BDMAP_00008277/ct.nii.gz BDMAP_00008277/segmentations/pancreas.nii.gz heterogeneous enhancement is present, revealing significant detail.
+BDMAP_00006824/ct.nii.gz BDMAP_00006824/segmentations/pancreas.nii.gz washout is present, revealing significant detail.
+BDMAP_00007228/ct.nii.gz BDMAP_00007228/segmentations/pancreas.nii.gz There is a notable arterial enhancement with significant detail.
+BDMAP_00006955/ct.nii.gz BDMAP_00006955/segmentations/pancreas.nii.gz Observed is a well-defined, characterized by significant detail.
+BDMAP_00008839/ct.nii.gz BDMAP_00008839/segmentations/pancreas.nii.gz There is a notable hypodensity with significant detail.
+BDMAP_00007899/ct.nii.gz BDMAP_00007899/segmentations/pancreas.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00008498/ct.nii.gz BDMAP_00008498/segmentations/pancreas.nii.gz cyst appears, displaying significant detail.
+BDMAP_00005604/ct.nii.gz BDMAP_00005604/segmentations/pancreas.nii.gz hypodensity appears, displaying significant detail.
+BDMAP_00007155/ct.nii.gz BDMAP_00007155/segmentations/pancreas.nii.gz hypodensity appears, displaying significant detail.
+BDMAP_00008954/ct.nii.gz BDMAP_00008954/segmentations/pancreas.nii.gz hyperattenuating appears, displaying significant detail.
+BDMAP_00008745/ct.nii.gz BDMAP_00008745/segmentations/pancreas.nii.gz Observed is a hypodensity, characterized by significant detail.
+BDMAP_00000063/ct.nii.gz BDMAP_00000063/segmentations/pancreas.nii.gz A distinct cirrhosis and significant detail are noted.
+BDMAP_00007138/ct.nii.gz BDMAP_00007138/segmentations/pancreas.nii.gz A distinct hyperattenuating and significant detail are noted.
+BDMAP_00006896/ct.nii.gz BDMAP_00006896/segmentations/pancreas.nii.gz There is a notable well-defined with significant detail.
+BDMAP_00005457/ct.nii.gz BDMAP_00005457/segmentations/pancreas.nii.gz A distinct well-defined and significant detail are noted.
+BDMAP_00007778/ct.nii.gz BDMAP_00007778/segmentations/pancreas.nii.gz cirrhosis is present, revealing significant detail.
+BDMAP_00005886/ct.nii.gz BDMAP_00005886/segmentations/pancreas.nii.gz There is a notable hypodensity with significant detail.
+BDMAP_00008794/ct.nii.gz BDMAP_00008794/segmentations/pancreas.nii.gz A distinct hypodensity and significant detail are noted.
+BDMAP_00000659/ct.nii.gz BDMAP_00000659/segmentations/pancreas.nii.gz Observed is a metastases, characterized by significant detail.
+BDMAP_00005985/ct.nii.gz BDMAP_00005985/segmentations/pancreas.nii.gz Observed is a cirrhosis, characterized by significant detail.
+BDMAP_00008054/ct.nii.gz BDMAP_00008054/segmentations/pancreas.nii.gz arterial enhancement appears, displaying significant detail.
+BDMAP_00000020/ct.nii.gz BDMAP_00000020/segmentations/pancreas.nii.gz cyst is present, revealing significant detail.
+BDMAP_00007440/ct.nii.gz BDMAP_00007440/segmentations/pancreas.nii.gz hyperattenuating is present, revealing significant detail.
+BDMAP_00005950/ct.nii.gz BDMAP_00005950/segmentations/pancreas.nii.gz ill-defined is present, revealing significant detail.
+BDMAP_00006905/ct.nii.gz BDMAP_00006905/segmentations/pancreas.nii.gz A distinct arterial enhancement and significant detail are noted.
+BDMAP_00002412/ct.nii.gz BDMAP_00002412/segmentations/pancreas.nii.gz hypoattenuating is present, revealing significant detail.
+BDMAP_00005927/ct.nii.gz BDMAP_00005927/segmentations/pancreas.nii.gz A distinct hypodensity and significant detail are noted.
+BDMAP_00007400/ct.nii.gz BDMAP_00007400/segmentations/pancreas.nii.gz There is a notable cirrhosis with significant detail.
+BDMAP_00007291/ct.nii.gz BDMAP_00007291/segmentations/pancreas.nii.gz hypoattenuating is present, revealing significant detail.
+BDMAP_00004299/ct.nii.gz BDMAP_00004299/segmentations/pancreas.nii.gz hypodensity appears, displaying significant detail.
+BDMAP_00008570/ct.nii.gz BDMAP_00008570/segmentations/pancreas.nii.gz A distinct cirrhosis and significant detail are noted.
+BDMAP_00007048/ct.nii.gz BDMAP_00007048/segmentations/pancreas.nii.gz A distinct cyst and significant detail are noted.
+BDMAP_00007409/ct.nii.gz BDMAP_00007409/segmentations/pancreas.nii.gz well-defined is present, revealing significant detail.
+BDMAP_00007717/ct.nii.gz BDMAP_00007717/segmentations/pancreas.nii.gz A distinct hypoattenuating and significant detail are noted.
+BDMAP_00005978/ct.nii.gz BDMAP_00005978/segmentations/pancreas.nii.gz cirrhosis is present, revealing significant detail.
+BDMAP_00007022/ct.nii.gz BDMAP_00007022/segmentations/pancreas.nii.gz washout appears, displaying significant detail.
+BDMAP_00007415/ct.nii.gz BDMAP_00007415/segmentations/pancreas.nii.gz Observed is a cirrhosis, characterized by significant detail.
+BDMAP_00008179/ct.nii.gz BDMAP_00008179/segmentations/pancreas.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00008841/ct.nii.gz BDMAP_00008841/segmentations/pancreas.nii.gz There is a notable hypoattenuating with significant detail.
+BDMAP_00007515/ct.nii.gz BDMAP_00007515/segmentations/pancreas.nii.gz cyst appears, displaying significant detail.
+BDMAP_00008785/ct.nii.gz BDMAP_00008785/segmentations/pancreas.nii.gz hypoattenuating is present, revealing significant detail.
+BDMAP_00000768/ct.nii.gz BDMAP_00000768/segmentations/pancreas.nii.gz A distinct metastases and significant detail are noted.
+BDMAP_00006187/ct.nii.gz BDMAP_00006187/segmentations/pancreas.nii.gz There is a notable ill-defined with significant detail.
+BDMAP_00006378/ct.nii.gz BDMAP_00006378/segmentations/pancreas.nii.gz There is a notable arterial enhancement with significant detail.
+BDMAP_00005549/ct.nii.gz BDMAP_00005549/segmentations/pancreas.nii.gz hypodensity appears, displaying significant detail.

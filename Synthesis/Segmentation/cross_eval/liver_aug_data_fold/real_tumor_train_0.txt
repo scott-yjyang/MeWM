@@ -1,0 +1,604 @@
+Task03_Liver/imagesTr/liver_0.nii.gz Task03_Liver/labelsTr/liver_0.nii.gz
+Task03_Liver/imagesTr/liver_1.nii.gz Task03_Liver/labelsTr/liver_1.nii.gz
+Task03_Liver/imagesTr/liver_10.nii.gz Task03_Liver/labelsTr/liver_10.nii.gz
+Task03_Liver/imagesTr/liver_100.nii.gz Task03_Liver/labelsTr/liver_100.nii.gz
+Task03_Liver/imagesTr/liver_102.nii.gz Task03_Liver/labelsTr/liver_102.nii.gz
+Task03_Liver/imagesTr/liver_103.nii.gz Task03_Liver/labelsTr/liver_103.nii.gz
+Task03_Liver/imagesTr/liver_104.nii.gz Task03_Liver/labelsTr/liver_104.nii.gz
+Task03_Liver/imagesTr/liver_105.nii.gz Task03_Liver/labelsTr/liver_105.nii.gz
+Task03_Liver/imagesTr/liver_106.nii.gz Task03_Liver/labelsTr/liver_106.nii.gz
+Task03_Liver/imagesTr/liver_109.nii.gz Task03_Liver/labelsTr/liver_109.nii.gz
+Task03_Liver/imagesTr/liver_11.nii.gz Task03_Liver/labelsTr/liver_11.nii.gz
+Task03_Liver/imagesTr/liver_110.nii.gz Task03_Liver/labelsTr/liver_110.nii.gz
+Task03_Liver/imagesTr/liver_111.nii.gz Task03_Liver/labelsTr/liver_111.nii.gz
+Task03_Liver/imagesTr/liver_112.nii.gz Task03_Liver/labelsTr/liver_112.nii.gz
+Task03_Liver/imagesTr/liver_113.nii.gz Task03_Liver/labelsTr/liver_113.nii.gz
+Task03_Liver/imagesTr/liver_116.nii.gz Task03_Liver/labelsTr/liver_116.nii.gz
+Task03_Liver/imagesTr/liver_117.nii.gz Task03_Liver/labelsTr/liver_117.nii.gz
+Task03_Liver/imagesTr/liver_118.nii.gz Task03_Liver/labelsTr/liver_118.nii.gz
+Task03_Liver/imagesTr/liver_119.nii.gz Task03_Liver/labelsTr/liver_119.nii.gz
+Task03_Liver/imagesTr/liver_12.nii.gz Task03_Liver/labelsTr/liver_12.nii.gz
+Task03_Liver/imagesTr/liver_120.nii.gz Task03_Liver/labelsTr/liver_120.nii.gz
+Task03_Liver/imagesTr/liver_123.nii.gz Task03_Liver/labelsTr/liver_123.nii.gz
+Task03_Liver/imagesTr/liver_124.nii.gz Task03_Liver/labelsTr/liver_124.nii.gz
+Task03_Liver/imagesTr/liver_125.nii.gz Task03_Liver/labelsTr/liver_125.nii.gz
+Task03_Liver/imagesTr/liver_127.nii.gz Task03_Liver/labelsTr/liver_127.nii.gz
+Task03_Liver/imagesTr/liver_128.nii.gz Task03_Liver/labelsTr/liver_128.nii.gz
+Task03_Liver/imagesTr/liver_129.nii.gz Task03_Liver/labelsTr/liver_129.nii.gz
+Task03_Liver/imagesTr/liver_13.nii.gz Task03_Liver/labelsTr/liver_13.nii.gz
+Task03_Liver/imagesTr/liver_14.nii.gz Task03_Liver/labelsTr/liver_14.nii.gz
+Task03_Liver/imagesTr/liver_15.nii.gz Task03_Liver/labelsTr/liver_15.nii.gz
+Task03_Liver/imagesTr/liver_16.nii.gz Task03_Liver/labelsTr/liver_16.nii.gz
+Task03_Liver/imagesTr/liver_18.nii.gz Task03_Liver/labelsTr/liver_18.nii.gz
+Task03_Liver/imagesTr/liver_19.nii.gz Task03_Liver/labelsTr/liver_19.nii.gz
+Task03_Liver/imagesTr/liver_2.nii.gz Task03_Liver/labelsTr/liver_2.nii.gz
+Task03_Liver/imagesTr/liver_20.nii.gz Task03_Liver/labelsTr/liver_20.nii.gz
+Task03_Liver/imagesTr/liver_22.nii.gz Task03_Liver/labelsTr/liver_22.nii.gz
+Task03_Liver/imagesTr/liver_23.nii.gz Task03_Liver/labelsTr/liver_23.nii.gz
+Task03_Liver/imagesTr/liver_24.nii.gz Task03_Liver/labelsTr/liver_24.nii.gz
+Task03_Liver/imagesTr/liver_25.nii.gz Task03_Liver/labelsTr/liver_25.nii.gz
+Task03_Liver/imagesTr/liver_26.nii.gz Task03_Liver/labelsTr/liver_26.nii.gz
+Task03_Liver/imagesTr/liver_27.nii.gz Task03_Liver/labelsTr/liver_27.nii.gz
+Task03_Liver/imagesTr/liver_28.nii.gz Task03_Liver/labelsTr/liver_28.nii.gz
+Task03_Liver/imagesTr/liver_29.nii.gz Task03_Liver/labelsTr/liver_29.nii.gz
+Task03_Liver/imagesTr/liver_3.nii.gz Task03_Liver/labelsTr/liver_3.nii.gz
+Task03_Liver/imagesTr/liver_32.nii.gz Task03_Liver/labelsTr/liver_32.nii.gz
+Task03_Liver/imagesTr/liver_33.nii.gz Task03_Liver/labelsTr/liver_33.nii.gz
+Task03_Liver/imagesTr/liver_34.nii.gz Task03_Liver/labelsTr/liver_34.nii.gz
+Task03_Liver/imagesTr/liver_35.nii.gz Task03_Liver/labelsTr/liver_35.nii.gz
+Task03_Liver/imagesTr/liver_36.nii.gz Task03_Liver/labelsTr/liver_36.nii.gz
+Task03_Liver/imagesTr/liver_37.nii.gz Task03_Liver/labelsTr/liver_37.nii.gz
+Task03_Liver/imagesTr/liver_38.nii.gz Task03_Liver/labelsTr/liver_38.nii.gz
+Task03_Liver/imagesTr/liver_4.nii.gz Task03_Liver/labelsTr/liver_4.nii.gz
+Task03_Liver/imagesTr/liver_40.nii.gz Task03_Liver/labelsTr/liver_40.nii.gz
+Task03_Liver/imagesTr/liver_41.nii.gz Task03_Liver/labelsTr/liver_41.nii.gz
+Task03_Liver/imagesTr/liver_42.nii.gz Task03_Liver/labelsTr/liver_42.nii.gz
+Task03_Liver/imagesTr/liver_45.nii.gz Task03_Liver/labelsTr/liver_45.nii.gz
+Task03_Liver/imagesTr/liver_46.nii.gz Task03_Liver/labelsTr/liver_46.nii.gz
+Task03_Liver/imagesTr/liver_47.nii.gz Task03_Liver/labelsTr/liver_47.nii.gz
+Task03_Liver/imagesTr/liver_48.nii.gz Task03_Liver/labelsTr/liver_48.nii.gz
+Task03_Liver/imagesTr/liver_49.nii.gz Task03_Liver/labelsTr/liver_49.nii.gz
+Task03_Liver/imagesTr/liver_5.nii.gz Task03_Liver/labelsTr/liver_5.nii.gz
+Task03_Liver/imagesTr/liver_50.nii.gz Task03_Liver/labelsTr/liver_50.nii.gz
+Task03_Liver/imagesTr/liver_51.nii.gz Task03_Liver/labelsTr/liver_51.nii.gz
+Task03_Liver/imagesTr/liver_52.nii.gz Task03_Liver/labelsTr/liver_52.nii.gz
+Task03_Liver/imagesTr/liver_55.nii.gz Task03_Liver/labelsTr/liver_55.nii.gz
+Task03_Liver/imagesTr/liver_56.nii.gz Task03_Liver/labelsTr/liver_56.nii.gz
+Task03_Liver/imagesTr/liver_58.nii.gz Task03_Liver/labelsTr/liver_58.nii.gz
+Task03_Liver/imagesTr/liver_59.nii.gz Task03_Liver/labelsTr/liver_59.nii.gz
+Task03_Liver/imagesTr/liver_6.nii.gz Task03_Liver/labelsTr/liver_6.nii.gz
+Task03_Liver/imagesTr/liver_60.nii.gz Task03_Liver/labelsTr/liver_60.nii.gz
+Task03_Liver/imagesTr/liver_61.nii.gz Task03_Liver/labelsTr/liver_61.nii.gz
+Task03_Liver/imagesTr/liver_62.nii.gz Task03_Liver/labelsTr/liver_62.nii.gz
+Task03_Liver/imagesTr/liver_63.nii.gz Task03_Liver/labelsTr/liver_63.nii.gz
+Task03_Liver/imagesTr/liver_64.nii.gz Task03_Liver/labelsTr/liver_64.nii.gz
+Task03_Liver/imagesTr/liver_66.nii.gz Task03_Liver/labelsTr/liver_66.nii.gz
+Task03_Liver/imagesTr/liver_68.nii.gz Task03_Liver/labelsTr/liver_68.nii.gz
+Task03_Liver/imagesTr/liver_7.nii.gz Task03_Liver/labelsTr/liver_7.nii.gz
+Task03_Liver/imagesTr/liver_70.nii.gz Task03_Liver/labelsTr/liver_70.nii.gz
+Task03_Liver/imagesTr/liver_72.nii.gz Task03_Liver/labelsTr/liver_72.nii.gz
+Task03_Liver/imagesTr/liver_73.nii.gz Task03_Liver/labelsTr/liver_73.nii.gz
+Task03_Liver/imagesTr/liver_74.nii.gz Task03_Liver/labelsTr/liver_74.nii.gz
+Task03_Liver/imagesTr/liver_75.nii.gz Task03_Liver/labelsTr/liver_75.nii.gz
+Task03_Liver/imagesTr/liver_77.nii.gz Task03_Liver/labelsTr/liver_77.nii.gz
+Task03_Liver/imagesTr/liver_78.nii.gz Task03_Liver/labelsTr/liver_78.nii.gz
+Task03_Liver/imagesTr/liver_79.nii.gz Task03_Liver/labelsTr/liver_79.nii.gz
+Task03_Liver/imagesTr/liver_8.nii.gz Task03_Liver/labelsTr/liver_8.nii.gz
+Task03_Liver/imagesTr/liver_80.nii.gz Task03_Liver/labelsTr/liver_80.nii.gz
+Task03_Liver/imagesTr/liver_81.nii.gz Task03_Liver/labelsTr/liver_81.nii.gz
+Task03_Liver/imagesTr/liver_82.nii.gz Task03_Liver/labelsTr/liver_82.nii.gz
+Task03_Liver/imagesTr/liver_83.nii.gz Task03_Liver/labelsTr/liver_83.nii.gz
+Task03_Liver/imagesTr/liver_84.nii.gz Task03_Liver/labelsTr/liver_84.nii.gz
+Task03_Liver/imagesTr/liver_86.nii.gz Task03_Liver/labelsTr/liver_86.nii.gz
+Task03_Liver/imagesTr/liver_87.nii.gz Task03_Liver/labelsTr/liver_87.nii.gz
+Task03_Liver/imagesTr/liver_88.nii.gz Task03_Liver/labelsTr/liver_88.nii.gz
+Task03_Liver/imagesTr/liver_89.nii.gz Task03_Liver/labelsTr/liver_89.nii.gz
+Task03_Liver/imagesTr/liver_9.nii.gz Task03_Liver/labelsTr/liver_9.nii.gz
+Task03_Liver/imagesTr/liver_90.nii.gz Task03_Liver/labelsTr/liver_90.nii.gz
+Task03_Liver/imagesTr/liver_92.nii.gz Task03_Liver/labelsTr/liver_92.nii.gz
+Task03_Liver/imagesTr/liver_93.nii.gz Task03_Liver/labelsTr/liver_93.nii.gz
+Task03_Liver/imagesTr/liver_94.nii.gz Task03_Liver/labelsTr/liver_94.nii.gz
+Task03_Liver/imagesTr/liver_95.nii.gz Task03_Liver/labelsTr/liver_95.nii.gz
+Task03_Liver/imagesTr/liver_97.nii.gz Task03_Liver/labelsTr/liver_97.nii.gz
+Task03_Liver/imagesTr/liver_98.nii.gz Task03_Liver/labelsTr/liver_98.nii.gz
+Task03_Liver/imagesTr/liver_99.nii.gz Task03_Liver/labelsTr/liver_99.nii.gz
+BDMAP_00007050/ct.nii.gz BDMAP_00007050/segmentations/liver.nii.gz A distinct ill-defined and significant detail are noted.
+BDMAP_00001788/ct.nii.gz BDMAP_00001788/segmentations/liver.nii.gz Observed is a washout, characterized by significant detail.
+BDMAP_00008018/ct.nii.gz BDMAP_00008018/segmentations/liver.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00009215/ct.nii.gz BDMAP_00009215/segmentations/liver.nii.gz hypoattenuating is present, revealing significant detail.
+BDMAP_00006276/ct.nii.gz BDMAP_00006276/segmentations/liver.nii.gz There is a notable cirrhosis with significant detail.
+BDMAP_00005966/ct.nii.gz BDMAP_00005966/segmentations/liver.nii.gz A distinct arterial enhancement and significant detail are noted.
+BDMAP_00006692/ct.nii.gz BDMAP_00006692/segmentations/liver.nii.gz hypodensity appears, displaying significant detail.
+BDMAP_00006914/ct.nii.gz BDMAP_00006914/segmentations/liver.nii.gz heterogeneous enhancement is present, revealing significant detail.
+BDMAP_00006778/ct.nii.gz BDMAP_00006778/segmentations/liver.nii.gz hypoattenuating appears, displaying significant detail.
+BDMAP_00005553/ct.nii.gz BDMAP_00005553/segmentations/liver.nii.gz hypoattenuating is present, revealing significant detail.
+BDMAP_00006687/ct.nii.gz BDMAP_00006687/segmentations/liver.nii.gz Observed is a heterogeneous enhancement, characterized by significant detail.
+BDMAP_00005244/ct.nii.gz BDMAP_00005244/segmentations/liver.nii.gz metastases is present, revealing significant detail.
+BDMAP_00008840/ct.nii.gz BDMAP_00008840/segmentations/liver.nii.gz A distinct cyst and significant detail are noted.
+BDMAP_00008269/ct.nii.gz BDMAP_00008269/segmentations/liver.nii.gz A distinct heterogeneous enhancement and significant detail are noted.
+BDMAP_00005277/ct.nii.gz BDMAP_00005277/segmentations/liver.nii.gz There is a notable hypoattenuating with significant detail.
+BDMAP_00005462/ct.nii.gz BDMAP_00005462/segmentations/liver.nii.gz A distinct ill-defined and significant detail are noted.
+BDMAP_00000821/ct.nii.gz BDMAP_00000821/segmentations/liver.nii.gz hypoattenuating is present, revealing significant detail.
+BDMAP_00007122/ct.nii.gz BDMAP_00007122/segmentations/liver.nii.gz cyst is present, revealing significant detail.
+BDMAP_00005325/ct.nii.gz BDMAP_00005325/segmentations/liver.nii.gz There is a notable metastases with significant detail.
+BDMAP_00008618/ct.nii.gz BDMAP_00008618/segmentations/liver.nii.gz metastases is present, revealing significant detail.
+BDMAP_00007239/ct.nii.gz BDMAP_00007239/segmentations/liver.nii.gz hypoattenuating appears, displaying significant detail.
+BDMAP_00006510/ct.nii.gz BDMAP_00006510/segmentations/liver.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00006418/ct.nii.gz BDMAP_00006418/segmentations/liver.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00008443/ct.nii.gz BDMAP_00008443/segmentations/liver.nii.gz There is a notable washout with significant detail.
+BDMAP_00007312/ct.nii.gz BDMAP_00007312/segmentations/liver.nii.gz well-defined is present, revealing significant detail.
+BDMAP_00006371/ct.nii.gz BDMAP_00006371/segmentations/liver.nii.gz ill-defined appears, displaying significant detail.
+BDMAP_00007855/ct.nii.gz BDMAP_00007855/segmentations/liver.nii.gz A distinct well-defined and significant detail are noted.
+BDMAP_00007966/ct.nii.gz BDMAP_00007966/segmentations/liver.nii.gz Observed is a hyperattenuating, characterized by significant detail.
+BDMAP_00006536/ct.nii.gz BDMAP_00006536/segmentations/liver.nii.gz well-defined is present, revealing significant detail.
+BDMAP_00005662/ct.nii.gz BDMAP_00005662/segmentations/liver.nii.gz There is a notable heterogeneous enhancement with significant detail.
+BDMAP_00007520/ct.nii.gz BDMAP_00007520/segmentations/liver.nii.gz arterial enhancement is present, revealing significant detail.
+BDMAP_00005285/ct.nii.gz BDMAP_00005285/segmentations/liver.nii.gz heterogeneous enhancement appears, displaying significant detail.
+BDMAP_00006799/ct.nii.gz BDMAP_00006799/segmentations/liver.nii.gz There is a notable hypodensity with significant detail.
+BDMAP_00008551/ct.nii.gz BDMAP_00008551/segmentations/liver.nii.gz There is a notable hypodensity with significant detail.
+BDMAP_00008244/ct.nii.gz BDMAP_00008244/segmentations/liver.nii.gz There is a notable washout with significant detail.
+BDMAP_00006926/ct.nii.gz BDMAP_00006926/segmentations/liver.nii.gz There is a notable hypoattenuating with significant detail.
+BDMAP_00005387/ct.nii.gz BDMAP_00005387/segmentations/liver.nii.gz There is a notable cyst with significant detail.
+BDMAP_00009135/ct.nii.gz BDMAP_00009135/segmentations/liver.nii.gz There is a notable hyperattenuating with significant detail.
+BDMAP_00008387/ct.nii.gz BDMAP_00008387/segmentations/liver.nii.gz There is a notable heterogeneous enhancement with significant detail.
+BDMAP_00008816/ct.nii.gz BDMAP_00008816/segmentations/liver.nii.gz washout appears, displaying significant detail.
+BDMAP_00008832/ct.nii.gz BDMAP_00008832/segmentations/liver.nii.gz heterogeneous enhancement is present, revealing significant detail.
+BDMAP_00007742/ct.nii.gz BDMAP_00007742/segmentations/liver.nii.gz A distinct heterogeneous enhancement and significant detail are noted.
+BDMAP_00008174/ct.nii.gz BDMAP_00008174/segmentations/liver.nii.gz A distinct well-defined and significant detail are noted.
+BDMAP_00005492/ct.nii.gz BDMAP_00005492/segmentations/liver.nii.gz A distinct cirrhosis and significant detail are noted.
+BDMAP_00006306/ct.nii.gz BDMAP_00006306/segmentations/liver.nii.gz Observed is a cyst, characterized by significant detail.
+BDMAP_00006552/ct.nii.gz BDMAP_00006552/segmentations/liver.nii.gz A distinct cyst and significant detail are noted.
+BDMAP_00006845/ct.nii.gz BDMAP_00006845/segmentations/liver.nii.gz heterogeneous enhancement appears, displaying significant detail.
+BDMAP_00008275/ct.nii.gz BDMAP_00008275/segmentations/liver.nii.gz washout is present, revealing significant detail.
+BDMAP_00003053/ct.nii.gz BDMAP_00003053/segmentations/liver.nii.gz There is a notable hypoattenuating with significant detail.
+BDMAP_00006376/ct.nii.gz BDMAP_00006376/segmentations/liver.nii.gz Observed is a hyperattenuating, characterized by significant detail.
+BDMAP_00006415/ct.nii.gz BDMAP_00006415/segmentations/liver.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00005588/ct.nii.gz BDMAP_00005588/segmentations/liver.nii.gz Observed is a cirrhosis, characterized by significant detail.
+BDMAP_00008552/ct.nii.gz BDMAP_00008552/segmentations/liver.nii.gz Observed is a cyst, characterized by significant detail.
+BDMAP_00007996/ct.nii.gz BDMAP_00007996/segmentations/liver.nii.gz cyst appears, displaying significant detail.
+BDMAP_00008792/ct.nii.gz BDMAP_00008792/segmentations/liver.nii.gz A distinct ill-defined and significant detail are noted.
+BDMAP_00005347/ct.nii.gz BDMAP_00005347/segmentations/liver.nii.gz hyperattenuating appears, displaying significant detail.
+BDMAP_00006703/ct.nii.gz BDMAP_00006703/segmentations/liver.nii.gz A distinct cirrhosis and significant detail are noted.
+BDMAP_00005452/ct.nii.gz BDMAP_00005452/segmentations/liver.nii.gz cyst is present, revealing significant detail.
+BDMAP_00005913/ct.nii.gz BDMAP_00005913/segmentations/liver.nii.gz Observed is a washout, characterized by significant detail.
+BDMAP_00008723/ct.nii.gz BDMAP_00008723/segmentations/liver.nii.gz There is a notable cyst with significant detail.
+BDMAP_00007366/ct.nii.gz BDMAP_00007366/segmentations/liver.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00008125/ct.nii.gz BDMAP_00008125/segmentations/liver.nii.gz Observed is a hypoattenuating, characterized by significant detail.
+BDMAP_00008678/ct.nii.gz BDMAP_00008678/segmentations/liver.nii.gz cyst is present, revealing significant detail.
+BDMAP_00007824/ct.nii.gz BDMAP_00007824/segmentations/liver.nii.gz Observed is a hyperattenuating, characterized by significant detail.
+BDMAP_00005181/ct.nii.gz BDMAP_00005181/segmentations/liver.nii.gz There is a notable heterogeneous enhancement with significant detail.
+BDMAP_00006347/ct.nii.gz BDMAP_00006347/segmentations/liver.nii.gz There is a notable ill-defined with significant detail.
+BDMAP_00007055/ct.nii.gz BDMAP_00007055/segmentations/liver.nii.gz Observed is a hypoattenuating, characterized by significant detail.
+BDMAP_00007943/ct.nii.gz BDMAP_00007943/segmentations/liver.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00008986/ct.nii.gz BDMAP_00008986/segmentations/liver.nii.gz hyperattenuating is present, revealing significant detail.
+BDMAP_00005777/ct.nii.gz BDMAP_00005777/segmentations/liver.nii.gz A distinct heterogeneous enhancement and significant detail are noted.
+BDMAP_00008755/ct.nii.gz BDMAP_00008755/segmentations/liver.nii.gz There is a notable heterogeneous enhancement with significant detail.
+BDMAP_00007818/ct.nii.gz BDMAP_00007818/segmentations/liver.nii.gz cirrhosis is present, revealing significant detail.
+BDMAP_00006754/ct.nii.gz BDMAP_00006754/segmentations/liver.nii.gz A distinct cyst and significant detail are noted.
+BDMAP_00000496/ct.nii.gz BDMAP_00000496/segmentations/liver.nii.gz hypoattenuating appears, displaying significant detail.
+BDMAP_00008862/ct.nii.gz BDMAP_00008862/segmentations/liver.nii.gz heterogeneous enhancement appears, displaying significant detail.
+BDMAP_00009187/ct.nii.gz BDMAP_00009187/segmentations/liver.nii.gz A distinct ill-defined and significant detail are noted.
+BDMAP_00008417/ct.nii.gz BDMAP_00008417/segmentations/liver.nii.gz There is a notable ill-defined with significant detail.
+BDMAP_00002494/ct.nii.gz BDMAP_00002494/segmentations/liver.nii.gz hypoattenuating appears, displaying significant detail.
+BDMAP_00005652/ct.nii.gz BDMAP_00005652/segmentations/liver.nii.gz arterial enhancement appears, displaying significant detail.
+BDMAP_00006658/ct.nii.gz BDMAP_00006658/segmentations/liver.nii.gz cyst appears, displaying significant detail.
+BDMAP_00005465/ct.nii.gz BDMAP_00005465/segmentations/liver.nii.gz A distinct hypoattenuating and significant detail are noted.
+BDMAP_00006847/ct.nii.gz BDMAP_00006847/segmentations/liver.nii.gz There is a notable cyst with significant detail.
+BDMAP_00008670/ct.nii.gz BDMAP_00008670/segmentations/liver.nii.gz cirrhosis appears, displaying significant detail.
+BDMAP_00007090/ct.nii.gz BDMAP_00007090/segmentations/liver.nii.gz A distinct hypodensity and significant detail are noted.
+BDMAP_00008294/ct.nii.gz BDMAP_00008294/segmentations/liver.nii.gz Observed is a cyst, characterized by significant detail.
+BDMAP_00005423/ct.nii.gz BDMAP_00005423/segmentations/liver.nii.gz A distinct hypoattenuating and significant detail are noted.
+BDMAP_00004166/ct.nii.gz BDMAP_00004166/segmentations/liver.nii.gz There is a notable well-defined with significant detail.
+BDMAP_00008295/ct.nii.gz BDMAP_00008295/segmentations/liver.nii.gz There is a notable cirrhosis with significant detail.
+BDMAP_00006289/ct.nii.gz BDMAP_00006289/segmentations/liver.nii.gz heterogeneous enhancement appears, displaying significant detail.
+BDMAP_00003794/ct.nii.gz BDMAP_00003794/segmentations/liver.nii.gz hypoattenuating is present, revealing significant detail.
+BDMAP_00009197/ct.nii.gz BDMAP_00009197/segmentations/liver.nii.gz cyst is present, revealing significant detail.
+BDMAP_00005324/ct.nii.gz BDMAP_00005324/segmentations/liver.nii.gz washout appears, displaying significant detail.
+BDMAP_00000770/ct.nii.gz BDMAP_00000770/segmentations/liver.nii.gz Observed is a well-defined, characterized by significant detail.
+BDMAP_00005328/ct.nii.gz BDMAP_00005328/segmentations/liver.nii.gz washout is present, revealing significant detail.
+BDMAP_00000209/ct.nii.gz BDMAP_00000209/segmentations/liver.nii.gz Observed is a well-defined, characterized by significant detail.
+BDMAP_00006770/ct.nii.gz BDMAP_00006770/segmentations/liver.nii.gz Observed is a cyst, characterized by significant detail.
+BDMAP_00000531/ct.nii.gz BDMAP_00000531/segmentations/liver.nii.gz metastases is present, revealing significant detail.
+BDMAP_00007378/ct.nii.gz BDMAP_00007378/segmentations/liver.nii.gz cyst appears, displaying significant detail.
+BDMAP_00006786/ct.nii.gz BDMAP_00006786/segmentations/liver.nii.gz cyst appears, displaying significant detail.
+BDMAP_00005766/ct.nii.gz BDMAP_00005766/segmentations/liver.nii.gz well-defined is present, revealing significant detail.
+BDMAP_00006765/ct.nii.gz BDMAP_00006765/segmentations/liver.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00007284/ct.nii.gz BDMAP_00007284/segmentations/liver.nii.gz arterial enhancement is present, revealing significant detail.
+BDMAP_00008070/ct.nii.gz BDMAP_00008070/segmentations/liver.nii.gz There is a notable metastases with significant detail.
+BDMAP_00000024/ct.nii.gz BDMAP_00000024/segmentations/liver.nii.gz A distinct hyperattenuating and significant detail are noted.
+BDMAP_00002779/ct.nii.gz BDMAP_00002779/segmentations/liver.nii.gz A distinct ill-defined and significant detail are noted.
+BDMAP_00007085/ct.nii.gz BDMAP_00007085/segmentations/liver.nii.gz cyst is present, revealing significant detail.
+BDMAP_00006918/ct.nii.gz BDMAP_00006918/segmentations/liver.nii.gz hyperattenuating appears, displaying significant detail.
+BDMAP_00002974/ct.nii.gz BDMAP_00002974/segmentations/liver.nii.gz Observed is a hypodensity, characterized by significant detail.
+BDMAP_00002455/ct.nii.gz BDMAP_00002455/segmentations/liver.nii.gz washout is present, revealing significant detail.
+BDMAP_00007056/ct.nii.gz BDMAP_00007056/segmentations/liver.nii.gz well-defined is present, revealing significant detail.
+BDMAP_00007539/ct.nii.gz BDMAP_00007539/segmentations/liver.nii.gz Observed is a hypodensity, characterized by significant detail.
+BDMAP_00007396/ct.nii.gz BDMAP_00007396/segmentations/liver.nii.gz cyst is present, revealing significant detail.
+BDMAP_00002093/ct.nii.gz BDMAP_00002093/segmentations/liver.nii.gz ill-defined appears, displaying significant detail.
+BDMAP_00005292/ct.nii.gz BDMAP_00005292/segmentations/liver.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00009229/ct.nii.gz BDMAP_00009229/segmentations/liver.nii.gz hypoattenuating appears, displaying significant detail.
+BDMAP_00007723/ct.nii.gz BDMAP_00007723/segmentations/liver.nii.gz metastases appears, displaying significant detail.
+BDMAP_00006105/ct.nii.gz BDMAP_00006105/segmentations/liver.nii.gz There is a notable hyperattenuating with significant detail.
+BDMAP_00007062/ct.nii.gz BDMAP_00007062/segmentations/liver.nii.gz There is a notable hyperattenuating with significant detail.
+BDMAP_00005487/ct.nii.gz BDMAP_00005487/segmentations/liver.nii.gz hypoattenuating appears, displaying significant detail.
+BDMAP_00005431/ct.nii.gz BDMAP_00005431/segmentations/liver.nii.gz ill-defined appears, displaying significant detail.
+BDMAP_00006929/ct.nii.gz BDMAP_00006929/segmentations/liver.nii.gz Observed is a washout, characterized by significant detail.
+BDMAP_00005845/ct.nii.gz BDMAP_00005845/segmentations/liver.nii.gz There is a notable well-defined with significant detail.
+BDMAP_00005473/ct.nii.gz BDMAP_00005473/segmentations/liver.nii.gz Observed is a ill-defined, characterized by significant detail.
+BDMAP_00008959/ct.nii.gz BDMAP_00008959/segmentations/liver.nii.gz There is a notable arterial enhancement with significant detail.
+BDMAP_00008604/ct.nii.gz BDMAP_00008604/segmentations/liver.nii.gz A distinct hyperattenuating and significant detail are noted.
+BDMAP_00006772/ct.nii.gz BDMAP_00006772/segmentations/liver.nii.gz metastases is present, revealing significant detail.
+BDMAP_00006989/ct.nii.gz BDMAP_00006989/segmentations/liver.nii.gz washout appears, displaying significant detail.
+BDMAP_00007900/ct.nii.gz BDMAP_00007900/segmentations/liver.nii.gz A distinct ill-defined and significant detail are noted.
+BDMAP_00003419/ct.nii.gz BDMAP_00003419/segmentations/liver.nii.gz There is a notable cirrhosis with significant detail.
+BDMAP_00005207/ct.nii.gz BDMAP_00005207/segmentations/liver.nii.gz There is a notable cyst with significant detail.
+BDMAP_00009068/ct.nii.gz BDMAP_00009068/segmentations/liver.nii.gz cirrhosis appears, displaying significant detail.
+BDMAP_00007466/ct.nii.gz BDMAP_00007466/segmentations/liver.nii.gz hypoattenuating appears, displaying significant detail.
+BDMAP_00009143/ct.nii.gz BDMAP_00009143/segmentations/liver.nii.gz There is a notable heterogeneous enhancement with significant detail.
+BDMAP_00004583/ct.nii.gz BDMAP_00004583/segmentations/liver.nii.gz There is a notable well-defined with significant detail.
+BDMAP_00001763/ct.nii.gz BDMAP_00001763/segmentations/liver.nii.gz A distinct cyst and significant detail are noted.
+BDMAP_00004658/ct.nii.gz BDMAP_00004658/segmentations/liver.nii.gz There is a notable well-defined with significant detail.
+BDMAP_00008029/ct.nii.gz BDMAP_00008029/segmentations/liver.nii.gz A distinct hyperattenuating and significant detail are noted.
+BDMAP_00003929/ct.nii.gz BDMAP_00003929/segmentations/liver.nii.gz arterial enhancement appears, displaying significant detail.
+BDMAP_00005978/ct.nii.gz BDMAP_00005978/segmentations/liver.nii.gz There is a notable metastases with significant detail.
+BDMAP_00006516/ct.nii.gz BDMAP_00006516/segmentations/liver.nii.gz arterial enhancement is present, revealing significant detail.
+BDMAP_00008684/ct.nii.gz BDMAP_00008684/segmentations/liver.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00005989/ct.nii.gz BDMAP_00005989/segmentations/liver.nii.gz There is a notable ill-defined with significant detail.
+BDMAP_00006055/ct.nii.gz BDMAP_00006055/segmentations/liver.nii.gz cyst appears, displaying significant detail.
+BDMAP_00002293/ct.nii.gz BDMAP_00002293/segmentations/liver.nii.gz heterogeneous enhancement appears, displaying significant detail.
+BDMAP_00005339/ct.nii.gz BDMAP_00005339/segmentations/liver.nii.gz There is a notable ill-defined with significant detail.
+BDMAP_00008253/ct.nii.gz BDMAP_00008253/segmentations/liver.nii.gz A distinct heterogeneous enhancement and significant detail are noted.
+BDMAP_00008995/ct.nii.gz BDMAP_00008995/segmentations/liver.nii.gz Observed is a hyperattenuating, characterized by significant detail.
+BDMAP_00007005/ct.nii.gz BDMAP_00007005/segmentations/liver.nii.gz A distinct ill-defined and significant detail are noted.
+BDMAP_00009231/ct.nii.gz BDMAP_00009231/segmentations/liver.nii.gz hypoattenuating appears, displaying significant detail.
+BDMAP_00007936/ct.nii.gz BDMAP_00007936/segmentations/liver.nii.gz Observed is a well-defined, characterized by significant detail.
+BDMAP_00008020/ct.nii.gz BDMAP_00008020/segmentations/liver.nii.gz There is a notable metastases with significant detail.
+BDMAP_00008615/ct.nii.gz BDMAP_00008615/segmentations/liver.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00008591/ct.nii.gz BDMAP_00008591/segmentations/liver.nii.gz A distinct washout and significant detail are noted.
+BDMAP_00005775/ct.nii.gz BDMAP_00005775/segmentations/liver.nii.gz hypoattenuating appears, displaying significant detail.
+BDMAP_00006283/ct.nii.gz BDMAP_00006283/segmentations/liver.nii.gz A distinct heterogeneous enhancement and significant detail are noted.
+BDMAP_00006893/ct.nii.gz BDMAP_00006893/segmentations/liver.nii.gz There is a notable well-defined with significant detail.
+BDMAP_00008068/ct.nii.gz BDMAP_00008068/segmentations/liver.nii.gz hypoattenuating is present, revealing significant detail.
+BDMAP_00007143/ct.nii.gz BDMAP_00007143/segmentations/liver.nii.gz arterial enhancement appears, displaying significant detail.
+BDMAP_00008152/ct.nii.gz BDMAP_00008152/segmentations/liver.nii.gz washout is present, revealing significant detail.
+BDMAP_00007995/ct.nii.gz BDMAP_00007995/segmentations/liver.nii.gz There is a notable metastases with significant detail.
+BDMAP_00006863/ct.nii.gz BDMAP_00006863/segmentations/liver.nii.gz washout appears, displaying significant detail.
+BDMAP_00008475/ct.nii.gz BDMAP_00008475/segmentations/liver.nii.gz ill-defined is present, revealing significant detail.
+BDMAP_00008234/ct.nii.gz BDMAP_00008234/segmentations/liver.nii.gz There is a notable hypoattenuating with significant detail.
+BDMAP_00006521/ct.nii.gz BDMAP_00006521/segmentations/liver.nii.gz Observed is a cyst, characterized by significant detail.
+BDMAP_00006609/ct.nii.gz BDMAP_00006609/segmentations/liver.nii.gz heterogeneous enhancement is present, revealing significant detail.
+BDMAP_00006349/ct.nii.gz BDMAP_00006349/segmentations/liver.nii.gz A distinct cirrhosis and significant detail are noted.
+BDMAP_00006064/ct.nii.gz BDMAP_00006064/segmentations/liver.nii.gz arterial enhancement is present, revealing significant detail.
+BDMAP_00005260/ct.nii.gz BDMAP_00005260/segmentations/liver.nii.gz Observed is a well-defined, characterized by significant detail.
+BDMAP_00008506/ct.nii.gz BDMAP_00008506/segmentations/liver.nii.gz There is a notable cyst with significant detail.
+BDMAP_00007217/ct.nii.gz BDMAP_00007217/segmentations/liver.nii.gz There is a notable cirrhosis with significant detail.
+BDMAP_00007635/ct.nii.gz BDMAP_00007635/segmentations/liver.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00008034/ct.nii.gz BDMAP_00008034/segmentations/liver.nii.gz There is a notable washout with significant detail.
+BDMAP_00008400/ct.nii.gz BDMAP_00008400/segmentations/liver.nii.gz There is a notable ill-defined with significant detail.
+BDMAP_00006573/ct.nii.gz BDMAP_00006573/segmentations/liver.nii.gz A distinct hyperattenuating and significant detail are noted.
+BDMAP_00005727/ct.nii.gz BDMAP_00005727/segmentations/liver.nii.gz heterogeneous enhancement appears, displaying significant detail.
+BDMAP_00005322/ct.nii.gz BDMAP_00005322/segmentations/liver.nii.gz well-defined is present, revealing significant detail.
+BDMAP_00007765/ct.nii.gz BDMAP_00007765/segmentations/liver.nii.gz Observed is a cyst, characterized by significant detail.
+BDMAP_00007950/ct.nii.gz BDMAP_00007950/segmentations/liver.nii.gz Observed is a hypodensity, characterized by significant detail.
+BDMAP_00004913/ct.nii.gz BDMAP_00004913/segmentations/liver.nii.gz arterial enhancement is present, revealing significant detail.
+BDMAP_00007142/ct.nii.gz BDMAP_00007142/segmentations/liver.nii.gz Observed is a cirrhosis, characterized by significant detail.
+BDMAP_00008141/ct.nii.gz BDMAP_00008141/segmentations/liver.nii.gz Observed is a ill-defined, characterized by significant detail.
+BDMAP_00007926/ct.nii.gz BDMAP_00007926/segmentations/liver.nii.gz Observed is a hypodensity, characterized by significant detail.
+BDMAP_00009093/ct.nii.gz BDMAP_00009093/segmentations/liver.nii.gz A distinct metastases and significant detail are noted.
+BDMAP_00005803/ct.nii.gz BDMAP_00005803/segmentations/liver.nii.gz hyperattenuating appears, displaying significant detail.
+BDMAP_00006114/ct.nii.gz BDMAP_00006114/segmentations/liver.nii.gz A distinct washout and significant detail are noted.
+BDMAP_00006543/ct.nii.gz BDMAP_00006543/segmentations/liver.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00007345/ct.nii.gz BDMAP_00007345/segmentations/liver.nii.gz Observed is a washout, characterized by significant detail.
+BDMAP_00008492/ct.nii.gz BDMAP_00008492/segmentations/liver.nii.gz Observed is a ill-defined, characterized by significant detail.
+BDMAP_00006029/ct.nii.gz BDMAP_00006029/segmentations/liver.nii.gz There is a notable well-defined with significant detail.
+BDMAP_00006397/ct.nii.gz BDMAP_00006397/segmentations/liver.nii.gz Observed is a hypoattenuating, characterized by significant detail.
+BDMAP_00006037/ct.nii.gz BDMAP_00006037/segmentations/liver.nii.gz Observed is a well-defined, characterized by significant detail.
+BDMAP_00007354/ct.nii.gz BDMAP_00007354/segmentations/liver.nii.gz A distinct washout and significant detail are noted.
+BDMAP_00006071/ct.nii.gz BDMAP_00006071/segmentations/liver.nii.gz washout appears, displaying significant detail.
+BDMAP_00008402/ct.nii.gz BDMAP_00008402/segmentations/liver.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00008423/ct.nii.gz BDMAP_00008423/segmentations/liver.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00008579/ct.nii.gz BDMAP_00008579/segmentations/liver.nii.gz A distinct heterogeneous enhancement and significant detail are noted.
+BDMAP_00007219/ct.nii.gz BDMAP_00007219/segmentations/liver.nii.gz There is a notable hypoattenuating with significant detail.
+BDMAP_00005290/ct.nii.gz BDMAP_00005290/segmentations/liver.nii.gz ill-defined is present, revealing significant detail.
+BDMAP_00007308/ct.nii.gz BDMAP_00007308/segmentations/liver.nii.gz A distinct ill-defined and significant detail are noted.
+BDMAP_00007458/ct.nii.gz BDMAP_00007458/segmentations/liver.nii.gz There is a notable hypoattenuating with significant detail.
+BDMAP_00007168/ct.nii.gz BDMAP_00007168/segmentations/liver.nii.gz cyst appears, displaying significant detail.
+BDMAP_00009155/ct.nii.gz BDMAP_00009155/segmentations/liver.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00005706/ct.nii.gz BDMAP_00005706/segmentations/liver.nii.gz cirrhosis appears, displaying significant detail.
+BDMAP_00007385/ct.nii.gz BDMAP_00007385/segmentations/liver.nii.gz Observed is a well-defined, characterized by significant detail.
+BDMAP_00006102/ct.nii.gz BDMAP_00006102/segmentations/liver.nii.gz A distinct cirrhosis and significant detail are noted.
+BDMAP_00007491/ct.nii.gz BDMAP_00007491/segmentations/liver.nii.gz There is a notable hypodensity with significant detail.
+BDMAP_00002377/ct.nii.gz BDMAP_00002377/segmentations/liver.nii.gz There is a notable hypoattenuating with significant detail.
+BDMAP_00007202/ct.nii.gz BDMAP_00007202/segmentations/liver.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00006529/ct.nii.gz BDMAP_00006529/segmentations/liver.nii.gz A distinct ill-defined and significant detail are noted.
+BDMAP_00008382/ct.nii.gz BDMAP_00008382/segmentations/liver.nii.gz washout appears, displaying significant detail.
+BDMAP_00008745/ct.nii.gz BDMAP_00008745/segmentations/liver.nii.gz Observed is a cirrhosis, characterized by significant detail.
+BDMAP_00007506/ct.nii.gz BDMAP_00007506/segmentations/liver.nii.gz washout is present, revealing significant detail.
+BDMAP_00007727/ct.nii.gz BDMAP_00007727/segmentations/liver.nii.gz There is a notable well-defined with significant detail.
+BDMAP_00008531/ct.nii.gz BDMAP_00008531/segmentations/liver.nii.gz ill-defined appears, displaying significant detail.
+BDMAP_00008464/ct.nii.gz BDMAP_00008464/segmentations/liver.nii.gz Observed is a washout, characterized by significant detail.
+BDMAP_00006524/ct.nii.gz BDMAP_00006524/segmentations/liver.nii.gz hyperattenuating is present, revealing significant detail.
+BDMAP_00008596/ct.nii.gz BDMAP_00008596/segmentations/liver.nii.gz Observed is a washout, characterized by significant detail.
+BDMAP_00006183/ct.nii.gz BDMAP_00006183/segmentations/liver.nii.gz arterial enhancement is present, revealing significant detail.
+BDMAP_00007058/ct.nii.gz BDMAP_00007058/segmentations/liver.nii.gz A distinct ill-defined and significant detail are noted.
+BDMAP_00007401/ct.nii.gz BDMAP_00007401/segmentations/liver.nii.gz well-defined is present, revealing significant detail.
+BDMAP_00007968/ct.nii.gz BDMAP_00007968/segmentations/liver.nii.gz Observed is a cirrhosis, characterized by significant detail.
+BDMAP_00008045/ct.nii.gz BDMAP_00008045/segmentations/liver.nii.gz well-defined is present, revealing significant detail.
+BDMAP_00009057/ct.nii.gz BDMAP_00009057/segmentations/liver.nii.gz heterogeneous enhancement appears, displaying significant detail.
+BDMAP_00006635/ct.nii.gz BDMAP_00006635/segmentations/liver.nii.gz A distinct hypoattenuating and significant detail are noted.
+BDMAP_00007266/ct.nii.gz BDMAP_00007266/segmentations/liver.nii.gz There is a notable hyperattenuating with significant detail.
+BDMAP_00009067/ct.nii.gz BDMAP_00009067/segmentations/liver.nii.gz Observed is a hypodensity, characterized by significant detail.
+BDMAP_00006477/ct.nii.gz BDMAP_00006477/segmentations/liver.nii.gz Observed is a washout, characterized by significant detail.
+BDMAP_00008878/ct.nii.gz BDMAP_00008878/segmentations/liver.nii.gz Observed is a cyst, characterized by significant detail.
+BDMAP_00007729/ct.nii.gz BDMAP_00007729/segmentations/liver.nii.gz A distinct hypodensity and significant detail are noted.
+BDMAP_00006357/ct.nii.gz BDMAP_00006357/segmentations/liver.nii.gz metastases is present, revealing significant detail.
+BDMAP_00006192/ct.nii.gz BDMAP_00006192/segmentations/liver.nii.gz washout appears, displaying significant detail.
+BDMAP_00006067/ct.nii.gz BDMAP_00006067/segmentations/liver.nii.gz cyst is present, revealing significant detail.
+BDMAP_00005219/ct.nii.gz BDMAP_00005219/segmentations/liver.nii.gz A distinct washout and significant detail are noted.
+BDMAP_00000125/ct.nii.gz BDMAP_00000125/segmentations/liver.nii.gz There is a notable hypoattenuating with significant detail.
+BDMAP_00006982/ct.nii.gz BDMAP_00006982/segmentations/liver.nii.gz A distinct heterogeneous enhancement and significant detail are noted.
+BDMAP_00004961/ct.nii.gz BDMAP_00004961/segmentations/liver.nii.gz There is a notable metastases with significant detail.
+BDMAP_00005604/ct.nii.gz BDMAP_00005604/segmentations/liver.nii.gz hypoattenuating appears, displaying significant detail.
+BDMAP_00007932/ct.nii.gz BDMAP_00007932/segmentations/liver.nii.gz There is a notable arterial enhancement with significant detail.
+BDMAP_00007336/ct.nii.gz BDMAP_00007336/segmentations/liver.nii.gz hypodensity appears, displaying significant detail.
+BDMAP_00007339/ct.nii.gz BDMAP_00007339/segmentations/liver.nii.gz There is a notable arterial enhancement with significant detail.
+BDMAP_00007881/ct.nii.gz BDMAP_00007881/segmentations/liver.nii.gz heterogeneous enhancement is present, revealing significant detail.
+BDMAP_00006162/ct.nii.gz BDMAP_00006162/segmentations/liver.nii.gz A distinct well-defined and significant detail are noted.
+BDMAP_00006768/ct.nii.gz BDMAP_00006768/segmentations/liver.nii.gz washout is present, revealing significant detail.
+BDMAP_00006955/ct.nii.gz BDMAP_00006955/segmentations/liver.nii.gz washout appears, displaying significant detail.
+BDMAP_00006040/ct.nii.gz BDMAP_00006040/segmentations/liver.nii.gz washout appears, displaying significant detail.
+BDMAP_00005501/ct.nii.gz BDMAP_00005501/segmentations/liver.nii.gz Observed is a well-defined, characterized by significant detail.
+BDMAP_00006947/ct.nii.gz BDMAP_00006947/segmentations/liver.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00006910/ct.nii.gz BDMAP_00006910/segmentations/liver.nii.gz arterial enhancement is present, revealing significant detail.
+BDMAP_00006717/ct.nii.gz BDMAP_00006717/segmentations/liver.nii.gz well-defined is present, revealing significant detail.
+BDMAP_00008837/ct.nii.gz BDMAP_00008837/segmentations/liver.nii.gz ill-defined appears, displaying significant detail.
+BDMAP_00006332/ct.nii.gz BDMAP_00006332/segmentations/liver.nii.gz cyst is present, revealing significant detail.
+BDMAP_00008007/ct.nii.gz BDMAP_00008007/segmentations/liver.nii.gz hypoattenuating appears, displaying significant detail.
+BDMAP_00006601/ct.nii.gz BDMAP_00006601/segmentations/liver.nii.gz Observed is a cyst, characterized by significant detail.
+BDMAP_00005821/ct.nii.gz BDMAP_00005821/segmentations/liver.nii.gz arterial enhancement is present, revealing significant detail.
+BDMAP_00007604/ct.nii.gz BDMAP_00007604/segmentations/liver.nii.gz There is a notable arterial enhancement with significant detail.
+BDMAP_00009170/ct.nii.gz BDMAP_00009170/segmentations/liver.nii.gz A distinct well-defined and significant detail are noted.
+BDMAP_00006956/ct.nii.gz BDMAP_00006956/segmentations/liver.nii.gz hypoattenuating appears, displaying significant detail.
+BDMAP_00005875/ct.nii.gz BDMAP_00005875/segmentations/liver.nii.gz A distinct well-defined and significant detail are noted.
+BDMAP_00000577/ct.nii.gz BDMAP_00000577/segmentations/liver.nii.gz arterial enhancement is present, revealing significant detail.
+BDMAP_00009055/ct.nii.gz BDMAP_00009055/segmentations/liver.nii.gz washout appears, displaying significant detail.
+BDMAP_00008398/ct.nii.gz BDMAP_00008398/segmentations/liver.nii.gz Observed is a hypoattenuating, characterized by significant detail.
+BDMAP_00006293/ct.nii.gz BDMAP_00006293/segmentations/liver.nii.gz There is a notable well-defined with significant detail.
+BDMAP_00006933/ct.nii.gz BDMAP_00006933/segmentations/liver.nii.gz cyst is present, revealing significant detail.
+BDMAP_00006212/ct.nii.gz BDMAP_00006212/segmentations/liver.nii.gz cyst is present, revealing significant detail.
+BDMAP_00009256/ct.nii.gz BDMAP_00009256/segmentations/liver.nii.gz There is a notable metastases with significant detail.
+BDMAP_00009077/ct.nii.gz BDMAP_00009077/segmentations/liver.nii.gz well-defined is present, revealing significant detail.
+BDMAP_00008330/ct.nii.gz BDMAP_00008330/segmentations/liver.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00008140/ct.nii.gz BDMAP_00008140/segmentations/liver.nii.gz There is a notable arterial enhancement with significant detail.
+BDMAP_00005704/ct.nii.gz BDMAP_00005704/segmentations/liver.nii.gz Observed is a well-defined, characterized by significant detail.
+BDMAP_00006199/ct.nii.gz BDMAP_00006199/segmentations/liver.nii.gz There is a notable cirrhosis with significant detail.
+BDMAP_00006149/ct.nii.gz BDMAP_00006149/segmentations/liver.nii.gz cyst appears, displaying significant detail.
+BDMAP_00006002/ct.nii.gz BDMAP_00006002/segmentations/liver.nii.gz arterial enhancement is present, revealing significant detail.
+BDMAP_00006745/ct.nii.gz BDMAP_00006745/segmentations/liver.nii.gz There is a notable metastases with significant detail.
+BDMAP_00008467/ct.nii.gz BDMAP_00008467/segmentations/liver.nii.gz washout appears, displaying significant detail.
+BDMAP_00005693/ct.nii.gz BDMAP_00005693/segmentations/liver.nii.gz heterogeneous enhancement is present, revealing significant detail.
+BDMAP_00007806/ct.nii.gz BDMAP_00007806/segmentations/liver.nii.gz A distinct hypodensity and significant detail are noted.
+BDMAP_00006689/ct.nii.gz BDMAP_00006689/segmentations/liver.nii.gz There is a notable well-defined with significant detail.
+BDMAP_00000367/ct.nii.gz BDMAP_00000367/segmentations/liver.nii.gz hypoattenuating appears, displaying significant detail.
+BDMAP_00007251/ct.nii.gz BDMAP_00007251/segmentations/liver.nii.gz A distinct metastases and significant detail are noted.
+BDMAP_00007891/ct.nii.gz BDMAP_00007891/segmentations/liver.nii.gz hyperattenuating is present, revealing significant detail.
+BDMAP_00008827/ct.nii.gz BDMAP_00008827/segmentations/liver.nii.gz arterial enhancement appears, displaying significant detail.
+BDMAP_00009064/ct.nii.gz BDMAP_00009064/segmentations/liver.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00005450/ct.nii.gz BDMAP_00005450/segmentations/liver.nii.gz There is a notable hyperattenuating with significant detail.
+BDMAP_00005895/ct.nii.gz BDMAP_00005895/segmentations/liver.nii.gz ill-defined is present, revealing significant detail.
+BDMAP_00007302/ct.nii.gz BDMAP_00007302/segmentations/liver.nii.gz Observed is a washout, characterized by significant detail.
+BDMAP_00006930/ct.nii.gz BDMAP_00006930/segmentations/liver.nii.gz Observed is a cirrhosis, characterized by significant detail.
+BDMAP_00007944/ct.nii.gz BDMAP_00007944/segmentations/liver.nii.gz There is a notable ill-defined with significant detail.
+BDMAP_00007153/ct.nii.gz BDMAP_00007153/segmentations/liver.nii.gz There is a notable hypodensity with significant detail.
+BDMAP_00006427/ct.nii.gz BDMAP_00006427/segmentations/liver.nii.gz heterogeneous enhancement appears, displaying significant detail.
+BDMAP_00009219/ct.nii.gz BDMAP_00009219/segmentations/liver.nii.gz A distinct washout and significant detail are noted.
+BDMAP_00007692/ct.nii.gz BDMAP_00007692/segmentations/liver.nii.gz ill-defined appears, displaying significant detail.
+BDMAP_00007659/ct.nii.gz BDMAP_00007659/segmentations/liver.nii.gz ill-defined is present, revealing significant detail.
+BDMAP_00008826/ct.nii.gz BDMAP_00008826/segmentations/liver.nii.gz hypodensity appears, displaying significant detail.
+BDMAP_00008619/ct.nii.gz BDMAP_00008619/segmentations/liver.nii.gz A distinct hypodensity and significant detail are noted.
+BDMAP_00002650/ct.nii.gz BDMAP_00002650/segmentations/liver.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00007979/ct.nii.gz BDMAP_00007979/segmentations/liver.nii.gz A distinct heterogeneous enhancement and significant detail are noted.
+BDMAP_00007837/ct.nii.gz BDMAP_00007837/segmentations/liver.nii.gz There is a notable well-defined with significant detail.
+BDMAP_00008442/ct.nii.gz BDMAP_00008442/segmentations/liver.nii.gz A distinct heterogeneous enhancement and significant detail are noted.
+BDMAP_00006854/ct.nii.gz BDMAP_00006854/segmentations/liver.nii.gz washout is present, revealing significant detail.
+BDMAP_00005319/ct.nii.gz BDMAP_00005319/segmentations/liver.nii.gz ill-defined appears, displaying significant detail.
+BDMAP_00007923/ct.nii.gz BDMAP_00007923/segmentations/liver.nii.gz cirrhosis is present, revealing significant detail.
+BDMAP_00007913/ct.nii.gz BDMAP_00007913/segmentations/liver.nii.gz There is a notable hyperattenuating with significant detail.
+BDMAP_00003572/ct.nii.gz BDMAP_00003572/segmentations/liver.nii.gz arterial enhancement appears, displaying significant detail.
+BDMAP_00008017/ct.nii.gz BDMAP_00008017/segmentations/liver.nii.gz arterial enhancement is present, revealing significant detail.
+BDMAP_00006240/ct.nii.gz BDMAP_00006240/segmentations/liver.nii.gz A distinct well-defined and significant detail are noted.
+BDMAP_00008664/ct.nii.gz BDMAP_00008664/segmentations/liver.nii.gz metastases appears, displaying significant detail.
+BDMAP_00005788/ct.nii.gz BDMAP_00005788/segmentations/liver.nii.gz Observed is a hypodensity, characterized by significant detail.
+BDMAP_00008081/ct.nii.gz BDMAP_00008081/segmentations/liver.nii.gz hypoattenuating appears, displaying significant detail.
+BDMAP_00007363/ct.nii.gz BDMAP_00007363/segmentations/liver.nii.gz arterial enhancement appears, displaying significant detail.
+BDMAP_00008246/ct.nii.gz BDMAP_00008246/segmentations/liver.nii.gz There is a notable well-defined with significant detail.
+BDMAP_00005586/ct.nii.gz BDMAP_00005586/segmentations/liver.nii.gz hypodensity is present, revealing significant detail.
+BDMAP_00005746/ct.nii.gz BDMAP_00005746/segmentations/liver.nii.gz There is a notable cirrhosis with significant detail.
+BDMAP_00006633/ct.nii.gz BDMAP_00006633/segmentations/liver.nii.gz cyst appears, displaying significant detail.
+BDMAP_00007909/ct.nii.gz BDMAP_00007909/segmentations/liver.nii.gz A distinct ill-defined and significant detail are noted.
+BDMAP_00007619/ct.nii.gz BDMAP_00007619/segmentations/liver.nii.gz hypoattenuating is present, revealing significant detail.
+BDMAP_00006537/ct.nii.gz BDMAP_00006537/segmentations/liver.nii.gz heterogeneous enhancement appears, displaying significant detail.
+BDMAP_00000674/ct.nii.gz BDMAP_00000674/segmentations/liver.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00003906/ct.nii.gz BDMAP_00003906/segmentations/liver.nii.gz heterogeneous enhancement appears, displaying significant detail.
+BDMAP_00005593/ct.nii.gz BDMAP_00005593/segmentations/liver.nii.gz A distinct arterial enhancement and significant detail are noted.
+BDMAP_00008357/ct.nii.gz BDMAP_00008357/segmentations/liver.nii.gz A distinct metastases and significant detail are noted.
+BDMAP_00006253/ct.nii.gz BDMAP_00006253/segmentations/liver.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00009175/ct.nii.gz BDMAP_00009175/segmentations/liver.nii.gz cirrhosis is present, revealing significant detail.
+BDMAP_00006491/ct.nii.gz BDMAP_00006491/segmentations/liver.nii.gz There is a notable cirrhosis with significant detail.
+BDMAP_00005375/ct.nii.gz BDMAP_00005375/segmentations/liver.nii.gz A distinct washout and significant detail are noted.
+BDMAP_00008267/ct.nii.gz BDMAP_00008267/segmentations/liver.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00003817/ct.nii.gz BDMAP_00003817/segmentations/liver.nii.gz There is a notable arterial enhancement with significant detail.
+BDMAP_00000909/ct.nii.gz BDMAP_00000909/segmentations/liver.nii.gz There is a notable heterogeneous enhancement with significant detail.
+BDMAP_00005197/ct.nii.gz BDMAP_00005197/segmentations/liver.nii.gz hypoattenuating is present, revealing significant detail.
+BDMAP_00009133/ct.nii.gz BDMAP_00009133/segmentations/liver.nii.gz hyperattenuating appears, displaying significant detail.
+BDMAP_00006621/ct.nii.gz BDMAP_00006621/segmentations/liver.nii.gz Observed is a hypodensity, characterized by significant detail.
+BDMAP_00005338/ct.nii.gz BDMAP_00005338/segmentations/liver.nii.gz hypoattenuating is present, revealing significant detail.
+BDMAP_00005982/ct.nii.gz BDMAP_00005982/segmentations/liver.nii.gz cirrhosis is present, revealing significant detail.
+BDMAP_00008112/ct.nii.gz BDMAP_00008112/segmentations/liver.nii.gz hypodensity is present, revealing significant detail.
+BDMAP_00005373/ct.nii.gz BDMAP_00005373/segmentations/liver.nii.gz There is a notable cirrhosis with significant detail.
+BDMAP_00008157/ct.nii.gz BDMAP_00008157/segmentations/liver.nii.gz Observed is a heterogeneous enhancement, characterized by significant detail.
+BDMAP_00000708/ct.nii.gz BDMAP_00000708/segmentations/liver.nii.gz A distinct cyst and significant detail are noted.
+BDMAP_00008223/ct.nii.gz BDMAP_00008223/segmentations/liver.nii.gz A distinct metastases and significant detail are noted.
+BDMAP_00005253/ct.nii.gz BDMAP_00005253/segmentations/liver.nii.gz well-defined is present, revealing significant detail.
+BDMAP_00008520/ct.nii.gz BDMAP_00008520/segmentations/liver.nii.gz well-defined is present, revealing significant detail.
+BDMAP_00006486/ct.nii.gz BDMAP_00006486/segmentations/liver.nii.gz arterial enhancement is present, revealing significant detail.
+BDMAP_00005728/ct.nii.gz BDMAP_00005728/segmentations/liver.nii.gz hypoattenuating appears, displaying significant detail.
+BDMAP_00001388/ct.nii.gz BDMAP_00001388/segmentations/liver.nii.gz cyst is present, revealing significant detail.
+BDMAP_00008685/ct.nii.gz BDMAP_00008685/segmentations/liver.nii.gz ill-defined is present, revealing significant detail.
+BDMAP_00005636/ct.nii.gz BDMAP_00005636/segmentations/liver.nii.gz There is a notable ill-defined with significant detail.
+BDMAP_00009245/ct.nii.gz BDMAP_00009245/segmentations/liver.nii.gz Observed is a washout, characterized by significant detail.
+BDMAP_00007965/ct.nii.gz BDMAP_00007965/segmentations/liver.nii.gz cyst is present, revealing significant detail.
+BDMAP_00007556/ct.nii.gz BDMAP_00007556/segmentations/liver.nii.gz A distinct hypodensity and significant detail are noted.
+BDMAP_00008222/ct.nii.gz BDMAP_00008222/segmentations/liver.nii.gz Observed is a hypoattenuating, characterized by significant detail.
+BDMAP_00003660/ct.nii.gz BDMAP_00003660/segmentations/liver.nii.gz Observed is a cyst, characterized by significant detail.
+BDMAP_00009179/ct.nii.gz BDMAP_00009179/segmentations/liver.nii.gz There is a notable hyperattenuating with significant detail.
+BDMAP_00006752/ct.nii.gz BDMAP_00006752/segmentations/liver.nii.gz arterial enhancement appears, displaying significant detail.
+BDMAP_00007969/ct.nii.gz BDMAP_00007969/segmentations/liver.nii.gz There is a notable ill-defined with significant detail.
+BDMAP_00006630/ct.nii.gz BDMAP_00006630/segmentations/liver.nii.gz well-defined is present, revealing significant detail.
+BDMAP_00007777/ct.nii.gz BDMAP_00007777/segmentations/liver.nii.gz arterial enhancement appears, displaying significant detail.
+BDMAP_00008894/ct.nii.gz BDMAP_00008894/segmentations/liver.nii.gz Observed is a ill-defined, characterized by significant detail.
+BDMAP_00009207/ct.nii.gz BDMAP_00009207/segmentations/liver.nii.gz cyst is present, revealing significant detail.
+BDMAP_00005666/ct.nii.gz BDMAP_00005666/segmentations/liver.nii.gz Observed is a cirrhosis, characterized by significant detail.
+BDMAP_00005355/ct.nii.gz BDMAP_00005355/segmentations/liver.nii.gz ill-defined appears, displaying significant detail.
+BDMAP_00005536/ct.nii.gz BDMAP_00005536/segmentations/liver.nii.gz A distinct hypoattenuating and significant detail are noted.
+BDMAP_00008364/ct.nii.gz BDMAP_00008364/segmentations/liver.nii.gz washout is present, revealing significant detail.
+BDMAP_00005259/ct.nii.gz BDMAP_00005259/segmentations/liver.nii.gz well-defined is present, revealing significant detail.
+BDMAP_00007558/ct.nii.gz BDMAP_00007558/segmentations/liver.nii.gz well-defined is present, revealing significant detail.
+BDMAP_00006787/ct.nii.gz BDMAP_00006787/segmentations/liver.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00001594/ct.nii.gz BDMAP_00001594/segmentations/liver.nii.gz There is a notable cyst with significant detail.
+BDMAP_00005792/ct.nii.gz BDMAP_00005792/segmentations/liver.nii.gz heterogeneous enhancement is present, revealing significant detail.
+BDMAP_00005760/ct.nii.gz BDMAP_00005760/segmentations/liver.nii.gz There is a notable ill-defined with significant detail.
+BDMAP_00005299/ct.nii.gz BDMAP_00005299/segmentations/liver.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00008061/ct.nii.gz BDMAP_00008061/segmentations/liver.nii.gz hypoattenuating appears, displaying significant detail.
+BDMAP_00007070/ct.nii.gz BDMAP_00007070/segmentations/liver.nii.gz washout appears, displaying significant detail.
+BDMAP_00007457/ct.nii.gz BDMAP_00007457/segmentations/liver.nii.gz arterial enhancement is present, revealing significant detail.
+BDMAP_00007286/ct.nii.gz BDMAP_00007286/segmentations/liver.nii.gz cirrhosis appears, displaying significant detail.
+BDMAP_00002059/ct.nii.gz BDMAP_00002059/segmentations/liver.nii.gz cyst appears, displaying significant detail.
+BDMAP_00008952/ct.nii.gz BDMAP_00008952/segmentations/liver.nii.gz ill-defined appears, displaying significant detail.
+BDMAP_00007737/ct.nii.gz BDMAP_00007737/segmentations/liver.nii.gz There is a notable cyst with significant detail.
+BDMAP_00006264/ct.nii.gz BDMAP_00006264/segmentations/liver.nii.gz cyst is present, revealing significant detail.
+BDMAP_00001337/ct.nii.gz BDMAP_00001337/segmentations/liver.nii.gz Observed is a hypodensity, characterized by significant detail.
+BDMAP_00006160/ct.nii.gz BDMAP_00006160/segmentations/liver.nii.gz Observed is a metastases, characterized by significant detail.
+BDMAP_00002610/ct.nii.gz BDMAP_00002610/segmentations/liver.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00005755/ct.nii.gz BDMAP_00005755/segmentations/liver.nii.gz A distinct washout and significant detail are noted.
+BDMAP_00007661/ct.nii.gz BDMAP_00007661/segmentations/liver.nii.gz Observed is a hyperattenuating, characterized by significant detail.
+BDMAP_00006458/ct.nii.gz BDMAP_00006458/segmentations/liver.nii.gz A distinct arterial enhancement and significant detail are noted.
+BDMAP_00008524/ct.nii.gz BDMAP_00008524/segmentations/liver.nii.gz cirrhosis is present, revealing significant detail.
+BDMAP_00006937/ct.nii.gz BDMAP_00006937/segmentations/liver.nii.gz hyperattenuating is present, revealing significant detail.
+BDMAP_00008538/ct.nii.gz BDMAP_00008538/segmentations/liver.nii.gz A distinct ill-defined and significant detail are noted.
+BDMAP_00008032/ct.nii.gz BDMAP_00008032/segmentations/liver.nii.gz cirrhosis appears, displaying significant detail.
+BDMAP_00006645/ct.nii.gz BDMAP_00006645/segmentations/liver.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00005585/ct.nii.gz BDMAP_00005585/segmentations/liver.nii.gz A distinct cirrhosis and significant detail are noted.
+BDMAP_00008142/ct.nii.gz BDMAP_00008142/segmentations/liver.nii.gz A distinct ill-defined and significant detail are noted.
+BDMAP_00009000/ct.nii.gz BDMAP_00009000/segmentations/liver.nii.gz There is a notable hypoattenuating with significant detail.
+BDMAP_00008624/ct.nii.gz BDMAP_00008624/segmentations/liver.nii.gz Observed is a heterogeneous enhancement, characterized by significant detail.
+BDMAP_00005690/ct.nii.gz BDMAP_00005690/segmentations/liver.nii.gz Observed is a washout, characterized by significant detail.
+BDMAP_00007701/ct.nii.gz BDMAP_00007701/segmentations/liver.nii.gz heterogeneous enhancement appears, displaying significant detail.
+BDMAP_00006903/ct.nii.gz BDMAP_00006903/segmentations/liver.nii.gz Observed is a cyst, characterized by significant detail.
+BDMAP_00005739/ct.nii.gz BDMAP_00005739/segmentations/liver.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00009248/ct.nii.gz BDMAP_00009248/segmentations/liver.nii.gz A distinct cyst and significant detail are noted.
+BDMAP_00005226/ct.nii.gz BDMAP_00005226/segmentations/liver.nii.gz arterial enhancement is present, revealing significant detail.
+BDMAP_00005477/ct.nii.gz BDMAP_00005477/segmentations/liver.nii.gz cirrhosis is present, revealing significant detail.
+BDMAP_00002628/ct.nii.gz BDMAP_00002628/segmentations/liver.nii.gz Observed is a washout, characterized by significant detail.
+BDMAP_00007373/ct.nii.gz BDMAP_00007373/segmentations/liver.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00007278/ct.nii.gz BDMAP_00007278/segmentations/liver.nii.gz hypoattenuating is present, revealing significant detail.
+BDMAP_00008016/ct.nii.gz BDMAP_00008016/segmentations/liver.nii.gz There is a notable arterial enhancement with significant detail.
+BDMAP_00009005/ct.nii.gz BDMAP_00009005/segmentations/liver.nii.gz Observed is a hypoattenuating, characterized by significant detail.
+BDMAP_00006334/ct.nii.gz BDMAP_00006334/segmentations/liver.nii.gz A distinct cyst and significant detail are noted.
+BDMAP_00008954/ct.nii.gz BDMAP_00008954/segmentations/liver.nii.gz hypoattenuating appears, displaying significant detail.
+BDMAP_00007352/ct.nii.gz BDMAP_00007352/segmentations/liver.nii.gz ill-defined appears, displaying significant detail.
+BDMAP_00006364/ct.nii.gz BDMAP_00006364/segmentations/liver.nii.gz ill-defined appears, displaying significant detail.
+BDMAP_00009113/ct.nii.gz BDMAP_00009113/segmentations/liver.nii.gz well-defined is present, revealing significant detail.
+BDMAP_00006035/ct.nii.gz BDMAP_00006035/segmentations/liver.nii.gz A distinct cyst and significant detail are noted.
+BDMAP_00007095/ct.nii.gz BDMAP_00007095/segmentations/liver.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00009066/ct.nii.gz BDMAP_00009066/segmentations/liver.nii.gz heterogeneous enhancement is present, revealing significant detail.
+BDMAP_00005459/ct.nii.gz BDMAP_00005459/segmentations/liver.nii.gz A distinct hypodensity and significant detail are noted.
+BDMAP_00005660/ct.nii.gz BDMAP_00005660/segmentations/liver.nii.gz There is a notable hyperattenuating with significant detail.
+BDMAP_00008297/ct.nii.gz BDMAP_00008297/segmentations/liver.nii.gz Observed is a well-defined, characterized by significant detail.
+BDMAP_00005992/ct.nii.gz BDMAP_00005992/segmentations/liver.nii.gz arterial enhancement appears, displaying significant detail.
+BDMAP_00008931/ct.nii.gz BDMAP_00008931/segmentations/liver.nii.gz Observed is a hyperattenuating, characterized by significant detail.
+BDMAP_00006788/ct.nii.gz BDMAP_00006788/segmentations/liver.nii.gz There is a notable metastases with significant detail.
+BDMAP_00006545/ct.nii.gz BDMAP_00006545/segmentations/liver.nii.gz A distinct cirrhosis and significant detail are noted.
+BDMAP_00005196/ct.nii.gz BDMAP_00005196/segmentations/liver.nii.gz Observed is a hypoattenuating, characterized by significant detail.
+BDMAP_00005358/ct.nii.gz BDMAP_00005358/segmentations/liver.nii.gz Observed is a well-defined, characterized by significant detail.
+BDMAP_00005793/ct.nii.gz BDMAP_00005793/segmentations/liver.nii.gz A distinct metastases and significant detail are noted.
+BDMAP_00007839/ct.nii.gz BDMAP_00007839/segmentations/liver.nii.gz There is a notable ill-defined with significant detail.
+BDMAP_00008864/ct.nii.gz BDMAP_00008864/segmentations/liver.nii.gz washout is present, revealing significant detail.
+BDMAP_00006843/ct.nii.gz BDMAP_00006843/segmentations/liver.nii.gz Observed is a cirrhosis, characterized by significant detail.
+BDMAP_00009185/ct.nii.gz BDMAP_00009185/segmentations/liver.nii.gz A distinct heterogeneous enhancement and significant detail are noted.
+BDMAP_00007908/ct.nii.gz BDMAP_00007908/segmentations/liver.nii.gz hypoattenuating is present, revealing significant detail.
+BDMAP_00006813/ct.nii.gz BDMAP_00006813/segmentations/liver.nii.gz A distinct heterogeneous enhancement and significant detail are noted.
+BDMAP_00006984/ct.nii.gz BDMAP_00006984/segmentations/liver.nii.gz A distinct hypoattenuating and significant detail are noted.
+BDMAP_00008669/ct.nii.gz BDMAP_00008669/segmentations/liver.nii.gz Observed is a well-defined, characterized by significant detail.
+BDMAP_00008887/ct.nii.gz BDMAP_00008887/segmentations/liver.nii.gz hypoattenuating appears, displaying significant detail.
+BDMAP_00004288/ct.nii.gz BDMAP_00004288/segmentations/liver.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00007181/ct.nii.gz BDMAP_00007181/segmentations/liver.nii.gz There is a notable heterogeneous enhancement with significant detail.
+BDMAP_00005379/ct.nii.gz BDMAP_00005379/segmentations/liver.nii.gz A distinct cirrhosis and significant detail are noted.
+BDMAP_00007195/ct.nii.gz BDMAP_00007195/segmentations/liver.nii.gz Observed is a hypodensity, characterized by significant detail.
+BDMAP_00006600/ct.nii.gz BDMAP_00006600/segmentations/liver.nii.gz hypoattenuating is present, revealing significant detail.
+BDMAP_00005357/ct.nii.gz BDMAP_00005357/segmentations/liver.nii.gz A distinct washout and significant detail are noted.
+BDMAP_00006971/ct.nii.gz BDMAP_00006971/segmentations/liver.nii.gz There is a notable hypodensity with significant detail.
+BDMAP_00008614/ct.nii.gz BDMAP_00008614/segmentations/liver.nii.gz Observed is a hypoattenuating, characterized by significant detail.
+BDMAP_00000521/ct.nii.gz BDMAP_00000521/segmentations/liver.nii.gz There is a notable hyperattenuating with significant detail.
+BDMAP_00007927/ct.nii.gz BDMAP_00007927/segmentations/liver.nii.gz A distinct heterogeneous enhancement and significant detail are noted.
+BDMAP_00007523/ct.nii.gz BDMAP_00007523/segmentations/liver.nii.gz There is a notable arterial enhancement with significant detail.
+BDMAP_00005217/ct.nii.gz BDMAP_00005217/segmentations/liver.nii.gz A distinct well-defined and significant detail are noted.
+BDMAP_00008127/ct.nii.gz BDMAP_00008127/segmentations/liver.nii.gz washout appears, displaying significant detail.
+BDMAP_00005844/ct.nii.gz BDMAP_00005844/segmentations/liver.nii.gz A distinct hyperattenuating and significant detail are noted.
+BDMAP_00006723/ct.nii.gz BDMAP_00006723/segmentations/liver.nii.gz Observed is a well-defined, characterized by significant detail.
+BDMAP_00008023/ct.nii.gz BDMAP_00008023/segmentations/liver.nii.gz A distinct cirrhosis and significant detail are noted.
+BDMAP_00007747/ct.nii.gz BDMAP_00007747/segmentations/liver.nii.gz hypoattenuating appears, displaying significant detail.
+BDMAP_00005784/ct.nii.gz BDMAP_00005784/segmentations/liver.nii.gz A distinct hypoattenuating and significant detail are noted.
+BDMAP_00007699/ct.nii.gz BDMAP_00007699/segmentations/liver.nii.gz A distinct ill-defined and significant detail are noted.
+BDMAP_00007734/ct.nii.gz BDMAP_00007734/segmentations/liver.nii.gz hyperattenuating appears, displaying significant detail.
+BDMAP_00008760/ct.nii.gz BDMAP_00008760/segmentations/liver.nii.gz There is a notable cirrhosis with significant detail.
+BDMAP_00006831/ct.nii.gz BDMAP_00006831/segmentations/liver.nii.gz A distinct heterogeneous enhancement and significant detail are noted.
+BDMAP_00007180/ct.nii.gz BDMAP_00007180/segmentations/liver.nii.gz There is a notable metastases with significant detail.
+BDMAP_00007305/ct.nii.gz BDMAP_00007305/segmentations/liver.nii.gz Observed is a washout, characterized by significant detail.
+BDMAP_00007828/ct.nii.gz BDMAP_00007828/segmentations/liver.nii.gz There is a notable cirrhosis with significant detail.
+BDMAP_00005994/ct.nii.gz BDMAP_00005994/segmentations/liver.nii.gz cyst is present, revealing significant detail.
+BDMAP_00006302/ct.nii.gz BDMAP_00006302/segmentations/liver.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00008764/ct.nii.gz BDMAP_00008764/segmentations/liver.nii.gz Observed is a heterogeneous enhancement, characterized by significant detail.
+BDMAP_00005237/ct.nii.gz BDMAP_00005237/segmentations/liver.nii.gz hyperattenuating appears, displaying significant detail.
+BDMAP_00006734/ct.nii.gz BDMAP_00006734/segmentations/liver.nii.gz A distinct hypodensity and significant detail are noted.
+BDMAP_00005488/ct.nii.gz BDMAP_00005488/segmentations/liver.nii.gz A distinct hypodensity and significant detail are noted.
+BDMAP_00009213/ct.nii.gz BDMAP_00009213/segmentations/liver.nii.gz Observed is a ill-defined, characterized by significant detail.
+BDMAP_00007261/ct.nii.gz BDMAP_00007261/segmentations/liver.nii.gz Observed is a hypoattenuating, characterized by significant detail.
+BDMAP_00008352/ct.nii.gz BDMAP_00008352/segmentations/liver.nii.gz ill-defined is present, revealing significant detail.
+BDMAP_00005200/ct.nii.gz BDMAP_00005200/segmentations/liver.nii.gz A distinct metastases and significant detail are noted.
+BDMAP_00008211/ct.nii.gz BDMAP_00008211/segmentations/liver.nii.gz arterial enhancement is present, revealing significant detail.
+BDMAP_00006138/ct.nii.gz BDMAP_00006138/segmentations/liver.nii.gz A distinct ill-defined and significant detail are noted.
+BDMAP_00006273/ct.nii.gz BDMAP_00006273/segmentations/liver.nii.gz Observed is a hypodensity, characterized by significant detail.
+BDMAP_00008262/ct.nii.gz BDMAP_00008262/segmentations/liver.nii.gz hypodensity appears, displaying significant detail.
+BDMAP_00007766/ct.nii.gz BDMAP_00007766/segmentations/liver.nii.gz cirrhosis appears, displaying significant detail.
+BDMAP_00007155/ct.nii.gz BDMAP_00007155/segmentations/liver.nii.gz Observed is a ill-defined, characterized by significant detail.
+BDMAP_00001526/ct.nii.gz BDMAP_00001526/segmentations/liver.nii.gz There is a notable cyst with significant detail.
+BDMAP_00007684/ct.nii.gz BDMAP_00007684/segmentations/liver.nii.gz cirrhosis is present, revealing significant detail.
+BDMAP_00008899/ct.nii.gz BDMAP_00008899/segmentations/liver.nii.gz hypodensity is present, revealing significant detail.
+BDMAP_00007697/ct.nii.gz BDMAP_00007697/segmentations/liver.nii.gz A distinct hyperattenuating and significant detail are noted.
+BDMAP_00006079/ct.nii.gz BDMAP_00006079/segmentations/liver.nii.gz Observed is a ill-defined, characterized by significant detail.
+BDMAP_00005544/ct.nii.gz BDMAP_00005544/segmentations/liver.nii.gz There is a notable washout with significant detail.
+BDMAP_00006084/ct.nii.gz BDMAP_00006084/segmentations/liver.nii.gz A distinct hyperattenuating and significant detail are noted.
+BDMAP_00006530/ct.nii.gz BDMAP_00006530/segmentations/liver.nii.gz Observed is a hypoattenuating, characterized by significant detail.
+BDMAP_00007639/ct.nii.gz BDMAP_00007639/segmentations/liver.nii.gz A distinct hypoattenuating and significant detail are noted.
+BDMAP_00006559/ct.nii.gz BDMAP_00006559/segmentations/liver.nii.gz A distinct ill-defined and significant detail are noted.
+BDMAP_00007290/ct.nii.gz BDMAP_00007290/segmentations/liver.nii.gz A distinct well-defined and significant detail are noted.
+BDMAP_00006708/ct.nii.gz BDMAP_00006708/segmentations/liver.nii.gz hypoattenuating is present, revealing significant detail.
+BDMAP_00008533/ct.nii.gz BDMAP_00008533/segmentations/liver.nii.gz A distinct washout and significant detail are noted.
+BDMAP_00006865/ct.nii.gz BDMAP_00006865/segmentations/liver.nii.gz A distinct hypoattenuating and significant detail are noted.
+BDMAP_00006024/ct.nii.gz BDMAP_00006024/segmentations/liver.nii.gz Observed is a well-defined, characterized by significant detail.
+BDMAP_00008092/ct.nii.gz BDMAP_00008092/segmentations/liver.nii.gz A distinct arterial enhancement and significant detail are noted.
+BDMAP_00006343/ct.nii.gz BDMAP_00006343/segmentations/liver.nii.gz There is a notable well-defined with significant detail.
+BDMAP_00009230/ct.nii.gz BDMAP_00009230/segmentations/liver.nii.gz There is a notable cirrhosis with significant detail.
+BDMAP_00006120/ct.nii.gz BDMAP_00006120/segmentations/liver.nii.gz A distinct cyst and significant detail are noted.
+BDMAP_00006696/ct.nii.gz BDMAP_00006696/segmentations/liver.nii.gz Observed is a cirrhosis, characterized by significant detail.
+BDMAP_00006317/ct.nii.gz BDMAP_00006317/segmentations/liver.nii.gz cirrhosis is present, revealing significant detail.
+BDMAP_00006606/ct.nii.gz BDMAP_00006606/segmentations/liver.nii.gz There is a notable hypodensity with significant detail.
+BDMAP_00006570/ct.nii.gz BDMAP_00006570/segmentations/liver.nii.gz hypoattenuating is present, revealing significant detail.
+BDMAP_00008005/ct.nii.gz BDMAP_00008005/segmentations/liver.nii.gz Observed is a arterial enhancement, characterized by significant detail.
+BDMAP_00007059/ct.nii.gz BDMAP_00007059/segmentations/liver.nii.gz Observed is a cyst, characterized by significant detail.
+BDMAP_00006470/ct.nii.gz BDMAP_00006470/segmentations/liver.nii.gz hypodensity is present, revealing significant detail.
+BDMAP_00006690/ct.nii.gz BDMAP_00006690/segmentations/liver.nii.gz Observed is a metastases, characterized by significant detail.
+BDMAP_00008055/ct.nii.gz BDMAP_00008055/segmentations/liver.nii.gz well-defined appears, displaying significant detail.
+BDMAP_00006603/ct.nii.gz BDMAP_00006603/segmentations/liver.nii.gz ill-defined is present, revealing significant detail.
+BDMAP_00007541/ct.nii.gz BDMAP_00007541/segmentations/liver.nii.gz A distinct cirrhosis and significant detail are noted.
