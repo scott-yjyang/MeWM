@@ -1,4 +1,28 @@
 # Medical World Model
+<div align="center">
+<br>
+<h3>Medical World Model: Generative Simulation of Tumor Evolution for Treatment Planning</h3>
+
+[Yijun Yang](https://yijun-yang.github.io/)<sup>1</sup>&nbsp;
+[Zhao-Yang Wang](https://scholar.google.com/citations?hl=zh-CN&user=L_4sVVYAAAAJ)<sup>2</sup>&nbsp;
+Qiuping Liu<sup>3</sup>&nbsp;
+Shuwen Sun<sup>3</sup>&nbsp;
+Kang Wang<sup>4</sup>&nbsp;
+[Rama Chellappa](https://scholar.google.com/citations?user=L60tuywAAAAJ&hl=zh-CN&oi=ao)<sup>2</sup>&nbsp;
+[Zongwei Zhou](https://scholar.google.com/citations?user=JVOeczAAAAAJ&hl=zh-CN&oi=ao)<sup>2</sup>&nbsp;
+[Alan Yuille](https://scholar.google.com/citations?user=FJ-huxgAAAAJ&hl=zh-CN)<sup>2</sup>&nbsp;
+[Lei Zhu](https://sites.google.com/site/indexlzhu/home)<sup>1,5</sup>&nbsp;
+Yu-Dong Zhang<sup>3</sup>&nbsp;
+[Jieneng Chen](https://beckschen.github.io/)<sup>2</sup>&nbsp;
+
+<sup>1</sup> The Hong Kong University of Science and Technology (Guangzhou) &nbsp; <sup>2</sup> Johns Hopkins University &nbsp; <sup>3</sup> The First Affiliated Hospital of Nanjing Medical University &nbsp; <sup>4</sup> University of California, San Francisco &nbsp; <sup>5</sup> The Hong Kong University of Science and Technology &nbsp;
+ 
+[![ArXiv](https://img.shields.io/badge/ArXiv-<2503.00741>-<COLOR>.svg)](https://arxiv.org/pdf/2503.00741) 
+  
+</div>
+
+To do list:
+- How to use. (Coming soon!)
 ## [<a href="https://yijun-yang.github.io/MeWM/" target="_blank">Project Page</a>]
 
 [//]: # (### Abstract)
@@ -12,9 +36,6 @@ Simultaneously, its inverse dynamics model outperforms medical-specialized GPTs 
 Notably, MeWM improves clinical decision-making for interventional physicians, boosting F1-score in selecting the optimal TACE protocol by 13\%, paving the way for future integration of medical world models as the second readers.
 
 For more info see the [project webpage](https://yijun-yang.github.io/MeWM/).
-
-## Code
-
 
 
 ## Data
