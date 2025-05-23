@@ -22,7 +22,7 @@ Yu-Dong Zhang<sup>3</sup>&nbsp;
 </div>
 
 To do list:
-- How to use. (Coming soon!)
+- This project is quickly updated.
 ## [<a href="https://yijun-yang.github.io/MeWM/" target="_blank">Project Page</a>]
 
 [//]: # (### Abstract)
