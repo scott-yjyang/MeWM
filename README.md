@@ -37,6 +37,16 @@ Notably, MeWM improves clinical decision-making for interventional physicians, b
 
 For more info see the [project webpage](https://yijun-yang.github.io/MeWM/).
 
+## ⚙️ Requirements
+Create a virtual environment using the following command:
+
+```bash
+conda create -n MeWM python=3.8
+source activate MeWM # or conda activate MeWM
+pip install torch==1.12.1+cu113 torchvision==0.13.1+cu113 torchaudio==0.12.1 --extra-index-url https://download.pytorch.org/whl/cu113
+pip install -r requirements.txt
+```
+
 
 ## Data
 
