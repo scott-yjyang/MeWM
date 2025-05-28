@@ -49,3 +49,14 @@ python mewm.py
 ## Data
 
 The raw public dataset could be found at [TCIA](https://www.cancerimagingarchive.net/collection/hcc-tace-seg/).
+
+
+## Citation
+
+
+
+
+## Acknowledgement
+[DiffTumor](https://github.com/MrGiovanni/DiffTumor) [TextoMorph](https://github.com/MrGiovanni/TextoMorph)
+
+
