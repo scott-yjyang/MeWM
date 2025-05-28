@@ -48,4 +48,4 @@ python mewm.py
 
 ## Data
 
-The raw public dataset could be found at [TCGA](https://www.cancerimagingarchive.net/collection/hcc-tace-seg/).
+The raw public dataset could be found at [TCIA](https://www.cancerimagingarchive.net/collection/hcc-tace-seg/).
