@@ -5,14 +5,14 @@
 
 [Yijun Yang](https://yijun-yang.github.io/)<sup>1</sup>&nbsp;
 [Zhao-Yang Wang](https://scholar.google.com/citations?hl=zh-CN&user=L_4sVVYAAAAJ)<sup>2</sup>&nbsp;
-Qiuping Liu<sup>3</sup>&nbsp;
-Shuwen Sun<sup>3</sup>&nbsp;
-Kang Wang<sup>4</sup>&nbsp;
+[Qiuping Liu](https://github.com/scott-yjyang/MeWM)<sup>3</sup>&nbsp;
+[Shuwen Sun](https://github.com/scott-yjyang/MeWM)<sup>3</sup>&nbsp;
+[Kang Wang](https://github.com/scott-yjyang/MeWM)<sup>4</sup>&nbsp;
 [Rama Chellappa](https://scholar.google.com/citations?user=L60tuywAAAAJ&hl=zh-CN&oi=ao)<sup>2</sup>&nbsp;
 [Zongwei Zhou](https://scholar.google.com/citations?user=JVOeczAAAAAJ&hl=zh-CN&oi=ao)<sup>2</sup>&nbsp;
 [Alan Yuille](https://scholar.google.com/citations?user=FJ-huxgAAAAJ&hl=zh-CN)<sup>2</sup>&nbsp;
 [Lei Zhu](https://sites.google.com/site/indexlzhu/home)<sup>1,5</sup>&nbsp;
-Yu-Dong Zhang<sup>3</sup>&nbsp;
+[Yu-Dong Zhang](https://github.com/scott-yjyang/MeWM)<sup>3</sup>&nbsp;
 [Jieneng Chen](https://beckschen.github.io/)<sup>2</sup>&nbsp;
 
 <sup>1</sup> The Hong Kong University of Science and Technology (Guangzhou) &nbsp; <sup>2</sup> Johns Hopkins University &nbsp; <sup>3</sup> The First Affiliated Hospital of Nanjing Medical University &nbsp; <sup>4</sup> University of California, San Francisco &nbsp; <sup>5</sup> The Hong Kong University of Science and Technology &nbsp;
