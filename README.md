@@ -42,7 +42,7 @@ For more info see the [project webpage](https://yijun-yang.github.io/MeWM/).
 Treatment Planning Inference:
 
 ```bash
-python mewm.py
+python example.py
 ```
 
 
