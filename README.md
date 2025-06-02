@@ -21,8 +21,7 @@
   
 </div>
 
-To do list:
-- This project is quickly updated.
+
 ## [<a href="https://yijun-yang.github.io/MeWM/" target="_blank">Project Page</a>]
 
 [//]: # (### Abstract)
@@ -36,6 +35,11 @@ Simultaneously, its inverse dynamics model outperforms medical-specialized GPTs 
 Notably, MeWM improves clinical decision-making for interventional physicians, boosting F1-score in selecting the optimal TACE protocol by 13\%, paving the way for future integration of medical world models as the second readers.
 
 For more info see the [project webpage](https://yijun-yang.github.io/MeWM/).
+
+## Todo List
+
+- [x] Release the technical report
+- [ ] Inference
 
 
 ## Inference
