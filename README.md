@@ -36,10 +36,6 @@ Notably, MeWM improves clinical decision-making for interventional physicians, b
 
 For more info see the [project webpage](https://yijun-yang.github.io/MeWM/).
 
-## Todo List
-
-- [x] Release the technical report
-- [ ] Inference
 
 
 ## Inference
