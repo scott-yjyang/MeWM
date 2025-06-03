@@ -207,8 +207,8 @@ def get_fixed_geo(mask_scan, tumor_type, organ_type):
 from hydra.core.global_hydra import GlobalHydra
 
 def synt_model_prepare(device, cfg):
-    vqgan_ckpt = f'/home/yyang303/project/TextoMorph/Diffusion/pretrained_models/AutoencoderModel.ckpt'
-    diffusion_ckpt = f'/home/yyang303/project/TextoMorph/Diffusion/checkpoints_sota3/ddpm/liver_tumor/liver/best_model.pt'
+    vqgan_ckpt = f'Synthesis/Diffusion/pretrained_models/AutoencoderModel.ckpt'
+    diffusion_ckpt = f'Synthesis/Diffusion/checkpoints/ddpm/liver_tumor/liver/best_model.pt'
     GlobalHydra.instance().clear()
     with initialize(config_path="diffusion_config/", version_base="1.1"):
         cfg = compose(config_name="ddpm.yaml")
