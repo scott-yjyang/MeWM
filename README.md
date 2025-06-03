@@ -55,7 +55,7 @@ The raw public dataset could be found at [TCIA](https://www.cancerimagingarchive
 
 
 ## Acknowledgement
-The code is developed based on [DiffTumor](https://github.com/MrGiovanni/DiffTumor), [TextoMorph](https://github.com/MrGiovanni/TextoMorph).
+The code is developed upon [DiffTumor](https://github.com/MrGiovanni/DiffTumor), [TextoMorph](https://github.com/MrGiovanni/TextoMorph).
 
 
 
