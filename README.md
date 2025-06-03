@@ -38,8 +38,8 @@ For more info see the [project webpage](https://yijun-yang.github.io/MeWM/).
 
 ## 🔥 Latest News
 
-* June 4, 2025: 👋 We release the CodeBase of **MeWM** 
-* June 4, 2025: 👋 We release the Technique-Report of **MeWM** 
+* June 4, 2025: 👋 We release the Codebase of **MeWM** 
+* June 4, 2025: 👋 We release the arXiv manuscript of **MeWM** 
 * June 4, 2025: 👋 We release the project page of **MeWM** 
 
 
