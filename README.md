@@ -45,11 +45,7 @@ For more info see the [project webpage](https://yijun-yang.github.io/MeWM/).
 
 
 ## Inference
-Example of Treatment Planning Inference:
-
-```bash
-python example.py
-```
+TODO
 
 
 ## Data
