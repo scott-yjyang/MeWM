@@ -15,7 +15,7 @@
 [Yu-Dong Zhang](https://github.com/scott-yjyang/MeWM)<sup>3</sup>&nbsp;
 [Jieneng Chen](https://beckschen.github.io/)<sup>2</sup>&nbsp;
 
-<sup>1</sup> The Hong Kong University of Science and Technology (Guangzhou) &nbsp; <sup>2</sup> Johns Hopkins University &nbsp; <sup>3</sup> The First Affiliated Hospital of Nanjing Medical University &nbsp; <sup>4</sup> University of California, San Francisco &nbsp; <sup>5</sup> The Hong Kong University of Science and Technology 
+<sup>1</sup> The Hong Kong University of Science and Technology (Guangzhou) &nbsp; <sup>2</sup> Johns Hopkins University &nbsp; <sup>3</sup> The First Affiliated Hospital of Nanjing Medical University &nbsp; <sup>4</sup> University of California, San Francisco <br> <sup>5</sup> The Hong Kong University of Science and Technology 
  
 [![ArXiv](https://img.shields.io/badge/ArXiv-<2503.xx>-<COLOR>.svg)](https://arxiv.org/pdf/2503.xx) 
   
