@@ -11,11 +11,11 @@
 [Rama Chellappa](https://scholar.google.com/citations?user=L60tuywAAAAJ&hl=zh-CN&oi=ao)<sup>2</sup>&nbsp;
 [Zongwei Zhou](https://scholar.google.com/citations?user=JVOeczAAAAAJ&hl=zh-CN&oi=ao)<sup>2</sup><br>
 [Alan Yuille](https://scholar.google.com/citations?user=FJ-huxgAAAAJ&hl=zh-CN)<sup>2</sup>&nbsp;
-[Lei Zhu](https://sites.google.com/site/indexlzhu/home)<sup>1,5,†</sup>&nbsp;
+[Lei Zhu](https://sites.google.com/site/indexlzhu/home)<sup>1,5</sup>&nbsp;
 [Yu-Dong Zhang](https://github.com/scott-yjyang/MeWM)<sup>3</sup>&nbsp;
-[Jieneng Chen](https://beckschen.github.io/)<sup>2,†</sup>&nbsp;
+[Jieneng Chen](https://beckschen.github.io/)<sup>2</sup>&nbsp;
 
-<sup>1</sup> The Hong Kong University of Science and Technology (Guangzhou) &nbsp; <sup>2</sup> Johns Hopkins University &nbsp; <sup>3</sup> The First Affiliated Hospital of Nanjing Medical University &nbsp; <sup>4</sup> University of California, San Francisco &nbsp; <sup>5</sup> The Hong Kong University of Science and Technology <br> <sup>†</sup> Corresponding Authors
+<sup>1</sup> The Hong Kong University of Science and Technology (Guangzhou) &nbsp; <sup>2</sup> Johns Hopkins University &nbsp; <sup>3</sup> The First Affiliated Hospital of Nanjing Medical University &nbsp; <sup>4</sup> University of California, San Francisco &nbsp; <sup>5</sup> The Hong Kong University of Science and Technology 
  
 [![ArXiv](https://img.shields.io/badge/ArXiv-<2503.xx>-<COLOR>.svg)](https://arxiv.org/pdf/2503.xx) 
   
@@ -53,7 +53,7 @@ The raw public dataset could be found at [TCIA](https://www.cancerimagingarchive
 
 
 ## Acknowledgement
-The code is developed upon [DiffTumor](https://github.com/MrGiovanni/DiffTumor), [TextoMorph](https://github.com/MrGiovanni/TextoMorph).
+The code is developed upon [DiffTumor](https://github.com/MrGiovanni/DiffTumor), [TextoMorph](https://github.com/MrGiovanni/TextoMorph). If you have issues with code and paper content, please contact [Yijun Yang](https://yijun-yang.github.io/).
 
 
 
