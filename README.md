@@ -44,10 +44,6 @@ For more info see the [project webpage](https://yijun-yang.github.io/MeWM/).
 
 
 
-## Inference
-TODO
-
-
 ## Data
 
 The raw public dataset could be found at [TCIA](https://www.cancerimagingarchive.net/collection/hcc-tace-seg/).
