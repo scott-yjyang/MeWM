@@ -17,7 +17,7 @@
 
 <sup>1</sup> The Hong Kong University of Science and Technology (Guangzhou) &nbsp; <sup>2</sup> Johns Hopkins University &nbsp; <sup>3</sup> The First Affiliated Hospital of Nanjing Medical University &nbsp; <sup>4</sup> University of California, San Francisco <br> <sup>5</sup> The Hong Kong University of Science and Technology 
  
-[![ArXiv](https://img.shields.io/badge/ArXiv-<2503.xx>-<COLOR>.svg)](https://arxiv.org/pdf/2503.xx) 
+[![ArXiv](https://img.shields.io/badge/ArXiv-<2506.02327>-<COLOR>.svg)](https://arxiv.org/abs/2506.02327) 
   
 </div>
 
