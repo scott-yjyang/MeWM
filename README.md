@@ -43,11 +43,19 @@ For more info see the [project webpage](https://yijun-yang.github.io/MeWM/).
 * June 3, 2025: 👋 We release the arXiv manuscript of **MeWM** 
 * June 3, 2025: 👋 We release the project page of **MeWM** 
 
+## Inference
+
+Example of Treatment Planning Inference:
+
+```
+python example.py
+```
 
 
 ## Data
 
 The raw public dataset could be found at [TCIA](https://www.cancerimagingarchive.net/collection/hcc-tace-seg/).
+
 
 
 ## Citation
@@ -56,6 +64,8 @@ The raw public dataset could be found at [TCIA](https://www.cancerimagingarchive
 ## Acknowledgement
 The code is developed upon [DiffTumor](https://github.com/MrGiovanni/DiffTumor), [TextoMorph](https://github.com/MrGiovanni/TextoMorph). If you have issues with code and paper content, please contact [Yijun Yang](https://yijun-yang.github.io/).
 
+## License
+The code and paper content are licensed under Creative Commons Attribution-NonCommercial 4.0 International. Please see [`LICENSE.md`](LICENSE.md) for details.
 
 
 
