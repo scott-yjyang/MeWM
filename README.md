@@ -59,6 +59,17 @@ The raw public dataset could be found at [TCIA](https://www.cancerimagingarchive
 
 
 ## Citation
+If you find it help, please cite and star this project. 😊
+
+```
+@article{yang2025mewm,
+  title={Medical World Model: Generative Simulation of Tumor Evolution for Treatment Planning},
+  author={Yijun Yang and Zhao-Yang Wang and Qiuping Liu and Shuwen Sun and Kang Wang and 
+      Rama Chellappa and Zongwei Zhou and Alan Yuille and Lei Zhu and Yu-Dong Zhang and Jieneng Chen},
+  journal={arXiv preprint arXiv:2506.02327},
+  year={2025}
+}
+```
 
 
 ## Acknowledgement
