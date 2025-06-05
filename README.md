@@ -16,8 +16,11 @@
 [Jieneng Chen](https://beckschen.github.io/)<sup>2</sup>&nbsp;
 
 <sup>1</sup> The Hong Kong University of Science and Technology (Guangzhou) &nbsp; <sup>2</sup> Johns Hopkins University &nbsp; <sup>3</sup> The First Affiliated Hospital of Nanjing Medical University &nbsp; <sup>4</sup> University of California, San Francisco <br> <sup>5</sup> The Hong Kong University of Science and Technology 
- 
-[![ArXiv](https://img.shields.io/badge/ArXiv-<2506.02327>-<COLOR>.svg)](https://arxiv.org/abs/2506.02327) 
+
+<p align="center">
+  <a href="https://yijun-yang.github.io/MeWM/"><img src="https://img.shields.io/badge/project-page-brightgreen" alt="Project Page"></a>
+  <a href="https://arxiv.org/abs/2506.02327"><img src="https://img.shields.io/badge/ArXiv-<2506.02327>-<COLOR>.svg" alt="arXiv"></a>
+ <p align="center">
   
 </div>
 
