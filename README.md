@@ -1,7 +1,7 @@
 # Medical World Model
 <div align="center">
 <br>
-<h3>Medical World Model: Generative Simulation of Tumor Evolution for Treatment Planning</h3>
+<h3>[ICCV 2025] Medical World Model: Generative Simulation of Tumor Evolution for Treatment Planning</h3>
 
 [Yijun Yang](https://yijun-yang.github.io/)<sup>1</sup>&nbsp;
 [Zhao-Yang Wang](https://scholar.google.com/citations?hl=zh-CN&user=L_4sVVYAAAAJ)<sup>2</sup>&nbsp;
