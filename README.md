@@ -79,6 +79,8 @@ If you find it help, please cite and star this project. 😊
 ## Acknowledgement
 The code is developed upon [DiffTumor](https://github.com/MrGiovanni/DiffTumor), [TextoMorph](https://github.com/MrGiovanni/TextoMorph). If you have issues with code and paper content, please contact [Yijun Yang](https://yijun-yang.github.io/).
 
+This project is under CC BY-NC 2.0. All Copyright © [Yijun Yang](https://yijun-yang.github.io/).
+
 ## License
 The code and paper content are licensed under Creative Commons Attribution-NonCommercial 4.0 International. Please see [`LICENSE.md`](LICENSE.md) for details.
 
