@@ -38,6 +38,7 @@ Building on this, we propose the inverse dynamics model that applies survival an
 Simultaneously, its inverse dynamics model outperforms medical-specialized GPTs in optimizing individualized treatment protocols across all metrics.
 Notably, MeWM improves clinical decision-making for interventional physicians, boosting F1-score in selecting the optimal TACE protocol by 13\%, paving the way for future integration of medical world models as the second readers.
 
+
 For more info see the [project webpage](https://yijun-yang.github.io/MeWM/).
 
 ## 🔥 Latest News
