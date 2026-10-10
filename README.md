@@ -61,7 +61,7 @@ python example.py
 
 The raw public dataset could be found at [TCIA](https://www.cancerimagingarchive.net/collection/hcc-tace-seg/).
 
-
+The additional checkpoints for inference could be found at [ckpt](https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/jchen293_jh_edu/IgCknsOkfCTOSrfYMZ_Ctl7HAXMnlCAhCIswEMBBUChFUK4?e=0S5nzU)
 
 ## Citation
 If you find it help, please cite and star this project. 😊
